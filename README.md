@@ -1,13 +1,10 @@
-# MCD
-Repositorio de la Maestria en Ciencia de Datos
 
-# Título del Proyecto
 
-Nombre autoexplicativo del proyecto, con una breve descripción.
+# Repositorio de trabajo para la maestría de Ciencia de Datos
 
 ## Descripción
 
-Una descripción más detallada y técnica del proyecto, incluyendo sus principales características, su propósito y cómo funciona.
+Se crea este repositorio con el fin de alojar los archivos de trabajo y proyectos desarrollados durante las distintas clases de la maestría.  
 
 ## Insignias
 
