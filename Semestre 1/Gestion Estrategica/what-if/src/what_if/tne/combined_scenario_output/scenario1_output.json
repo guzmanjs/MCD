@@ -1,0 +1,200 @@
+[
+    {
+        "Algorithm": "Genetic Algorithm",
+        "Recommendations": 1,
+        "Optimal_Destination": "San Francisco",
+        "Overall Cost": 8636,
+        "Details": [
+            {
+                "Origin": "Los Angeles",
+                "Destination": "San Francisco",
+                "Travel Date": "2024-03-12",
+                "No. Travelers": 8,
+                "Max_nights": 0,
+                "Return Date": "2024-03-15",
+                "Flight Rate": 54,
+                "Flight Cost": 432,
+                "Return Flight Rate": 56,
+                "Return Flight Cost": 448,
+                "Hotel Cost": 4144,
+                "Hotel cost per person": 518,
+                "Hotel Rates": [
+                    {
+                        "Date": "2024-03-12",
+                        "Night Price($)": 202
+                    },
+                    {
+                        "Date": "2024-03-13",
+                        "Night Price($)": 162
+                    },
+                    {
+                        "Date": "2024-03-14",
+                        "Night Price($)": 154
+                    }
+                ],
+                "Trip Cost": 5024
+            },
+            {
+                "Origin": "NYC",
+                "Destination": "San Francisco",
+                "Travel Date": "2024-03-12",
+                "No. Travelers": 4,
+                "Max_nights": 0,
+                "Return Date": "2024-03-15",
+                "Flight Rate": 180,
+                "Flight Cost": 720,
+                "Return Flight Rate": 205,
+                "Return Flight Cost": 820,
+                "Hotel Cost": 2072,
+                "Hotel cost per person": 518,
+                "Hotel Rates": [
+                    {
+                        "Date": "2024-03-12",
+                        "Night Price($)": 202
+                    },
+                    {
+                        "Date": "2024-03-13",
+                        "Night Price($)": 162
+                    },
+                    {
+                        "Date": "2024-03-14",
+                        "Night Price($)": 154
+                    }
+                ],
+                "Trip Cost": 3612
+            }
+        ]
+    },
+    {
+        "Algorithm": "Genetic Algorithm",
+        "Recommendations": 2,
+        "Optimal_Destination": "Chicago",
+        "Overall Cost": 8996,
+        "Details": [
+            {
+                "Origin": "Los Angeles",
+                "Destination": "Chicago",
+                "Travel Date": "2024-03-12",
+                "No. Travelers": 8,
+                "Max_nights": 0,
+                "Return Date": "2024-03-15",
+                "Flight Rate": 86,
+                "Flight Cost": 688,
+                "Return Flight Rate": 176,
+                "Return Flight Cost": 1408,
+                "Hotel Cost": 3912,
+                "Hotel cost per person": 489,
+                "Hotel Rates": [
+                    {
+                        "Date": "2024-03-12",
+                        "Night Price($)": 148
+                    },
+                    {
+                        "Date": "2024-03-13",
+                        "Night Price($)": 194
+                    },
+                    {
+                        "Date": "2024-03-14",
+                        "Night Price($)": 147
+                    }
+                ],
+                "Trip Cost": 6008
+            },
+            {
+                "Origin": "NYC",
+                "Destination": "Chicago",
+                "Travel Date": "2024-03-12",
+                "No. Travelers": 4,
+                "Max_nights": 0,
+                "Return Date": "2024-03-15",
+                "Flight Rate": 149,
+                "Flight Cost": 596,
+                "Return Flight Rate": 109,
+                "Return Flight Cost": 436,
+                "Hotel Cost": 1956,
+                "Hotel cost per person": 489,
+                "Hotel Rates": [
+                    {
+                        "Date": "2024-03-12",
+                        "Night Price($)": 148
+                    },
+                    {
+                        "Date": "2024-03-13",
+                        "Night Price($)": 194
+                    },
+                    {
+                        "Date": "2024-03-14",
+                        "Night Price($)": 147
+                    }
+                ],
+                "Trip Cost": 2988
+            }
+        ]
+    },
+    {
+        "Algorithm": "Genetic Algorithm",
+        "Recommendations": 3,
+        "Optimal_Destination": "Seattle",
+        "Overall Cost": 11356,
+        "Details": [
+            {
+                "Origin": "Los Angeles",
+                "Destination": "Seattle",
+                "Travel Date": "2024-03-12",
+                "No. Travelers": 8,
+                "Max_nights": 0,
+                "Return Date": "2024-03-15",
+                "Flight Rate": 129,
+                "Flight Cost": 1032,
+                "Return Flight Rate": 86,
+                "Return Flight Cost": 688,
+                "Hotel Cost": 5032,
+                "Hotel cost per person": 629,
+                "Hotel Rates": [
+                    {
+                        "Date": "2024-03-12",
+                        "Night Price($)": 268
+                    },
+                    {
+                        "Date": "2024-03-13",
+                        "Night Price($)": 175
+                    },
+                    {
+                        "Date": "2024-03-14",
+                        "Night Price($)": 186
+                    }
+                ],
+                "Trip Cost": 6752
+            },
+            {
+                "Origin": "NYC",
+                "Destination": "Seattle",
+                "Travel Date": "2024-03-12",
+                "No. Travelers": 4,
+                "Max_nights": 0,
+                "Return Date": "2024-03-15",
+                "Flight Rate": 276,
+                "Flight Cost": 1104,
+                "Return Flight Rate": 246,
+                "Return Flight Cost": 984,
+                "Hotel Cost": 2516,
+                "Hotel cost per person": 629,
+                "Hotel Rates": [
+                    {
+                        "Date": "2024-03-12",
+                        "Night Price($)": 268
+                    },
+                    {
+                        "Date": "2024-03-13",
+                        "Night Price($)": 175
+                    },
+                    {
+                        "Date": "2024-03-14",
+                        "Night Price($)": 186
+                    }
+                ],
+                "Trip Cost": 4604
+            }
+        ]
+    }
+]

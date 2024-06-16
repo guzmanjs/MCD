@@ -1,0 +1,1438 @@
+Date,Hotel Name,Stars,Destination,Address,Amenities,Night Price($)
+1/1/2024,Null,4,Los Angeles,Null,Null,273
+2/1/2024,Null,4,Los Angeles,Null,Null,205
+3/1/2024,Null,4,Los Angeles,Null,Null,228
+4/1/2024,Null,4,Los Angeles,Null,Null,205
+5/1/2024,Null,4,Los Angeles,Null,Null,181
+6/1/2024,Null,4,Los Angeles,Null,Null,224
+7/1/2024,Null,4,Los Angeles,Null,Null,267
+8/1/2024,Null,4,Los Angeles,Null,Null,233
+9/1/2024,Null,4,Los Angeles,Null,Null,244
+10/1/2024,Null,4,Los Angeles,Null,Null,234
+11/1/2024,Null,4,Los Angeles,Null,Null,271
+12/1/2024,Null,4,Los Angeles,Null,Null,229
+13-01-2024,Null,4,Los Angeles,Null,Null,320
+14-01-2024,Null,4,Los Angeles,Null,Null,327
+15-01-2024,Null,4,Los Angeles,Null,Null,266
+16-01-2024,Null,4,Los Angeles,Null,Null,265
+17-01-2024,Null,4,Los Angeles,Null,Null,222
+18-01-2024,Null,4,Los Angeles,Null,Null,202
+19-01-2024,Null,4,Los Angeles,Null,Null,223
+20-01-2024,Null,4,Los Angeles,Null,Null,281
+21-01-2024,Null,4,Los Angeles,Null,Null,325
+22-01-2024,Null,4,Los Angeles,Null,Null,272
+23-01-2024,Null,4,Los Angeles,Null,Null,210
+24-01-2024,Null,4,Los Angeles,Null,Null,252
+25-01-2024,Null,4,Los Angeles,Null,Null,226
+26-01-2024,Null,4,Los Angeles,Null,Null,256
+27-01-2024,Null,4,Los Angeles,Null,Null,327
+28-01-2024,Null,4,Los Angeles,Null,Null,274
+29-01-2024,Null,4,Los Angeles,Null,Null,198
+30-01-2024,Null,4,Los Angeles,Null,Null,268
+31-01-2024,Null,4,Los Angeles,Null,Null,279
+1/1/2024,Null,5,Los Angeles,Null,Null,1575
+2/1/2024,Null,5,Los Angeles,Null,Null,834
+3/1/2024,Null,5,Los Angeles,Null,Null,841
+4/1/2024,Null,5,Los Angeles,Null,Null,584
+5/1/2024,Null,5,Los Angeles,Null,Null,2990
+6/1/2024,Null,5,Los Angeles,Null,Null,1340
+7/1/2024,Null,5,Los Angeles,Null,Null,2999
+8/1/2024,Null,5,Los Angeles,Null,Null,1010
+9/1/2024,Null,5,Los Angeles,Null,Null,2942
+10/1/2024,Null,5,Los Angeles,Null,Null,2862
+11/1/2024,Null,5,Los Angeles,Null,Null,2967
+12/1/2024,Null,5,Los Angeles,Null,Null,3124
+13-01-2024,Null,5,Los Angeles,Null,Null,1751
+14-01-2024,Null,5,Los Angeles,Null,Null,1479
+15-01-2024,Null,5,Los Angeles,Null,Null,547
+16-01-2024,Null,5,Los Angeles,Null,Null,2866
+17-01-2024,Null,5,Los Angeles,Null,Null,2948
+18-01-2024,Null,5,Los Angeles,Null,Null,1447
+19-01-2024,Null,5,Los Angeles,Null,Null,2327
+20-01-2024,Null,5,Los Angeles,Null,Null,1521
+21-01-2024,Null,5,Los Angeles,Null,Null,2366
+22-01-2024,Null,5,Los Angeles,Null,Null,1021
+23-01-2024,Null,5,Los Angeles,Null,Null,1270
+24-01-2024,Null,5,Los Angeles,Null,Null,1286
+25-01-2024,Null,5,Los Angeles,Null,Null,2980
+26-01-2024,Null,5,Los Angeles,Null,Null,900
+27-01-2024,Null,5,Los Angeles,Null,Null,2838
+28-01-2024,Null,5,Los Angeles,Null,Null,1508
+29-01-2024,Null,5,Los Angeles,Null,Null,2991
+30-01-2024,Null,5,Los Angeles,Null,Null,1325
+31-01-2024,Null,5,Los Angeles,Null,Null,447
+1/1/2024,Null,4,San Francisco,Null,Null,228
+2/1/2024,Null,4,San Francisco,Null,Null,231
+3/1/2024,Null,4,San Francisco,Null,Null,178
+4/1/2024,Null,4,San Francisco,Null,Null,189
+5/1/2024,Null,4,San Francisco,Null,Null,220
+6/1/2024,Null,4,San Francisco,Null,Null,274
+7/1/2024,Null,4,San Francisco,Null,Null,260
+8/1/2024,Null,4,San Francisco,Null,Null,196
+9/1/2024,Null,4,San Francisco,Null,Null,190
+10/1/2024,Null,4,San Francisco,Null,Null,187
+11/1/2024,Null,4,San Francisco,Null,Null,213
+12/1/2024,Null,4,San Francisco,Null,Null,235
+13-01-2024,Null,4,San Francisco,Null,Null,236
+14-01-2024,Null,4,San Francisco,Null,Null,209
+15-01-2024,Null,4,San Francisco,Null,Null,171
+16-01-2024,Null,4,San Francisco,Null,Null,207
+17-01-2024,Null,4,San Francisco,Null,Null,206
+18-01-2024,Null,4,San Francisco,Null,Null,206
+19-01-2024,Null,4,San Francisco,Null,Null,220
+20-01-2024,Null,4,San Francisco,Null,Null,239
+21-01-2024,Null,4,San Francisco,Null,Null,237
+22-01-2024,Null,4,San Francisco,Null,Null,185
+23-01-2024,Null,4,San Francisco,Null,Null,215
+24-01-2024,Null,4,San Francisco,Null,Null,158
+25-01-2024,Null,4,San Francisco,Null,Null,199
+26-01-2024,Null,4,San Francisco,Null,Null,165
+27-01-2024,Null,4,San Francisco,Null,Null,240
+28-01-2024,Null,4,San Francisco,Null,Null,277
+29-01-2024,Null,4,San Francisco,Null,Null,202
+30-01-2024,Null,4,San Francisco,Null,Null,205
+31-01-2024,Null,4,San Francisco,Null,Null,177
+1/1/2024,Null,5,San Francisco,Null,Null,920
+2/1/2024,Null,5,San Francisco,Null,Null,610
+3/1/2024,Null,5,San Francisco,Null,Null,894
+4/1/2024,Null,5,San Francisco,Null,Null,1204
+5/1/2024,Null,5,San Francisco,Null,Null,1248
+6/1/2024,Null,5,San Francisco,Null,Null,977
+7/1/2024,Null,5,San Francisco,Null,Null,1491
+8/1/2024,Null,5,San Francisco,Null,Null,432
+9/1/2024,Null,5,San Francisco,Null,Null,729
+10/1/2024,Null,5,San Francisco,Null,Null,1520
+11/1/2024,Null,5,San Francisco,Null,Null,969
+12/1/2024,Null,5,San Francisco,Null,Null,1286
+13-01-2024,Null,5,San Francisco,Null,Null,1115
+14-01-2024,Null,5,San Francisco,Null,Null,706
+15-01-2024,Null,5,San Francisco,Null,Null,1407
+16-01-2024,Null,5,San Francisco,Null,Null,1141
+17-01-2024,Null,5,San Francisco,Null,Null,281
+18-01-2024,Null,5,San Francisco,Null,Null,346
+19-01-2024,Null,5,San Francisco,Null,Null,549
+20-01-2024,Null,5,San Francisco,Null,Null,673
+21-01-2024,Null,5,San Francisco,Null,Null,415
+22-01-2024,Null,5,San Francisco,Null,Null,1019
+23-01-2024,Null,5,San Francisco,Null,Null,549
+24-01-2024,Null,5,San Francisco,Null,Null,293
+25-01-2024,Null,5,San Francisco,Null,Null,946
+26-01-2024,Null,5,San Francisco,Null,Null,808
+27-01-2024,Null,5,San Francisco,Null,Null,513
+28-01-2024,Null,5,San Francisco,Null,Null,1335
+29-01-2024,Null,5,San Francisco,Null,Null,298
+30-01-2024,Null,5,San Francisco,Null,Null,831
+31-01-2024,Null,5,San Francisco,Null,Null,1479
+1/1/2024,Null,4,San Diego,Null,Null,406
+2/1/2024,Null,4,San Diego,Null,Null,361
+3/1/2024,Null,4,San Diego,Null,Null,357
+4/1/2024,Null,4,San Diego,Null,Null,365
+5/1/2024,Null,4,San Diego,Null,Null,342
+6/1/2024,Null,4,San Diego,Null,Null,401
+7/1/2024,Null,4,San Diego,Null,Null,390
+8/1/2024,Null,4,San Diego,Null,Null,333
+9/1/2024,Null,4,San Diego,Null,Null,359
+10/1/2024,Null,4,San Diego,Null,Null,355
+11/1/2024,Null,4,San Diego,Null,Null,359
+12/1/2024,Null,4,San Diego,Null,Null,363
+13-01-2024,Null,4,San Diego,Null,Null,394
+14-01-2024,Null,4,San Diego,Null,Null,388
+15-01-2024,Null,4,San Diego,Null,Null,345
+16-01-2024,Null,4,San Diego,Null,Null,363
+17-01-2024,Null,4,San Diego,Null,Null,343
+18-01-2024,Null,4,San Diego,Null,Null,364
+19-01-2024,Null,4,San Diego,Null,Null,344
+20-01-2024,Null,4,San Diego,Null,Null,409
+21-01-2024,Null,4,San Diego,Null,Null,416
+22-01-2024,Null,4,San Diego,Null,Null,363
+23-01-2024,Null,4,San Diego,Null,Null,360
+24-01-2024,Null,4,San Diego,Null,Null,365
+25-01-2024,Null,4,San Diego,Null,Null,366
+26-01-2024,Null,4,San Diego,Null,Null,342
+27-01-2024,Null,4,San Diego,Null,Null,394
+28-01-2024,Null,4,San Diego,Null,Null,401
+29-01-2024,Null,4,San Diego,Null,Null,360
+30-01-2024,Null,4,San Diego,Null,Null,340
+31-01-2024,Null,4,San Diego,Null,Null,337
+1/1/2024,Null,5,San Diego,Null,Null,1235
+2/1/2024,Null,5,San Diego,Null,Null,1049
+3/1/2024,Null,5,San Diego,Null,Null,940
+4/1/2024,Null,5,San Diego,Null,Null,451
+5/1/2024,Null,5,San Diego,Null,Null,417
+6/1/2024,Null,5,San Diego,Null,Null,855
+7/1/2024,Null,5,San Diego,Null,Null,718
+8/1/2024,Null,5,San Diego,Null,Null,379
+9/1/2024,Null,5,San Diego,Null,Null,798
+10/1/2024,Null,5,San Diego,Null,Null,965
+11/1/2024,Null,5,San Diego,Null,Null,676
+12/1/2024,Null,5,San Diego,Null,Null,349
+13-01-2024,Null,5,San Diego,Null,Null,1016
+14-01-2024,Null,5,San Diego,Null,Null,1012
+15-01-2024,Null,5,San Diego,Null,Null,1214
+16-01-2024,Null,5,San Diego,Null,Null,757
+17-01-2024,Null,5,San Diego,Null,Null,1056
+18-01-2024,Null,5,San Diego,Null,Null,1053
+19-01-2024,Null,5,San Diego,Null,Null,932
+20-01-2024,Null,5,San Diego,Null,Null,417
+21-01-2024,Null,5,San Diego,Null,Null,954
+22-01-2024,Null,5,San Diego,Null,Null,449
+23-01-2024,Null,5,San Diego,Null,Null,1042
+24-01-2024,Null,5,San Diego,Null,Null,1139
+25-01-2024,Null,5,San Diego,Null,Null,605
+26-01-2024,Null,5,San Diego,Null,Null,1167
+27-01-2024,Null,5,San Diego,Null,Null,902
+28-01-2024,Null,5,San Diego,Null,Null,665
+29-01-2024,Null,5,San Diego,Null,Null,700
+30-01-2024,Null,5,San Diego,Null,Null,998
+31-01-2024,Null,5,San Diego,Null,Null,447
+1/1/2024,Null,4,Chicago,Null,Null,212
+2/1/2024,Null,4,Chicago,Null,Null,134
+3/1/2024,Null,4,Chicago,Null,Null,183
+4/1/2024,Null,4,Chicago,Null,Null,191
+5/1/2024,Null,4,Chicago,Null,Null,136
+6/1/2024,Null,4,Chicago,Null,Null,211
+7/1/2024,Null,4,Chicago,Null,Null,189
+8/1/2024,Null,4,Chicago,Null,Null,198
+9/1/2024,Null,4,Chicago,Null,Null,214
+10/1/2024,Null,4,Chicago,Null,Null,173
+11/1/2024,Null,4,Chicago,Null,Null,199
+12/1/2024,Null,4,Chicago,Null,Null,143
+13-01-2024,Null,4,Chicago,Null,Null,254
+14-01-2024,Null,4,Chicago,Null,Null,241
+15-01-2024,Null,4,Chicago,Null,Null,158
+16-01-2024,Null,4,Chicago,Null,Null,151
+17-01-2024,Null,4,Chicago,Null,Null,169
+18-01-2024,Null,4,Chicago,Null,Null,205
+19-01-2024,Null,4,Chicago,Null,Null,190
+20-01-2024,Null,4,Chicago,Null,Null,249
+21-01-2024,Null,4,Chicago,Null,Null,186
+22-01-2024,Null,4,Chicago,Null,Null,209
+23-01-2024,Null,4,Chicago,Null,Null,202
+24-01-2024,Null,4,Chicago,Null,Null,205
+25-01-2024,Null,4,Chicago,Null,Null,207
+26-01-2024,Null,4,Chicago,Null,Null,192
+27-01-2024,Null,4,Chicago,Null,Null,197
+28-01-2024,Null,4,Chicago,Null,Null,253
+29-01-2024,Null,4,Chicago,Null,Null,139
+30-01-2024,Null,4,Chicago,Null,Null,136
+31-01-2024,Null,4,Chicago,Null,Null,161
+1/1/2024,Null,5,Chicago,Null,Null,901
+2/1/2024,Null,5,Chicago,Null,Null,318
+3/1/2024,Null,5,Chicago,Null,Null,245
+4/1/2024,Null,5,Chicago,Null,Null,1123
+5/1/2024,Null,5,Chicago,Null,Null,1145
+6/1/2024,Null,5,Chicago,Null,Null,855
+7/1/2024,Null,5,Chicago,Null,Null,1058
+8/1/2024,Null,5,Chicago,Null,Null,1295
+9/1/2024,Null,5,Chicago,Null,Null,1361
+10/1/2024,Null,5,Chicago,Null,Null,284
+11/1/2024,Null,5,Chicago,Null,Null,1052
+12/1/2024,Null,5,Chicago,Null,Null,1393
+13-01-2024,Null,5,Chicago,Null,Null,481
+14-01-2024,Null,5,Chicago,Null,Null,624
+15-01-2024,Null,5,Chicago,Null,Null,903
+16-01-2024,Null,5,Chicago,Null,Null,1344
+17-01-2024,Null,5,Chicago,Null,Null,1484
+18-01-2024,Null,5,Chicago,Null,Null,775
+19-01-2024,Null,5,Chicago,Null,Null,984
+20-01-2024,Null,5,Chicago,Null,Null,1482
+21-01-2024,Null,5,Chicago,Null,Null,531
+22-01-2024,Null,5,Chicago,Null,Null,1427
+23-01-2024,Null,5,Chicago,Null,Null,180
+24-01-2024,Null,5,Chicago,Null,Null,198
+25-01-2024,Null,5,Chicago,Null,Null,699
+26-01-2024,Null,5,Chicago,Null,Null,448
+27-01-2024,Null,5,Chicago,Null,Null,1134
+28-01-2024,Null,5,Chicago,Null,Null,1432
+29-01-2024,Null,5,Chicago,Null,Null,1349
+30-01-2024,Null,5,Chicago,Null,Null,1465
+31-01-2024,Null,5,Chicago,Null,Null,498
+1/1/2024,Null,4,NYC,Null,Null,403
+2/1/2024,Null,4,NYC,Null,Null,269
+3/1/2024,Null,4,NYC,Null,Null,314
+4/1/2024,Null,4,NYC,Null,Null,377
+5/1/2024,Null,4,NYC,Null,Null,417
+6/1/2024,Null,4,NYC,Null,Null,408
+7/1/2024,Null,4,NYC,Null,Null,445
+8/1/2024,Null,4,NYC,Null,Null,416
+9/1/2024,Null,4,NYC,Null,Null,290
+10/1/2024,Null,4,NYC,Null,Null,281
+11/1/2024,Null,4,NYC,Null,Null,416
+12/1/2024,Null,4,NYC,Null,Null,294
+13-01-2024,Null,4,NYC,Null,Null,444
+14-01-2024,Null,4,NYC,Null,Null,464
+15-01-2024,Null,4,NYC,Null,Null,246
+16-01-2024,Null,4,NYC,Null,Null,263
+17-01-2024,Null,4,NYC,Null,Null,300
+18-01-2024,Null,4,NYC,Null,Null,278
+19-01-2024,Null,4,NYC,Null,Null,249
+20-01-2024,Null,4,NYC,Null,Null,384
+21-01-2024,Null,4,NYC,Null,Null,377
+22-01-2024,Null,4,NYC,Null,Null,352
+23-01-2024,Null,4,NYC,Null,Null,267
+24-01-2024,Null,4,NYC,Null,Null,355
+25-01-2024,Null,4,NYC,Null,Null,342
+26-01-2024,Null,4,NYC,Null,Null,357
+27-01-2024,Null,4,NYC,Null,Null,413
+28-01-2024,Null,4,NYC,Null,Null,337
+29-01-2024,Null,4,NYC,Null,Null,267
+30-01-2024,Null,4,NYC,Null,Null,391
+31-01-2024,Null,4,NYC,Null,Null,394
+1/1/2024,Null,5,NYC,Null,Null,1404
+2/1/2024,Null,5,NYC,Null,Null,1879
+3/1/2024,Null,5,NYC,Null,Null,908
+4/1/2024,Null,5,NYC,Null,Null,519
+5/1/2024,Null,5,NYC,Null,Null,485
+6/1/2024,Null,5,NYC,Null,Null,891
+7/1/2024,Null,5,NYC,Null,Null,1337
+8/1/2024,Null,5,NYC,Null,Null,1686
+9/1/2024,Null,5,NYC,Null,Null,1156
+10/1/2024,Null,5,NYC,Null,Null,1201
+11/1/2024,Null,5,NYC,Null,Null,1838
+12/1/2024,Null,5,NYC,Null,Null,522
+13-01-2024,Null,5,NYC,Null,Null,1480
+14-01-2024,Null,5,NYC,Null,Null,823
+15-01-2024,Null,5,NYC,Null,Null,1715
+16-01-2024,Null,5,NYC,Null,Null,1103
+17-01-2024,Null,5,NYC,Null,Null,1947
+18-01-2024,Null,5,NYC,Null,Null,1507
+19-01-2024,Null,5,NYC,Null,Null,1625
+20-01-2024,Null,5,NYC,Null,Null,1808
+21-01-2024,Null,5,NYC,Null,Null,1708
+22-01-2024,Null,5,NYC,Null,Null,1456
+23-01-2024,Null,5,NYC,Null,Null,1280
+24-01-2024,Null,5,NYC,Null,Null,1868
+25-01-2024,Null,5,NYC,Null,Null,1810
+26-01-2024,Null,5,NYC,Null,Null,1080
+27-01-2024,Null,5,NYC,Null,Null,750
+28-01-2024,Null,5,NYC,Null,Null,1865
+29-01-2024,Null,5,NYC,Null,Null,1637
+30-01-2024,Null,5,NYC,Null,Null,1870
+31-01-2024,Null,5,NYC,Null,Null,1363
+1/1/2024,Null,4,Seattle,Null,Null,304
+2/1/2024,Null,4,Seattle,Null,Null,189
+3/1/2024,Null,4,Seattle,Null,Null,247
+4/1/2024,Null,4,Seattle,Null,Null,222
+5/1/2024,Null,4,Seattle,Null,Null,235
+6/1/2024,Null,4,Seattle,Null,Null,318
+7/1/2024,Null,4,Seattle,Null,Null,263
+8/1/2024,Null,4,Seattle,Null,Null,242
+9/1/2024,Null,4,Seattle,Null,Null,178
+10/1/2024,Null,4,Seattle,Null,Null,217
+11/1/2024,Null,4,Seattle,Null,Null,270
+12/1/2024,Null,4,Seattle,Null,Null,190
+13-01-2024,Null,4,Seattle,Null,Null,222
+14-01-2024,Null,4,Seattle,Null,Null,316
+15-01-2024,Null,4,Seattle,Null,Null,175
+16-01-2024,Null,4,Seattle,Null,Null,207
+17-01-2024,Null,4,Seattle,Null,Null,220
+18-01-2024,Null,4,Seattle,Null,Null,197
+19-01-2024,Null,4,Seattle,Null,Null,251
+20-01-2024,Null,4,Seattle,Null,Null,330
+21-01-2024,Null,4,Seattle,Null,Null,244
+22-01-2024,Null,4,Seattle,Null,Null,219
+23-01-2024,Null,4,Seattle,Null,Null,202
+24-01-2024,Null,4,Seattle,Null,Null,240
+25-01-2024,Null,4,Seattle,Null,Null,217
+26-01-2024,Null,4,Seattle,Null,Null,241
+27-01-2024,Null,4,Seattle,Null,Null,284
+28-01-2024,Null,4,Seattle,Null,Null,252
+29-01-2024,Null,4,Seattle,Null,Null,275
+30-01-2024,Null,4,Seattle,Null,Null,193
+31-01-2024,Null,4,Seattle,Null,Null,227
+1/1/2024,Null,5,Seattle,Null,Null,945
+2/1/2024,Null,5,Seattle,Null,Null,786
+3/1/2024,Null,5,Seattle,Null,Null,579
+4/1/2024,Null,5,Seattle,Null,Null,806
+5/1/2024,Null,5,Seattle,Null,Null,658
+6/1/2024,Null,5,Seattle,Null,Null,282
+7/1/2024,Null,5,Seattle,Null,Null,863
+8/1/2024,Null,5,Seattle,Null,Null,1031
+9/1/2024,Null,5,Seattle,Null,Null,331
+10/1/2024,Null,5,Seattle,Null,Null,1387
+11/1/2024,Null,5,Seattle,Null,Null,990
+12/1/2024,Null,5,Seattle,Null,Null,334
+13-01-2024,Null,5,Seattle,Null,Null,1616
+14-01-2024,Null,5,Seattle,Null,Null,327
+15-01-2024,Null,5,Seattle,Null,Null,1348
+16-01-2024,Null,5,Seattle,Null,Null,851
+17-01-2024,Null,5,Seattle,Null,Null,300
+18-01-2024,Null,5,Seattle,Null,Null,570
+19-01-2024,Null,5,Seattle,Null,Null,1143
+20-01-2024,Null,5,Seattle,Null,Null,662
+21-01-2024,Null,5,Seattle,Null,Null,610
+22-01-2024,Null,5,Seattle,Null,Null,1287
+23-01-2024,Null,5,Seattle,Null,Null,661
+24-01-2024,Null,5,Seattle,Null,Null,1385
+25-01-2024,Null,5,Seattle,Null,Null,352
+26-01-2024,Null,5,Seattle,Null,Null,558
+27-01-2024,Null,5,Seattle,Null,Null,1126
+28-01-2024,Null,5,Seattle,Null,Null,1435
+29-01-2024,Null,5,Seattle,Null,Null,1281
+30-01-2024,Null,5,Seattle,Null,Null,653
+31-01-2024,Null,5,Seattle,Null,Null,891
+1/3/2024,InterContinental Los Angeles Downtown,4,Los Angeles,"900 Wilshire Blvd, Los Angeles, CA 90017",Kitchen/Kitchenette,185
+1/3/2024,"The Ritz-Carlton, Los Angeles",4,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Airport Shuttle, Hot tub, Parking",223
+2/3/2024,"The Westin Bonaventure Hotel & Suites, Los Angeles",4,Los Angeles,"404 S Figueroa St, Los Angeles, CA 90071","Gym, Airport Shuttle",219
+2/3/2024,The LINE Hotel,4,Los Angeles,"3515 Wilshire Blvd, Los Angeles, CA 90010","Free WiFi, Free Breakfast, Hot tub",275
+3/3/2024,The LINE Hotel,4,Los Angeles,"3515 Wilshire Blvd, Los Angeles, CA 90010",Pet friendly,277
+3/3/2024,The LINE Hotel,4,Los Angeles,"3515 Wilshire Blvd, Los Angeles, CA 90010","Parking, Airport Shuttle",202
+4/3/2024,InterContinental Los Angeles Downtown,4,Los Angeles,"900 Wilshire Blvd, Los Angeles, CA 90017","Free Breakfast, Hot tub",277
+4/3/2024,InterContinental Los Angeles Downtown,4,Los Angeles,"900 Wilshire Blvd, Los Angeles, CA 90017","Free WiFi, Pet friendly",239
+5/3/2024,"The Ritz-Carlton, Los Angeles",4,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Pool, Pet friendly",177
+5/3/2024,"The Ritz-Carlton, Los Angeles",4,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Pool, Airport Shuttle, Gym",274
+6/3/2024,"The Westin Bonaventure Hotel & Suites, Los Angeles",4,Los Angeles,"404 S Figueroa St, Los Angeles, CA 90071","Pet friendly, Kitchen/Kitchenette, Airport Shuttle",213
+6/3/2024,JW Marriott Los Angeles L.A. LIVE,4,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Pet friendly, Hot tub, Free WiFi",260
+7/3/2024,"The Ritz-Carlton, Los Angeles",4,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Parking, Kitchen/Kitchenette, Fitness",218
+7/3/2024,InterContinental Los Angeles Downtown,4,Los Angeles,"900 Wilshire Blvd, Los Angeles, CA 90017","Pet friendly, Parking, Hot tub",245
+8/3/2024,"The Westin Bonaventure Hotel & Suites, Los Angeles",4,Los Angeles,"404 S Figueroa St, Los Angeles, CA 90071",Hot tub,187
+8/3/2024,"The Ritz-Carlton, Los Angeles",4,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Free Breakfast, Pool, Airport Shuttle",176
+9/3/2024,InterContinental Los Angeles Downtown,4,Los Angeles,"900 Wilshire Blvd, Los Angeles, CA 90017","Airport Shuttle, Gym",241
+9/3/2024,The LINE Hotel,4,Los Angeles,"3515 Wilshire Blvd, Los Angeles, CA 90010",Pool,187
+10/3/2024,JW Marriott Los Angeles L.A. LIVE,4,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Pool, Gym, Airport Shuttle",258
+10/3/2024,InterContinental Los Angeles Downtown,4,Los Angeles,"900 Wilshire Blvd, Los Angeles, CA 90017","Gym, Pool, Free WiFi",194
+11/3/2024,"The Westin Bonaventure Hotel & Suites, Los Angeles",4,Los Angeles,"404 S Figueroa St, Los Angeles, CA 90071",Parking,245
+11/3/2024,The LINE Hotel,4,Los Angeles,"3515 Wilshire Blvd, Los Angeles, CA 90010","Pool, Fitness, Parking",242
+12/3/2024,"The Ritz-Carlton, Los Angeles",4,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Hot tub, Pool",243
+12/3/2024,The LINE Hotel,4,Los Angeles,"3515 Wilshire Blvd, Los Angeles, CA 90010","Hot tub, Pet friendly",266
+13-03-2024,The LINE Hotel,4,Los Angeles,"3515 Wilshire Blvd, Los Angeles, CA 90010",Free WiFi,223
+14-03-2024,InterContinental Los Angeles Downtown,4,Los Angeles,"900 Wilshire Blvd, Los Angeles, CA 90017",Gym,265
+15-03-2024,"The Ritz-Carlton, Los Angeles",4,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Free WiFi, Hot tub, Pet friendly",227
+16-03-2024,The LINE Hotel,4,Los Angeles,"3515 Wilshire Blvd, Los Angeles, CA 90010","Airport Shuttle, Gym, Fitness",251
+17-03-2024,"The Ritz-Carlton, Los Angeles",4,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Parking, Free WiFi, Kitchen/Kitchenette",264
+18-03-2024,"The Ritz-Carlton, Los Angeles",4,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015",Fitness,219
+19-03-2024,JW Marriott Los Angeles L.A. LIVE,4,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015",Gym,197
+20-03-2024,InterContinental Los Angeles Downtown,4,Los Angeles,"900 Wilshire Blvd, Los Angeles, CA 90017","Pet friendly, Hot tub, Kitchen/Kitchenette",217
+21-03-2024,"The Westin Bonaventure Hotel & Suites, Los Angeles",4,Los Angeles,"404 S Figueroa St, Los Angeles, CA 90071",Pet friendly,207
+22-03-2024,"The Ritz-Carlton, Los Angeles",4,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Free Breakfast, Parking, Gym",211
+23-03-2024,"The Westin Bonaventure Hotel & Suites, Los Angeles",4,Los Angeles,"404 S Figueroa St, Los Angeles, CA 90071","Free WiFi, Hot tub, Pet friendly",263
+24-03-2024,JW Marriott Los Angeles L.A. LIVE,4,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Pool, Fitness",185
+25-03-2024,"The Westin Bonaventure Hotel & Suites, Los Angeles",4,Los Angeles,"404 S Figueroa St, Los Angeles, CA 90071",Free Breakfast,234
+26-03-2024,"The Westin Bonaventure Hotel & Suites, Los Angeles",4,Los Angeles,"404 S Figueroa St, Los Angeles, CA 90071",Hot tub,205
+26-03-2024,"The Westin Bonaventure Hotel & Suites, Los Angeles",4,Los Angeles,"404 S Figueroa St, Los Angeles, CA 90071","Pet friendly, Hot tub, Parking",265
+27-03-2024,JW Marriott Los Angeles L.A. LIVE,4,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Hot tub, Free WiFi, Gym",209
+27-03-2024,JW Marriott Los Angeles L.A. LIVE,4,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Free WiFi, Gym, Parking",175
+28-03-2024,InterContinental Los Angeles Downtown,4,Los Angeles,"900 Wilshire Blvd, Los Angeles, CA 90017",Pet friendly,180
+28-03-2024,"The Westin Bonaventure Hotel & Suites, Los Angeles",4,Los Angeles,"404 S Figueroa St, Los Angeles, CA 90071","Free Breakfast, Hot tub, Pool",192
+29-03-2024,"The Westin Bonaventure Hotel & Suites, Los Angeles",4,Los Angeles,"404 S Figueroa St, Los Angeles, CA 90071","Pet friendly, Fitness, Free Breakfast",236
+29-03-2024,"The Ritz-Carlton, Los Angeles",4,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015",Free WiFi,197
+30-03-2024,The LINE Hotel,4,Los Angeles,"3515 Wilshire Blvd, Los Angeles, CA 90010",Gym,281
+30-03-2024,The LINE Hotel,4,Los Angeles,"3515 Wilshire Blvd, Los Angeles, CA 90010",Hot tub,265
+31-03-2024,"The Westin Bonaventure Hotel & Suites, Los Angeles",4,Los Angeles,"404 S Figueroa St, Los Angeles, CA 90071","Hot tub, Gym, Kitchen/Kitchenette",201
+31-03-2024,JW Marriott Los Angeles L.A. LIVE,4,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Airport Shuttle, Pet friendly",233
+1/3/2024,"The Ritz-Carlton, Los Angeles",5,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Hot tub, Gym, Free Breakfast, Pool",636
+1/3/2024,InterContinental Los Angeles Downtown,5,Los Angeles,"900 Wilshire Blvd, Los Angeles, CA 90017","Parking, Pet friendly, Fitness",2842
+2/3/2024,"The Ritz-Carlton, Los Angeles",5,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Parking, Fitness, Kitchen/Kitchenette, Hot tub, Free Breakfast",2002
+2/3/2024,"The Westin Bonaventure Hotel & Suites, Los Angeles",5,Los Angeles,"404 S Figueroa St, Los Angeles, CA 90071","Pool, Free WiFi, Pet friendly, Gym",787
+3/3/2024,InterContinental Los Angeles Downtown,5,Los Angeles,"900 Wilshire Blvd, Los Angeles, CA 90017","Kitchen/Kitchenette, Airport Shuttle, Pet friendly, Free Breakfast",568
+4/3/2024,The LINE Hotel,5,Los Angeles,"3515 Wilshire Blvd, Los Angeles, CA 90010","Free WiFi, Pet friendly, Fitness, Kitchen/Kitchenette",2867
+4/3/2024,InterContinental Los Angeles Downtown,5,Los Angeles,"900 Wilshire Blvd, Los Angeles, CA 90017","Free Breakfast, Pet friendly, Free WiFi, Fitness, Gym",2108
+5/3/2024,JW Marriott Los Angeles L.A. LIVE,5,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Pool, Hot tub, Parking, Kitchen/Kitchenette",1481
+5/3/2024,InterContinental Los Angeles Downtown,5,Los Angeles,"900 Wilshire Blvd, Los Angeles, CA 90017","Free Breakfast, Airport Shuttle, Kitchen/Kitchenette",908
+6/3/2024,JW Marriott Los Angeles L.A. LIVE,5,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Fitness, Gym, Free WiFi",369
+6/3/2024,JW Marriott Los Angeles L.A. LIVE,5,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Pool, Free Breakfast, Kitchen/Kitchenette, Free WiFi",1450
+7/3/2024,The LINE Hotel,5,Los Angeles,"3515 Wilshire Blvd, Los Angeles, CA 90010","Pool, Gym, Kitchen/Kitchenette, Airport Shuttle, Parking",2979
+7/3/2024,The LINE Hotel,5,Los Angeles,"3515 Wilshire Blvd, Los Angeles, CA 90010","Airport Shuttle, Pet friendly, Parking, Pool",1693
+8/3/2024,"The Westin Bonaventure Hotel & Suites, Los Angeles",5,Los Angeles,"404 S Figueroa St, Los Angeles, CA 90071","Pool, Free WiFi, Airport Shuttle, Fitness, Gym",521
+8/3/2024,"The Ritz-Carlton, Los Angeles",5,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Fitness, Free WiFi, Parking",1359
+9/3/2024,"The Ritz-Carlton, Los Angeles",5,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Airport Shuttle, Gym, Kitchen/Kitchenette, Parking",2763
+9/3/2024,The LINE Hotel,5,Los Angeles,"3515 Wilshire Blvd, Los Angeles, CA 90010","Gym, Parking, Free Breakfast, Fitness, Pet friendly",776
+10/3/2024,"The Westin Bonaventure Hotel & Suites, Los Angeles",5,Los Angeles,"404 S Figueroa St, Los Angeles, CA 90071","Parking, Free Breakfast, Pool",3048
+10/3/2024,InterContinental Los Angeles Downtown,5,Los Angeles,"900 Wilshire Blvd, Los Angeles, CA 90017","Fitness, Kitchen/Kitchenette, Free Breakfast, Pool, Gym",597
+11/3/2024,"The Westin Bonaventure Hotel & Suites, Los Angeles",5,Los Angeles,"404 S Figueroa St, Los Angeles, CA 90071","Kitchen/Kitchenette, Parking, Hot tub",516
+11/3/2024,JW Marriott Los Angeles L.A. LIVE,5,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Free WiFi, Pool, Parking, Hot tub",514
+12/3/2024,The LINE Hotel,5,Los Angeles,"3515 Wilshire Blvd, Los Angeles, CA 90010","Kitchen/Kitchenette, Gym, Airport Shuttle",806
+12/3/2024,The LINE Hotel,5,Los Angeles,"3515 Wilshire Blvd, Los Angeles, CA 90010","Free Breakfast, Airport Shuttle, Gym, Hot tub",2191
+13-03-2024,JW Marriott Los Angeles L.A. LIVE,5,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Fitness, Gym, Pet friendly, Airport Shuttle, Hot tub",2869
+14-03-2024,"The Ritz-Carlton, Los Angeles",5,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Airport Shuttle, Parking, Fitness",815
+15-03-2024,JW Marriott Los Angeles L.A. LIVE,5,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Free WiFi, Fitness, Pet friendly, Airport Shuttle, Pool",1571
+16-03-2024,"The Ritz-Carlton, Los Angeles",5,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Gym, Kitchen/Kitchenette, Parking, Free Breakfast, Fitness",1434
+17-03-2024,"The Westin Bonaventure Hotel & Suites, Los Angeles",5,Los Angeles,"404 S Figueroa St, Los Angeles, CA 90071","Airport Shuttle, Pet friendly, Free Breakfast, Kitchen/Kitchenette",2389
+18-03-2024,"The Westin Bonaventure Hotel & Suites, Los Angeles",5,Los Angeles,"404 S Figueroa St, Los Angeles, CA 90071","Fitness, Free WiFi, Pet friendly, Pool, Gym",2779
+19-03-2024,The LINE Hotel,5,Los Angeles,"3515 Wilshire Blvd, Los Angeles, CA 90010","Pool, Gym, Free Breakfast",1302
+20-03-2024,The LINE Hotel,5,Los Angeles,"3515 Wilshire Blvd, Los Angeles, CA 90010","Gym, Parking, Pool, Pet friendly, Kitchen/Kitchenette",1752
+21-03-2024,"The Ritz-Carlton, Los Angeles",5,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Parking, Fitness, Free WiFi",892
+22-03-2024,"The Westin Bonaventure Hotel & Suites, Los Angeles",5,Los Angeles,"404 S Figueroa St, Los Angeles, CA 90071","Kitchen/Kitchenette, Parking, Free Breakfast, Pet friendly, Gym",2728
+23-03-2024,"The Westin Bonaventure Hotel & Suites, Los Angeles",5,Los Angeles,"404 S Figueroa St, Los Angeles, CA 90071","Free WiFi, Gym, Pet friendly, Kitchen/Kitchenette",1148
+24-03-2024,InterContinental Los Angeles Downtown,5,Los Angeles,"900 Wilshire Blvd, Los Angeles, CA 90017","Fitness, Free Breakfast, Parking, Hot tub, Kitchen/Kitchenette",2200
+25-03-2024,"The Westin Bonaventure Hotel & Suites, Los Angeles",5,Los Angeles,"404 S Figueroa St, Los Angeles, CA 90071","Parking, Hot tub, Free Breakfast, Kitchen/Kitchenette, Pool",1922
+26-03-2024,"The Ritz-Carlton, Los Angeles",5,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Airport Shuttle, Free Breakfast, Free WiFi, Parking",931
+26-03-2024,InterContinental Los Angeles Downtown,5,Los Angeles,"900 Wilshire Blvd, Los Angeles, CA 90017","Pool, Free WiFi, Hot tub, Fitness",2177
+27-03-2024,"The Westin Bonaventure Hotel & Suites, Los Angeles",5,Los Angeles,"404 S Figueroa St, Los Angeles, CA 90071","Airport Shuttle, Free WiFi, Pet friendly, Hot tub, Pool",1789
+27-03-2024,"The Ritz-Carlton, Los Angeles",5,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Free WiFi, Fitness, Free Breakfast, Gym",2470
+28-03-2024,"The Ritz-Carlton, Los Angeles",5,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Kitchen/Kitchenette, Gym, Free WiFi, Hot tub, Pet friendly",1997
+28-03-2024,JW Marriott Los Angeles L.A. LIVE,5,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Kitchen/Kitchenette, Pet friendly, Free Breakfast",831
+29-03-2024,InterContinental Los Angeles Downtown,5,Los Angeles,"900 Wilshire Blvd, Los Angeles, CA 90017","Fitness, Parking, Pet friendly",888
+29-03-2024,The LINE Hotel,5,Los Angeles,"3515 Wilshire Blvd, Los Angeles, CA 90010","Free WiFi, Hot tub, Parking, Fitness",601
+30-03-2024,InterContinental Los Angeles Downtown,5,Los Angeles,"900 Wilshire Blvd, Los Angeles, CA 90017","Free Breakfast, Pet friendly, Fitness, Free WiFi, Gym",1288
+30-03-2024,JW Marriott Los Angeles L.A. LIVE,5,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Parking, Fitness, Pet friendly, Airport Shuttle",1243
+31-03-2024,"The Ritz-Carlton, Los Angeles",5,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Free Breakfast, Pool, Free WiFi, Kitchen/Kitchenette, Gym",682
+31-03-2024,"The Ritz-Carlton, Los Angeles",5,Los Angeles,"900 W Olympic Blvd, Los Angeles, CA 90015","Pool, Airport Shuttle, Free WiFi, Hot tub, Parking",742
+1/3/2024,"The Ritz-Carlton, San Francisco",4,San Francisco,"600 Stockton St, San Francisco, CA 94108",Gym,188
+1/3/2024,"The Ritz-Carlton, San Francisco",4,San Francisco,"600 Stockton St, San Francisco, CA 94108",Airport Shuttle,157
+2/3/2024,The St. Regis San Francisco,4,San Francisco,"125 3rd St, San Francisco, CA 94103","Pool, Fitness",209
+2/3/2024,The St. Regis San Francisco,4,San Francisco,"125 3rd St, San Francisco, CA 94103",Kitchen/Kitchenette,224
+3/3/2024,Hotel Nikko San Francisco,4,San Francisco,"222 Mason St, San Francisco, CA 94102","Pool, Fitness",222
+3/3/2024,Fairmont San Francisco,4,San Francisco,"950 Mason St, San Francisco, CA 94108","Airport Shuttle, Kitchen/Kitchenette, Free WiFi",180
+4/3/2024,InterContinental San Francisco,4,San Francisco,"888 Howard St, San Francisco, CA 94103","Kitchen/Kitchenette, Airport Shuttle, Gym",166
+4/3/2024,The St. Regis San Francisco,4,San Francisco,"125 3rd St, San Francisco, CA 94103",Kitchen/Kitchenette,177
+5/3/2024,Hotel Nikko San Francisco,4,San Francisco,"222 Mason St, San Francisco, CA 94102","Pet friendly, Pool",230
+5/3/2024,Hotel Nikko San Francisco,4,San Francisco,"222 Mason St, San Francisco, CA 94102","Free WiFi, Free Breakfast",160
+6/3/2024,Fairmont San Francisco,4,San Francisco,"950 Mason St, San Francisco, CA 94108","Pet friendly, Parking",171
+6/3/2024,Fairmont San Francisco,4,San Francisco,"950 Mason St, San Francisco, CA 94108","Free Breakfast, Hot tub, Parking",159
+7/3/2024,Fairmont San Francisco,4,San Francisco,"950 Mason St, San Francisco, CA 94108","Pet friendly, Free WiFi",192
+7/3/2024,The St. Regis San Francisco,4,San Francisco,"125 3rd St, San Francisco, CA 94103","Free Breakfast, Gym, Kitchen/Kitchenette",165
+8/3/2024,InterContinental San Francisco,4,San Francisco,"888 Howard St, San Francisco, CA 94103","Free WiFi, Hot tub",183
+8/3/2024,Hotel Nikko San Francisco,4,San Francisco,"222 Mason St, San Francisco, CA 94102",Fitness,172
+9/3/2024,The St. Regis San Francisco,4,San Francisco,"125 3rd St, San Francisco, CA 94103",Kitchen/Kitchenette,193
+9/3/2024,The St. Regis San Francisco,4,San Francisco,"125 3rd St, San Francisco, CA 94103",Free WiFi,175
+10/3/2024,Fairmont San Francisco,4,San Francisco,"950 Mason St, San Francisco, CA 94108","Fitness, Gym, Parking",182
+10/3/2024,Hotel Nikko San Francisco,4,San Francisco,"222 Mason St, San Francisco, CA 94102","Gym, Free Breakfast, Hot tub",182
+11/3/2024,The St. Regis San Francisco,4,San Francisco,"125 3rd St, San Francisco, CA 94103","Pet friendly, Hot tub",159
+11/3/2024,Fairmont San Francisco,4,San Francisco,"950 Mason St, San Francisco, CA 94108","Gym, Pool, Parking",168
+12/3/2024,Fairmont San Francisco,4,San Francisco,"950 Mason St, San Francisco, CA 94108","Free WiFi, Free Breakfast, Kitchen/Kitchenette",230
+12/3/2024,InterContinental San Francisco,4,San Francisco,"888 Howard St, San Francisco, CA 94103",Hot tub,202
+13-03-2024,Hotel Nikko San Francisco,4,San Francisco,"222 Mason St, San Francisco, CA 94102",Kitchen/Kitchenette,229
+13-03-2024,Fairmont San Francisco,4,San Francisco,"950 Mason St, San Francisco, CA 94108","Free Breakfast, Free WiFi",162
+14-03-2024,"The Ritz-Carlton, San Francisco",4,San Francisco,"600 Stockton St, San Francisco, CA 94108","Free WiFi, Free Breakfast, Kitchen/Kitchenette",223
+14-03-2024,Hotel Nikko San Francisco,4,San Francisco,"222 Mason St, San Francisco, CA 94102","Gym, Kitchen/Kitchenette, Parking",154
+15-03-2024,InterContinental San Francisco,4,San Francisco,"888 Howard St, San Francisco, CA 94103","Parking, Kitchen/Kitchenette",170
+15-03-2024,"The Ritz-Carlton, San Francisco",4,San Francisco,"600 Stockton St, San Francisco, CA 94108","Free Breakfast, Parking, Kitchen/Kitchenette",207
+16-03-2024,The St. Regis San Francisco,4,San Francisco,"125 3rd St, San Francisco, CA 94103",Fitness,151
+16-03-2024,Hotel Nikko San Francisco,4,San Francisco,"222 Mason St, San Francisco, CA 94102","Pet friendly, Free Breakfast, Pool",183
+17-03-2024,InterContinental San Francisco,4,San Francisco,"888 Howard St, San Francisco, CA 94103",Hot tub,172
+17-03-2024,InterContinental San Francisco,4,San Francisco,"888 Howard St, San Francisco, CA 94103","Hot tub, Free WiFi, Pool",169
+18-03-2024,"The Ritz-Carlton, San Francisco",4,San Francisco,"600 Stockton St, San Francisco, CA 94108","Kitchen/Kitchenette, Parking",225
+18-03-2024,"The Ritz-Carlton, San Francisco",4,San Francisco,"600 Stockton St, San Francisco, CA 94108","Free WiFi, Pool, Kitchen/Kitchenette",202
+19-03-2024,Hotel Nikko San Francisco,4,San Francisco,"222 Mason St, San Francisco, CA 94102",Gym,163
+19-03-2024,Hotel Nikko San Francisco,4,San Francisco,"222 Mason St, San Francisco, CA 94102",Hot tub,176
+20-03-2024,InterContinental San Francisco,4,San Francisco,"888 Howard St, San Francisco, CA 94103","Free Breakfast, Airport Shuttle",203
+20-03-2024,"The Ritz-Carlton, San Francisco",4,San Francisco,"600 Stockton St, San Francisco, CA 94108",Free Breakfast,152
+21-03-2024,The St. Regis San Francisco,4,San Francisco,"125 3rd St, San Francisco, CA 94103","Fitness, Pet friendly",195
+21-03-2024,The St. Regis San Francisco,4,San Francisco,"125 3rd St, San Francisco, CA 94103",Pet friendly,166
+22-03-2024,Fairmont San Francisco,4,San Francisco,"950 Mason St, San Francisco, CA 94108","Pool, Fitness",172
+22-03-2024,"The Ritz-Carlton, San Francisco",4,San Francisco,"600 Stockton St, San Francisco, CA 94108",Kitchen/Kitchenette,211
+23-03-2024,Fairmont San Francisco,4,San Francisco,"950 Mason St, San Francisco, CA 94108","Hot tub, Parking, Airport Shuttle",203
+23-03-2024,InterContinental San Francisco,4,San Francisco,"888 Howard St, San Francisco, CA 94103","Fitness, Kitchen/Kitchenette, Gym",157
+24-03-2024,The St. Regis San Francisco,4,San Francisco,"125 3rd St, San Francisco, CA 94103","Airport Shuttle, Free WiFi",164
+24-03-2024,Fairmont San Francisco,4,San Francisco,"950 Mason St, San Francisco, CA 94108","Airport Shuttle, Free WiFi, Parking",157
+25-03-2024,"The Ritz-Carlton, San Francisco",4,San Francisco,"600 Stockton St, San Francisco, CA 94108","Parking, Kitchen/Kitchenette, Fitness",221
+25-03-2024,InterContinental San Francisco,4,San Francisco,"888 Howard St, San Francisco, CA 94103","Free Breakfast, Pet friendly, Free WiFi",159
+26-03-2024,InterContinental San Francisco,4,San Francisco,"888 Howard St, San Francisco, CA 94103","Parking, Pet friendly",150
+26-03-2024,The St. Regis San Francisco,4,San Francisco,"125 3rd St, San Francisco, CA 94103","Free WiFi, Gym, Pool",219
+27-03-2024,"The Ritz-Carlton, San Francisco",4,San Francisco,"600 Stockton St, San Francisco, CA 94108","Parking, Fitness",197
+27-03-2024,InterContinental San Francisco,4,San Francisco,"888 Howard St, San Francisco, CA 94103",Pet friendly,187
+28-03-2024,InterContinental San Francisco,4,San Francisco,"888 Howard St, San Francisco, CA 94103","Gym, Free WiFi, Hot tub",149
+28-03-2024,"The Ritz-Carlton, San Francisco",4,San Francisco,"600 Stockton St, San Francisco, CA 94108",Airport Shuttle,206
+29-03-2024,The St. Regis San Francisco,4,San Francisco,"125 3rd St, San Francisco, CA 94103",Fitness,169
+29-03-2024,"The Ritz-Carlton, San Francisco",4,San Francisco,"600 Stockton St, San Francisco, CA 94108","Kitchen/Kitchenette, Pet friendly, Fitness",214
+30-03-2024,"The Ritz-Carlton, San Francisco",4,San Francisco,"600 Stockton St, San Francisco, CA 94108","Kitchen/Kitchenette, Gym, Fitness",172
+30-03-2024,"The Ritz-Carlton, San Francisco",4,San Francisco,"600 Stockton St, San Francisco, CA 94108",Fitness,185
+31-03-2024,The St. Regis San Francisco,4,San Francisco,"125 3rd St, San Francisco, CA 94103",Pet friendly,158
+31-03-2024,Hotel Nikko San Francisco,4,San Francisco,"222 Mason St, San Francisco, CA 94102","Airport Shuttle, Fitness, Hot tub",177
+1/3/2024,InterContinental San Francisco,5,San Francisco,"888 Howard St, San Francisco, CA 94103","Parking, Pet friendly, Hot tub",529
+1/3/2024,Fairmont San Francisco,5,San Francisco,"950 Mason St, San Francisco, CA 94108","Parking, Pool, Free Breakfast, Pet friendly, Fitness",413
+2/3/2024,Fairmont San Francisco,5,San Francisco,"950 Mason St, San Francisco, CA 94108","Free Breakfast, Airport Shuttle, Pool, Free WiFi, Gym",1152
+2/3/2024,InterContinental San Francisco,5,San Francisco,"888 Howard St, San Francisco, CA 94103","Gym, Kitchen/Kitchenette, Pet friendly, Fitness, Free WiFi",1325
+3/3/2024,"The Ritz-Carlton, San Francisco",5,San Francisco,"600 Stockton St, San Francisco, CA 94108","Parking, Free WiFi, Airport Shuttle, Gym, Pool",840
+3/3/2024,Fairmont San Francisco,5,San Francisco,"950 Mason St, San Francisco, CA 94108","Airport Shuttle, Pool, Pet friendly",1147
+4/3/2024,Hotel Nikko San Francisco,5,San Francisco,"222 Mason St, San Francisco, CA 94102","Pool, Free Breakfast, Free WiFi",1133
+4/3/2024,The St. Regis San Francisco,5,San Francisco,"125 3rd St, San Francisco, CA 94103","Gym, Free Breakfast, Pet friendly, Fitness, Kitchen/Kitchenette",1066
+5/3/2024,The St. Regis San Francisco,5,San Francisco,"125 3rd St, San Francisco, CA 94103","Fitness, Pet friendly, Gym, Airport Shuttle",428
+5/3/2024,Hotel Nikko San Francisco,5,San Francisco,"222 Mason St, San Francisco, CA 94102","Fitness, Hot tub, Parking",1154
+6/3/2024,The St. Regis San Francisco,5,San Francisco,"125 3rd St, San Francisco, CA 94103","Fitness, Hot tub, Kitchen/Kitchenette, Free Breakfast, Gym",653
+6/3/2024,The St. Regis San Francisco,5,San Francisco,"125 3rd St, San Francisco, CA 94103","Pool, Airport Shuttle, Hot tub, Fitness, Pet friendly",358
+7/3/2024,"The Ritz-Carlton, San Francisco",5,San Francisco,"600 Stockton St, San Francisco, CA 94108","Airport Shuttle, Parking, Gym, Kitchen/Kitchenette, Pool",506
+7/3/2024,"The Ritz-Carlton, San Francisco",5,San Francisco,"600 Stockton St, San Francisco, CA 94108","Hot tub, Gym, Kitchen/Kitchenette",755
+8/3/2024,Fairmont San Francisco,5,San Francisco,"950 Mason St, San Francisco, CA 94108","Pool, Fitness, Gym",896
+8/3/2024,Fairmont San Francisco,5,San Francisco,"950 Mason St, San Francisco, CA 94108","Free Breakfast, Parking, Airport Shuttle, Fitness, Hot tub",826
+9/3/2024,Fairmont San Francisco,5,San Francisco,"950 Mason St, San Francisco, CA 94108","Gym, Airport Shuttle, Parking",1465
+9/3/2024,Fairmont San Francisco,5,San Francisco,"950 Mason St, San Francisco, CA 94108","Parking, Pet friendly, Fitness, Free WiFi",1401
+10/3/2024,Hotel Nikko San Francisco,5,San Francisco,"222 Mason St, San Francisco, CA 94102","Kitchen/Kitchenette, Free Breakfast, Pool",1203
+10/3/2024,The St. Regis San Francisco,5,San Francisco,"125 3rd St, San Francisco, CA 94103","Airport Shuttle, Pet friendly, Kitchen/Kitchenette, Parking, Free Breakfast",1170
+11/3/2024,Hotel Nikko San Francisco,5,San Francisco,"222 Mason St, San Francisco, CA 94102","Airport Shuttle, Free WiFi, Gym, Free Breakfast, Pool",364
+11/3/2024,Fairmont San Francisco,5,San Francisco,"950 Mason St, San Francisco, CA 94108","Parking, Free WiFi, Fitness",968
+12/3/2024,The St. Regis San Francisco,5,San Francisco,"125 3rd St, San Francisco, CA 94103","Free WiFi, Airport Shuttle, Gym, Hot tub, Fitness",1107
+12/3/2024,Hotel Nikko San Francisco,5,San Francisco,"222 Mason St, San Francisco, CA 94102","Pool, Gym, Hot tub, Airport Shuttle",443
+13-03-2024,Hotel Nikko San Francisco,5,San Francisco,"222 Mason St, San Francisco, CA 94102","Hot tub, Parking, Pet friendly, Pool, Gym",753
+13-03-2024,Hotel Nikko San Francisco,5,San Francisco,"222 Mason St, San Francisco, CA 94102","Gym, Free WiFi, Fitness, Free Breakfast",1358
+14-03-2024,Fairmont San Francisco,5,San Francisco,"950 Mason St, San Francisco, CA 94108","Pet friendly, Kitchen/Kitchenette, Gym, Free Breakfast, Free WiFi",667
+14-03-2024,"The Ritz-Carlton, San Francisco",5,San Francisco,"600 Stockton St, San Francisco, CA 94108","Fitness, Hot tub, Airport Shuttle, Free Breakfast",757
+15-03-2024,InterContinental San Francisco,5,San Francisco,"888 Howard St, San Francisco, CA 94103","Free WiFi, Gym, Fitness",597
+15-03-2024,InterContinental San Francisco,5,San Francisco,"888 Howard St, San Francisco, CA 94103","Free Breakfast, Gym, Free WiFi, Parking, Kitchen/Kitchenette",283
+16-03-2024,"The Ritz-Carlton, San Francisco",5,San Francisco,"600 Stockton St, San Francisco, CA 94108","Kitchen/Kitchenette, Free WiFi, Hot tub, Parking",383
+16-03-2024,The St. Regis San Francisco,5,San Francisco,"125 3rd St, San Francisco, CA 94103","Airport Shuttle, Pet friendly, Fitness, Parking, Free Breakfast",788
+17-03-2024,InterContinental San Francisco,5,San Francisco,"888 Howard St, San Francisco, CA 94103","Parking, Hot tub, Kitchen/Kitchenette, Gym, Fitness",776
+17-03-2024,The St. Regis San Francisco,5,San Francisco,"125 3rd St, San Francisco, CA 94103","Airport Shuttle, Parking, Hot tub, Gym",1524
+18-03-2024,"The Ritz-Carlton, San Francisco",5,San Francisco,"600 Stockton St, San Francisco, CA 94108","Hot tub, Free Breakfast, Pool, Gym",1031
+18-03-2024,Fairmont San Francisco,5,San Francisco,"950 Mason St, San Francisco, CA 94108","Hot tub, Airport Shuttle, Gym, Pool",559
+19-03-2024,Fairmont San Francisco,5,San Francisco,"950 Mason St, San Francisco, CA 94108","Parking, Kitchen/Kitchenette, Pet friendly, Hot tub",1037
+19-03-2024,Fairmont San Francisco,5,San Francisco,"950 Mason St, San Francisco, CA 94108","Pet friendly, Free Breakfast, Gym, Hot tub, Free WiFi",1003
+20-03-2024,Fairmont San Francisco,5,San Francisco,"950 Mason St, San Francisco, CA 94108","Pet friendly, Hot tub, Parking, Pool, Free Breakfast",1227
+20-03-2024,"The Ritz-Carlton, San Francisco",5,San Francisco,"600 Stockton St, San Francisco, CA 94108","Fitness, Kitchen/Kitchenette, Pool, Free WiFi",485
+21-03-2024,"The Ritz-Carlton, San Francisco",5,San Francisco,"600 Stockton St, San Francisco, CA 94108","Free WiFi, Hot tub, Pool, Airport Shuttle, Gym",395
+21-03-2024,The St. Regis San Francisco,5,San Francisco,"125 3rd St, San Francisco, CA 94103","Pet friendly, Free Breakfast, Airport Shuttle, Parking, Kitchen/Kitchenette",649
+22-03-2024,"The Ritz-Carlton, San Francisco",5,San Francisco,"600 Stockton St, San Francisco, CA 94108","Free WiFi, Free Breakfast, Pet friendly, Kitchen/Kitchenette",1107
+22-03-2024,Fairmont San Francisco,5,San Francisco,"950 Mason St, San Francisco, CA 94108","Hot tub, Pet friendly, Parking, Airport Shuttle, Kitchen/Kitchenette",996
+23-03-2024,Fairmont San Francisco,5,San Francisco,"950 Mason St, San Francisco, CA 94108","Parking, Pool, Hot tub",849
+23-03-2024,"The Ritz-Carlton, San Francisco",5,San Francisco,"600 Stockton St, San Francisco, CA 94108","Free WiFi, Parking, Hot tub, Kitchen/Kitchenette, Fitness",1325
+24-03-2024,Hotel Nikko San Francisco,5,San Francisco,"222 Mason St, San Francisco, CA 94102","Gym, Pet friendly, Fitness, Kitchen/Kitchenette",1506
+24-03-2024,Fairmont San Francisco,5,San Francisco,"950 Mason St, San Francisco, CA 94108","Free Breakfast, Parking, Airport Shuttle, Hot tub",1014
+25-03-2024,"The Ritz-Carlton, San Francisco",5,San Francisco,"600 Stockton St, San Francisco, CA 94108","Kitchen/Kitchenette, Free Breakfast, Airport Shuttle",1174
+25-03-2024,Hotel Nikko San Francisco,5,San Francisco,"222 Mason St, San Francisco, CA 94102","Airport Shuttle, Kitchen/Kitchenette, Pool, Fitness",1428
+26-03-2024,Hotel Nikko San Francisco,5,San Francisco,"222 Mason St, San Francisco, CA 94102","Airport Shuttle, Free WiFi, Free Breakfast, Hot tub",1388
+26-03-2024,Hotel Nikko San Francisco,5,San Francisco,"222 Mason St, San Francisco, CA 94102","Parking, Fitness, Airport Shuttle, Pool, Kitchen/Kitchenette",395
+27-03-2024,The St. Regis San Francisco,5,San Francisco,"125 3rd St, San Francisco, CA 94103","Pool, Airport Shuttle, Pet friendly",597
+27-03-2024,"The Ritz-Carlton, San Francisco",5,San Francisco,"600 Stockton St, San Francisco, CA 94108","Gym, Hot tub, Free WiFi, Pet friendly",1387
+28-03-2024,Fairmont San Francisco,5,San Francisco,"950 Mason St, San Francisco, CA 94108","Free WiFi, Kitchen/Kitchenette, Gym, Fitness",767
+28-03-2024,InterContinental San Francisco,5,San Francisco,"888 Howard St, San Francisco, CA 94103","Pet friendly, Fitness, Parking",631
+29-03-2024,"The Ritz-Carlton, San Francisco",5,San Francisco,"600 Stockton St, San Francisco, CA 94108","Parking, Gym, Airport Shuttle",393
+29-03-2024,Fairmont San Francisco,5,San Francisco,"950 Mason St, San Francisco, CA 94108","Free Breakfast, Airport Shuttle, Free WiFi, Kitchen/Kitchenette",402
+30-03-2024,"The Ritz-Carlton, San Francisco",5,San Francisco,"600 Stockton St, San Francisco, CA 94108","Parking, Fitness, Hot tub",1175
+30-03-2024,Hotel Nikko San Francisco,5,San Francisco,"222 Mason St, San Francisco, CA 94102","Gym, Kitchen/Kitchenette, Free WiFi, Pet friendly, Fitness",867
+31-03-2024,InterContinental San Francisco,5,San Francisco,"888 Howard St, San Francisco, CA 94103","Hot tub, Pool, Gym",812
+31-03-2024,InterContinental San Francisco,5,San Francisco,"888 Howard St, San Francisco, CA 94103","Parking, Free Breakfast, Free WiFi, Pet friendly, Airport Shuttle",1345
+1/3/2024,The Edgewater Hotel,4,Seattle,"2411 Alaskan Way, Seattle, WA 98121","Parking, Fitness",224
+1/3/2024,The Westin Seattle,4,Seattle,"1900 5th Ave, Seattle, WA 98101","Airport Shuttle, Parking",176
+2/3/2024,Fairmont Olympic Hotel,4,Seattle,"411 University St, Seattle, WA 98101","Airport Shuttle, Free WiFi",192
+2/3/2024,The Westin Seattle,4,Seattle,"1900 5th Ave, Seattle, WA 98101","Parking, Free WiFi, Gym",256
+3/3/2024,Sheraton Grand Seattle,4,Seattle,"1400 6th Ave, Seattle, WA 98101","Parking, Free Breakfast, Pet friendly",239
+3/3/2024,Sheraton Grand Seattle,4,Seattle,"1400 6th Ave, Seattle, WA 98101","Free Breakfast, Pool, Airport Shuttle",188
+4/3/2024,Fairmont Olympic Hotel,4,Seattle,"411 University St, Seattle, WA 98101","Gym, Airport Shuttle, Free Breakfast",241
+4/3/2024,Thompson Seattle,4,Seattle,"110 Stewart St, Seattle, WA 98101","Gym, Free Breakfast, Airport Shuttle",274
+5/3/2024,The Westin Seattle,4,Seattle,"1900 5th Ave, Seattle, WA 98101","Fitness, Free WiFi, Airport Shuttle",216
+5/3/2024,Sheraton Grand Seattle,4,Seattle,"1400 6th Ave, Seattle, WA 98101","Pool, Pet friendly, Gym",284
+6/3/2024,The Edgewater Hotel,4,Seattle,"2411 Alaskan Way, Seattle, WA 98121","Gym, Free Breakfast, Parking",276
+6/3/2024,Thompson Seattle,4,Seattle,"110 Stewart St, Seattle, WA 98101",Kitchen/Kitchenette,218
+7/3/2024,The Westin Seattle,4,Seattle,"1900 5th Ave, Seattle, WA 98101","Fitness, Pet friendly",282
+7/3/2024,The Edgewater Hotel,4,Seattle,"2411 Alaskan Way, Seattle, WA 98121","Fitness, Pet friendly, Pool",184
+8/3/2024,Sheraton Grand Seattle,4,Seattle,"1400 6th Ave, Seattle, WA 98101","Pool, Parking, Gym",247
+8/3/2024,Thompson Seattle,4,Seattle,"110 Stewart St, Seattle, WA 98101","Parking, Kitchen/Kitchenette, Airport Shuttle",217
+9/3/2024,Sheraton Grand Seattle,4,Seattle,"1400 6th Ave, Seattle, WA 98101",Airport Shuttle,226
+9/3/2024,Sheraton Grand Seattle,4,Seattle,"1400 6th Ave, Seattle, WA 98101","Pet friendly, Airport Shuttle",206
+10/3/2024,Fairmont Olympic Hotel,4,Seattle,"411 University St, Seattle, WA 98101",Parking,244
+10/3/2024,Thompson Seattle,4,Seattle,"110 Stewart St, Seattle, WA 98101",Gym,219
+11/3/2024,Thompson Seattle,4,Seattle,"110 Stewart St, Seattle, WA 98101","Pet friendly, Hot tub",264
+11/3/2024,Thompson Seattle,4,Seattle,"110 Stewart St, Seattle, WA 98101","Airport Shuttle, Hot tub, Fitness",210
+12/3/2024,Fairmont Olympic Hotel,4,Seattle,"411 University St, Seattle, WA 98101",Pool,280
+12/3/2024,The Edgewater Hotel,4,Seattle,"2411 Alaskan Way, Seattle, WA 98121",Free Breakfast,290
+13-03-2024,The Edgewater Hotel,4,Seattle,"2411 Alaskan Way, Seattle, WA 98121",Hot tub,175
+13-03-2024,The Edgewater Hotel,4,Seattle,"2411 Alaskan Way, Seattle, WA 98121","Fitness, Hot tub",177
+14-03-2024,Thompson Seattle,4,Seattle,"110 Stewart St, Seattle, WA 98101","Airport Shuttle, Hot tub",220
+14-03-2024,The Westin Seattle,4,Seattle,"1900 5th Ave, Seattle, WA 98101","Free WiFi, Free Breakfast, Parking",186
+15-03-2024,The Westin Seattle,4,Seattle,"1900 5th Ave, Seattle, WA 98101",Free WiFi,237
+15-03-2024,The Edgewater Hotel,4,Seattle,"2411 Alaskan Way, Seattle, WA 98121","Free WiFi, Hot tub, Kitchen/Kitchenette",260
+16-03-2024,Thompson Seattle,4,Seattle,"110 Stewart St, Seattle, WA 98101",Parking,239
+16-03-2024,Fairmont Olympic Hotel,4,Seattle,"411 University St, Seattle, WA 98101","Pet friendly, Hot tub, Pool",223
+17-03-2024,The Edgewater Hotel,4,Seattle,"2411 Alaskan Way, Seattle, WA 98121","Parking, Gym",292
+17-03-2024,Fairmont Olympic Hotel,4,Seattle,"411 University St, Seattle, WA 98101",Free WiFi,183
+18-03-2024,The Edgewater Hotel,4,Seattle,"2411 Alaskan Way, Seattle, WA 98121","Pet friendly, Pool",276
+18-03-2024,Sheraton Grand Seattle,4,Seattle,"1400 6th Ave, Seattle, WA 98101","Pool, Gym, Free WiFi",196
+19-03-2024,Sheraton Grand Seattle,4,Seattle,"1400 6th Ave, Seattle, WA 98101","Free Breakfast, Fitness, Gym",214
+19-03-2024,Thompson Seattle,4,Seattle,"110 Stewart St, Seattle, WA 98101","Gym, Parking",202
+20-03-2024,The Edgewater Hotel,4,Seattle,"2411 Alaskan Way, Seattle, WA 98121",Hot tub,219
+20-03-2024,The Westin Seattle,4,Seattle,"1900 5th Ave, Seattle, WA 98101","Kitchen/Kitchenette, Free Breakfast, Pet friendly",203
+21-03-2024,The Westin Seattle,4,Seattle,"1900 5th Ave, Seattle, WA 98101",Pet friendly,214
+21-03-2024,The Westin Seattle,4,Seattle,"1900 5th Ave, Seattle, WA 98101","Pool, Hot tub, Fitness",198
+22-03-2024,Thompson Seattle,4,Seattle,"110 Stewart St, Seattle, WA 98101","Pool, Hot tub, Kitchen/Kitchenette",284
+22-03-2024,Thompson Seattle,4,Seattle,"110 Stewart St, Seattle, WA 98101","Pool, Kitchen/Kitchenette",278
+23-03-2024,Thompson Seattle,4,Seattle,"110 Stewart St, Seattle, WA 98101","Hot tub, Airport Shuttle, Kitchen/Kitchenette",281
+23-03-2024,Fairmont Olympic Hotel,4,Seattle,"411 University St, Seattle, WA 98101","Fitness, Gym, Kitchen/Kitchenette",231
+24-03-2024,The Westin Seattle,4,Seattle,"1900 5th Ave, Seattle, WA 98101","Fitness, Free WiFi",200
+24-03-2024,Thompson Seattle,4,Seattle,"110 Stewart St, Seattle, WA 98101",Free WiFi,284
+25-03-2024,The Edgewater Hotel,4,Seattle,"2411 Alaskan Way, Seattle, WA 98121","Free WiFi, Parking, Pet friendly",226
+25-03-2024,The Westin Seattle,4,Seattle,"1900 5th Ave, Seattle, WA 98101","Free Breakfast, Fitness, Pool",210
+26-03-2024,Fairmont Olympic Hotel,4,Seattle,"411 University St, Seattle, WA 98101","Free Breakfast, Fitness",179
+26-03-2024,Thompson Seattle,4,Seattle,"110 Stewart St, Seattle, WA 98101",Parking,208
+27-03-2024,The Westin Seattle,4,Seattle,"1900 5th Ave, Seattle, WA 98101",Parking,183
+27-03-2024,Thompson Seattle,4,Seattle,"110 Stewart St, Seattle, WA 98101",Pool,191
+28-03-2024,The Westin Seattle,4,Seattle,"1900 5th Ave, Seattle, WA 98101","Gym, Pool",292
+28-03-2024,The Westin Seattle,4,Seattle,"1900 5th Ave, Seattle, WA 98101","Gym, Airport Shuttle",223
+29-03-2024,Sheraton Grand Seattle,4,Seattle,"1400 6th Ave, Seattle, WA 98101","Hot tub, Gym, Pet friendly",263
+29-03-2024,The Westin Seattle,4,Seattle,"1900 5th Ave, Seattle, WA 98101","Free Breakfast, Kitchen/Kitchenette, Pet friendly",291
+30-03-2024,Sheraton Grand Seattle,4,Seattle,"1400 6th Ave, Seattle, WA 98101",Gym,208
+30-03-2024,Thompson Seattle,4,Seattle,"110 Stewart St, Seattle, WA 98101",Free WiFi,280
+31-03-2024,Thompson Seattle,4,Seattle,"110 Stewart St, Seattle, WA 98101","Airport Shuttle, Hot tub, Fitness",188
+31-03-2024,Thompson Seattle,4,Seattle,"110 Stewart St, Seattle, WA 98101",Free WiFi,205
+1/3/2024,The Westin Seattle,5,Seattle,"1900 5th Ave, Seattle, WA 98101","Pet friendly, Hot tub, Kitchen/Kitchenette",1319
+1/3/2024,The Westin Seattle,5,Seattle,"1900 5th Ave, Seattle, WA 98101","Kitchen/Kitchenette, Gym, Airport Shuttle",531
+2/3/2024,Thompson Seattle,5,Seattle,"110 Stewart St, Seattle, WA 98101","Fitness, Kitchen/Kitchenette, Free Breakfast, Parking",1439
+2/3/2024,Thompson Seattle,5,Seattle,"110 Stewart St, Seattle, WA 98101","Parking, Pool, Kitchen/Kitchenette, Pet friendly",619
+3/3/2024,Fairmont Olympic Hotel,5,Seattle,"411 University St, Seattle, WA 98101","Kitchen/Kitchenette, Hot tub, Parking",1352
+3/3/2024,Fairmont Olympic Hotel,5,Seattle,"411 University St, Seattle, WA 98101","Free Breakfast, Airport Shuttle, Pool",308
+4/3/2024,The Westin Seattle,5,Seattle,"1900 5th Ave, Seattle, WA 98101","Free WiFi, Hot tub, Free Breakfast, Parking, Pool",1233
+4/3/2024,The Edgewater Hotel,5,Seattle,"2411 Alaskan Way, Seattle, WA 98121","Gym, Fitness, Kitchen/Kitchenette, Parking",435
+5/3/2024,Thompson Seattle,5,Seattle,"110 Stewart St, Seattle, WA 98101","Kitchen/Kitchenette, Fitness, Pet friendly, Free WiFi",530
+5/3/2024,The Westin Seattle,5,Seattle,"1900 5th Ave, Seattle, WA 98101","Free Breakfast, Parking, Free WiFi, Fitness, Pet friendly",707
+6/3/2024,The Edgewater Hotel,5,Seattle,"2411 Alaskan Way, Seattle, WA 98121","Free WiFi, Pet friendly, Gym, Free Breakfast, Fitness",984
+6/3/2024,The Westin Seattle,5,Seattle,"1900 5th Ave, Seattle, WA 98101","Fitness, Hot tub, Gym, Airport Shuttle, Parking",538
+7/3/2024,The Westin Seattle,5,Seattle,"1900 5th Ave, Seattle, WA 98101","Free WiFi, Pet friendly, Kitchen/Kitchenette, Free Breakfast, Gym",376
+7/3/2024,Sheraton Grand Seattle,5,Seattle,"1400 6th Ave, Seattle, WA 98101","Free WiFi, Hot tub, Pet friendly, Kitchen/Kitchenette",777
+8/3/2024,Sheraton Grand Seattle,5,Seattle,"1400 6th Ave, Seattle, WA 98101","Gym, Free WiFi, Fitness, Airport Shuttle, Hot tub",239
+8/3/2024,The Westin Seattle,5,Seattle,"1900 5th Ave, Seattle, WA 98101","Pool, Fitness, Airport Shuttle, Free Breakfast, Hot tub",673
+9/3/2024,Thompson Seattle,5,Seattle,"110 Stewart St, Seattle, WA 98101","Free Breakfast, Pool, Kitchen/Kitchenette, Gym",906
+9/3/2024,Fairmont Olympic Hotel,5,Seattle,"411 University St, Seattle, WA 98101","Parking, Hot tub, Pet friendly, Airport Shuttle",1084
+10/3/2024,The Edgewater Hotel,5,Seattle,"2411 Alaskan Way, Seattle, WA 98121","Free WiFi, Kitchen/Kitchenette, Parking, Fitness, Airport Shuttle",1023
+10/3/2024,The Edgewater Hotel,5,Seattle,"2411 Alaskan Way, Seattle, WA 98121","Free Breakfast, Airport Shuttle, Gym",515
+11/3/2024,Thompson Seattle,5,Seattle,"110 Stewart St, Seattle, WA 98101","Pool, Hot tub, Airport Shuttle, Free Breakfast",1035
+11/3/2024,The Edgewater Hotel,5,Seattle,"2411 Alaskan Way, Seattle, WA 98121","Pet friendly, Airport Shuttle, Hot tub, Parking",1461
+12/3/2024,The Westin Seattle,5,Seattle,"1900 5th Ave, Seattle, WA 98101","Free WiFi, Gym, Hot tub",1412
+12/3/2024,Thompson Seattle,5,Seattle,"110 Stewart St, Seattle, WA 98101","Hot tub, Pet friendly, Free WiFi",268
+13-03-2024,The Edgewater Hotel,5,Seattle,"2411 Alaskan Way, Seattle, WA 98121","Free Breakfast, Airport Shuttle, Pet friendly, Pool",487
+13-03-2024,Sheraton Grand Seattle,5,Seattle,"1400 6th Ave, Seattle, WA 98101","Kitchen/Kitchenette, Free Breakfast, Free WiFi, Hot tub, Pet friendly",1186
+14-03-2024,Fairmont Olympic Hotel,5,Seattle,"411 University St, Seattle, WA 98101","Free Breakfast, Parking, Pool, Airport Shuttle, Free WiFi",1088
+14-03-2024,Thompson Seattle,5,Seattle,"110 Stewart St, Seattle, WA 98101","Kitchen/Kitchenette, Hot tub, Fitness, Pet friendly, Free Breakfast",1421
+15-03-2024,Fairmont Olympic Hotel,5,Seattle,"411 University St, Seattle, WA 98101","Hot tub, Pool, Fitness, Gym, Pet friendly",302
+15-03-2024,Fairmont Olympic Hotel,5,Seattle,"411 University St, Seattle, WA 98101","Parking, Gym, Pet friendly",1079
+16-03-2024,Thompson Seattle,5,Seattle,"110 Stewart St, Seattle, WA 98101","Fitness, Pet friendly, Pool",816
+16-03-2024,The Westin Seattle,5,Seattle,"1900 5th Ave, Seattle, WA 98101","Free WiFi, Parking, Free Breakfast, Airport Shuttle, Fitness",889
+17-03-2024,Fairmont Olympic Hotel,5,Seattle,"411 University St, Seattle, WA 98101","Gym, Free WiFi, Parking",739
+17-03-2024,The Westin Seattle,5,Seattle,"1900 5th Ave, Seattle, WA 98101","Kitchen/Kitchenette, Free Breakfast, Pool, Airport Shuttle",1299
+18-03-2024,The Edgewater Hotel,5,Seattle,"2411 Alaskan Way, Seattle, WA 98121","Kitchen/Kitchenette, Pool, Hot tub, Airport Shuttle",326
+18-03-2024,The Edgewater Hotel,5,Seattle,"2411 Alaskan Way, Seattle, WA 98121","Airport Shuttle, Free WiFi, Hot tub",483
+19-03-2024,Sheraton Grand Seattle,5,Seattle,"1400 6th Ave, Seattle, WA 98101","Free Breakfast, Parking, Gym, Free WiFi",408
+19-03-2024,Fairmont Olympic Hotel,5,Seattle,"411 University St, Seattle, WA 98101","Free WiFi, Hot tub, Fitness, Gym, Airport Shuttle",630
+20-03-2024,Sheraton Grand Seattle,5,Seattle,"1400 6th Ave, Seattle, WA 98101","Hot tub, Free WiFi, Parking, Gym, Free Breakfast",736
+20-03-2024,The Westin Seattle,5,Seattle,"1900 5th Ave, Seattle, WA 98101","Free Breakfast, Free WiFi, Airport Shuttle, Pet friendly",521
+21-03-2024,Thompson Seattle,5,Seattle,"110 Stewart St, Seattle, WA 98101","Pet friendly, Fitness, Pool, Free WiFi, Hot tub",353
+21-03-2024,Thompson Seattle,5,Seattle,"110 Stewart St, Seattle, WA 98101","Fitness, Pool, Pet friendly",1211
+22-03-2024,The Westin Seattle,5,Seattle,"1900 5th Ave, Seattle, WA 98101","Pool, Parking, Gym, Free WiFi, Pet friendly",1340
+22-03-2024,Fairmont Olympic Hotel,5,Seattle,"411 University St, Seattle, WA 98101","Hot tub, Pool, Kitchen/Kitchenette, Pet friendly, Airport Shuttle",1147
+23-03-2024,Sheraton Grand Seattle,5,Seattle,"1400 6th Ave, Seattle, WA 98101","Free WiFi, Hot tub, Fitness, Parking",1374
+23-03-2024,The Edgewater Hotel,5,Seattle,"2411 Alaskan Way, Seattle, WA 98121","Parking, Pool, Airport Shuttle, Fitness",1533
+24-03-2024,The Edgewater Hotel,5,Seattle,"2411 Alaskan Way, Seattle, WA 98121","Free WiFi, Pet friendly, Kitchen/Kitchenette, Pool, Hot tub",1568
+24-03-2024,Sheraton Grand Seattle,5,Seattle,"1400 6th Ave, Seattle, WA 98101","Pool, Kitchen/Kitchenette, Free Breakfast, Hot tub",542
+25-03-2024,The Westin Seattle,5,Seattle,"1900 5th Ave, Seattle, WA 98101","Parking, Fitness, Airport Shuttle, Free Breakfast",1470
+25-03-2024,Thompson Seattle,5,Seattle,"110 Stewart St, Seattle, WA 98101","Kitchen/Kitchenette, Fitness, Free WiFi, Parking",1140
+26-03-2024,The Westin Seattle,5,Seattle,"1900 5th Ave, Seattle, WA 98101","Gym, Pet friendly, Free Breakfast",1096
+26-03-2024,The Westin Seattle,5,Seattle,"1900 5th Ave, Seattle, WA 98101","Pool, Pet friendly, Airport Shuttle",1541
+27-03-2024,The Edgewater Hotel,5,Seattle,"2411 Alaskan Way, Seattle, WA 98121","Hot tub, Fitness, Parking, Kitchen/Kitchenette",404
+27-03-2024,Sheraton Grand Seattle,5,Seattle,"1400 6th Ave, Seattle, WA 98101","Pet friendly, Airport Shuttle, Gym, Hot tub, Fitness",257
+28-03-2024,Thompson Seattle,5,Seattle,"110 Stewart St, Seattle, WA 98101","Hot tub, Parking, Kitchen/Kitchenette",1233
+28-03-2024,Fairmont Olympic Hotel,5,Seattle,"411 University St, Seattle, WA 98101","Pet friendly, Parking, Hot tub",1173
+29-03-2024,Fairmont Olympic Hotel,5,Seattle,"411 University St, Seattle, WA 98101","Gym, Parking, Pool",588
+29-03-2024,Fairmont Olympic Hotel,5,Seattle,"411 University St, Seattle, WA 98101","Hot tub, Airport Shuttle, Free WiFi, Gym, Pool",823
+30-03-2024,The Westin Seattle,5,Seattle,"1900 5th Ave, Seattle, WA 98101","Parking, Gym, Airport Shuttle, Kitchen/Kitchenette",910
+30-03-2024,Thompson Seattle,5,Seattle,"110 Stewart St, Seattle, WA 98101","Kitchen/Kitchenette, Free WiFi, Parking",1353
+31-03-2024,Fairmont Olympic Hotel,5,Seattle,"411 University St, Seattle, WA 98101","Pool, Pet friendly, Hot tub, Free WiFi, Parking",968
+31-03-2024,Fairmont Olympic Hotel,5,Seattle,"411 University St, Seattle, WA 98101","Fitness, Pool, Hot tub, Pet friendly, Gym",864
+1/3/2024,Park Hyatt Chicago,4,Chicago,"800 N Michigan Ave, Chicago, IL 60611","Parking, Pool, Free Breakfast",190
+1/3/2024,The Peninsula Chicago,4,Chicago,"108 E Superior St, Chicago, IL 60611","Parking, Free WiFi",160
+2/3/2024,Park Hyatt Chicago,4,Chicago,"800 N Michigan Ave, Chicago, IL 60611","Fitness, Airport Shuttle, Parking",188
+2/3/2024,Park Hyatt Chicago,4,Chicago,"800 N Michigan Ave, Chicago, IL 60611",Parking,205
+3/3/2024,Park Hyatt Chicago,4,Chicago,"800 N Michigan Ave, Chicago, IL 60611","Hot tub, Free WiFi, Kitchen/Kitchenette",180
+3/3/2024,Trump International Hotel & Tower Chicago,4,Chicago,"401 N Wabash Ave, Chicago, IL 60611","Free WiFi, Gym",200
+4/3/2024,Park Hyatt Chicago,4,Chicago,"800 N Michigan Ave, Chicago, IL 60611",Free WiFi,155
+4/3/2024,Four Seasons Hotel Chicago,4,Chicago,"120 E Delaware Pl, Chicago, IL 60611","Parking, Fitness",183
+5/3/2024,Park Hyatt Chicago,4,Chicago,"800 N Michigan Ave, Chicago, IL 60611","Free Breakfast, Parking, Gym",211
+5/3/2024,The Peninsula Chicago,4,Chicago,"108 E Superior St, Chicago, IL 60611","Hot tub, Fitness",208
+6/3/2024,The Peninsula Chicago,4,Chicago,"108 E Superior St, Chicago, IL 60611","Free WiFi, Free Breakfast, Airport Shuttle",205
+6/3/2024,Park Hyatt Chicago,4,Chicago,"800 N Michigan Ave, Chicago, IL 60611","Kitchen/Kitchenette, Parking",164
+7/3/2024,The Peninsula Chicago,4,Chicago,"108 E Superior St, Chicago, IL 60611","Parking, Free Breakfast",195
+7/3/2024,Trump International Hotel & Tower Chicago,4,Chicago,"401 N Wabash Ave, Chicago, IL 60611","Kitchen/Kitchenette, Fitness, Pet friendly",159
+8/3/2024,Four Seasons Hotel Chicago,4,Chicago,"120 E Delaware Pl, Chicago, IL 60611","Free Breakfast, Hot tub, Pool",185
+8/3/2024,"The Langham, Chicago",4,Chicago,"330 N Wabash Ave, Chicago, IL 60611",Airport Shuttle,186
+9/3/2024,"The Langham, Chicago",4,Chicago,"330 N Wabash Ave, Chicago, IL 60611","Free Breakfast, Pool, Pet friendly",211
+9/3/2024,Trump International Hotel & Tower Chicago,4,Chicago,"401 N Wabash Ave, Chicago, IL 60611","Airport Shuttle, Hot tub",148
+10/3/2024,Park Hyatt Chicago,4,Chicago,"800 N Michigan Ave, Chicago, IL 60611","Free Breakfast, Parking",162
+10/3/2024,The Peninsula Chicago,4,Chicago,"108 E Superior St, Chicago, IL 60611","Free Breakfast, Fitness",172
+11/3/2024,Four Seasons Hotel Chicago,4,Chicago,"120 E Delaware Pl, Chicago, IL 60611","Kitchen/Kitchenette, Pet friendly",174
+11/3/2024,"The Langham, Chicago",4,Chicago,"330 N Wabash Ave, Chicago, IL 60611","Parking, Fitness, Kitchen/Kitchenette",156
+12/3/2024,The Peninsula Chicago,4,Chicago,"108 E Superior St, Chicago, IL 60611","Fitness, Kitchen/Kitchenette",153
+12/3/2024,"The Langham, Chicago",4,Chicago,"330 N Wabash Ave, Chicago, IL 60611","Hot tub, Parking, Airport Shuttle",148
+13-03-2024,Trump International Hotel & Tower Chicago,4,Chicago,"401 N Wabash Ave, Chicago, IL 60611","Hot tub, Fitness",194
+13-03-2024,Trump International Hotel & Tower Chicago,4,Chicago,"401 N Wabash Ave, Chicago, IL 60611",Parking,202
+14-03-2024,The Peninsula Chicago,4,Chicago,"108 E Superior St, Chicago, IL 60611",Airport Shuttle,147
+14-03-2024,The Peninsula Chicago,4,Chicago,"108 E Superior St, Chicago, IL 60611","Gym, Parking, Free WiFi",177
+15-03-2024,Trump International Hotel & Tower Chicago,4,Chicago,"401 N Wabash Ave, Chicago, IL 60611","Free Breakfast, Fitness, Pet friendly",164
+15-03-2024,The Peninsula Chicago,4,Chicago,"108 E Superior St, Chicago, IL 60611","Free WiFi, Free Breakfast, Pet friendly",177
+16-03-2024,"The Langham, Chicago",4,Chicago,"330 N Wabash Ave, Chicago, IL 60611",Fitness,134
+16-03-2024,"The Langham, Chicago",4,Chicago,"330 N Wabash Ave, Chicago, IL 60611","Free Breakfast, Fitness",160
+17-03-2024,The Peninsula Chicago,4,Chicago,"108 E Superior St, Chicago, IL 60611",Parking,162
+17-03-2024,"The Langham, Chicago",4,Chicago,"330 N Wabash Ave, Chicago, IL 60611","Hot tub, Pool, Free Breakfast",179
+18-03-2024,Four Seasons Hotel Chicago,4,Chicago,"120 E Delaware Pl, Chicago, IL 60611","Parking, Free Breakfast, Hot tub",209
+18-03-2024,Four Seasons Hotel Chicago,4,Chicago,"120 E Delaware Pl, Chicago, IL 60611","Hot tub, Gym, Kitchen/Kitchenette",148
+19-03-2024,The Peninsula Chicago,4,Chicago,"108 E Superior St, Chicago, IL 60611","Free Breakfast, Gym, Hot tub",144
+19-03-2024,Trump International Hotel & Tower Chicago,4,Chicago,"401 N Wabash Ave, Chicago, IL 60611",Pool,214
+20-03-2024,Four Seasons Hotel Chicago,4,Chicago,"120 E Delaware Pl, Chicago, IL 60611",Free Breakfast,136
+20-03-2024,Trump International Hotel & Tower Chicago,4,Chicago,"401 N Wabash Ave, Chicago, IL 60611",Fitness,159
+21-03-2024,The Peninsula Chicago,4,Chicago,"108 E Superior St, Chicago, IL 60611","Hot tub, Airport Shuttle, Pet friendly",194
+21-03-2024,Four Seasons Hotel Chicago,4,Chicago,"120 E Delaware Pl, Chicago, IL 60611","Kitchen/Kitchenette, Hot tub, Free Breakfast",158
+22-03-2024,Park Hyatt Chicago,4,Chicago,"800 N Michigan Ave, Chicago, IL 60611",Gym,196
+22-03-2024,The Peninsula Chicago,4,Chicago,"108 E Superior St, Chicago, IL 60611","Pet friendly, Kitchen/Kitchenette",204
+23-03-2024,Trump International Hotel & Tower Chicago,4,Chicago,"401 N Wabash Ave, Chicago, IL 60611",Parking,146
+23-03-2024,Park Hyatt Chicago,4,Chicago,"800 N Michigan Ave, Chicago, IL 60611","Free WiFi, Pet friendly",154
+24-03-2024,Trump International Hotel & Tower Chicago,4,Chicago,"401 N Wabash Ave, Chicago, IL 60611","Parking, Free WiFi, Hot tub",153
+24-03-2024,The Peninsula Chicago,4,Chicago,"108 E Superior St, Chicago, IL 60611","Airport Shuttle, Pool",204
+25-03-2024,Four Seasons Hotel Chicago,4,Chicago,"120 E Delaware Pl, Chicago, IL 60611","Pool, Hot tub, Kitchen/Kitchenette",156
+25-03-2024,Park Hyatt Chicago,4,Chicago,"800 N Michigan Ave, Chicago, IL 60611","Airport Shuttle, Free Breakfast, Free WiFi",206
+26-03-2024,Four Seasons Hotel Chicago,4,Chicago,"120 E Delaware Pl, Chicago, IL 60611",Free Breakfast,160
+26-03-2024,"The Langham, Chicago",4,Chicago,"330 N Wabash Ave, Chicago, IL 60611",Airport Shuttle,199
+27-03-2024,Park Hyatt Chicago,4,Chicago,"800 N Michigan Ave, Chicago, IL 60611","Kitchen/Kitchenette, Free WiFi",211
+27-03-2024,Trump International Hotel & Tower Chicago,4,Chicago,"401 N Wabash Ave, Chicago, IL 60611","Airport Shuttle, Gym, Hot tub",160
+28-03-2024,"The Langham, Chicago",4,Chicago,"330 N Wabash Ave, Chicago, IL 60611","Airport Shuttle, Free Breakfast",163
+28-03-2024,The Peninsula Chicago,4,Chicago,"108 E Superior St, Chicago, IL 60611","Pool, Gym",190
+29-03-2024,The Peninsula Chicago,4,Chicago,"108 E Superior St, Chicago, IL 60611","Free WiFi, Fitness, Parking",198
+29-03-2024,Four Seasons Hotel Chicago,4,Chicago,"120 E Delaware Pl, Chicago, IL 60611","Parking, Airport Shuttle, Kitchen/Kitchenette",171
+30-03-2024,Four Seasons Hotel Chicago,4,Chicago,"120 E Delaware Pl, Chicago, IL 60611","Parking, Hot tub, Airport Shuttle",136
+30-03-2024,"The Langham, Chicago",4,Chicago,"330 N Wabash Ave, Chicago, IL 60611","Free Breakfast, Free WiFi, Fitness",173
+31-03-2024,Trump International Hotel & Tower Chicago,4,Chicago,"401 N Wabash Ave, Chicago, IL 60611","Kitchen/Kitchenette, Free Breakfast, Hot tub",153
+31-03-2024,"The Langham, Chicago",4,Chicago,"330 N Wabash Ave, Chicago, IL 60611",Hot tub,176
+1/3/2024,Four Seasons Hotel Chicago,5,Chicago,"120 E Delaware Pl, Chicago, IL 60611","Gym, Free WiFi, Parking, Kitchen/Kitchenette, Airport Shuttle",1389
+1/3/2024,Trump International Hotel & Tower Chicago,5,Chicago,"401 N Wabash Ave, Chicago, IL 60611","Free Breakfast, Airport Shuttle, Pet friendly",430
+2/3/2024,Trump International Hotel & Tower Chicago,5,Chicago,"401 N Wabash Ave, Chicago, IL 60611","Free Breakfast, Kitchen/Kitchenette, Parking, Free WiFi, Pet friendly",1369
+2/3/2024,The Peninsula Chicago,5,Chicago,"108 E Superior St, Chicago, IL 60611","Gym, Fitness, Kitchen/Kitchenette, Pet friendly, Free WiFi",1317
+3/3/2024,"The Langham, Chicago",5,Chicago,"330 N Wabash Ave, Chicago, IL 60611","Airport Shuttle, Parking, Pool, Pet friendly, Free Breakfast",1192
+3/3/2024,Four Seasons Hotel Chicago,5,Chicago,"120 E Delaware Pl, Chicago, IL 60611","Free WiFi, Gym, Fitness",809
+4/3/2024,Four Seasons Hotel Chicago,5,Chicago,"120 E Delaware Pl, Chicago, IL 60611","Hot tub, Pet friendly, Free Breakfast",576
+4/3/2024,Four Seasons Hotel Chicago,5,Chicago,"120 E Delaware Pl, Chicago, IL 60611","Kitchen/Kitchenette, Airport Shuttle, Pool, Gym",704
+5/3/2024,Four Seasons Hotel Chicago,5,Chicago,"120 E Delaware Pl, Chicago, IL 60611","Hot tub, Airport Shuttle, Pet friendly",1127
+5/3/2024,Four Seasons Hotel Chicago,5,Chicago,"120 E Delaware Pl, Chicago, IL 60611","Free Breakfast, Airport Shuttle, Kitchen/Kitchenette, Fitness, Gym",1197
+6/3/2024,Trump International Hotel & Tower Chicago,5,Chicago,"401 N Wabash Ave, Chicago, IL 60611","Kitchen/Kitchenette, Parking, Free Breakfast",568
+6/3/2024,Four Seasons Hotel Chicago,5,Chicago,"120 E Delaware Pl, Chicago, IL 60611","Pet friendly, Kitchen/Kitchenette, Airport Shuttle, Free Breakfast, Free WiFi",1090
+7/3/2024,The Peninsula Chicago,5,Chicago,"108 E Superior St, Chicago, IL 60611","Free Breakfast, Airport Shuttle, Pool, Pet friendly",872
+7/3/2024,Park Hyatt Chicago,5,Chicago,"800 N Michigan Ave, Chicago, IL 60611","Parking, Free Breakfast, Fitness, Gym, Airport Shuttle",947
+8/3/2024,"The Langham, Chicago",5,Chicago,"330 N Wabash Ave, Chicago, IL 60611","Parking, Free Breakfast, Fitness, Hot tub",605
+8/3/2024,Trump International Hotel & Tower Chicago,5,Chicago,"401 N Wabash Ave, Chicago, IL 60611","Pet friendly, Parking, Airport Shuttle, Hot tub, Kitchen/Kitchenette",1327
+9/3/2024,"The Langham, Chicago",5,Chicago,"330 N Wabash Ave, Chicago, IL 60611","Parking, Airport Shuttle, Hot tub",1303
+9/3/2024,Park Hyatt Chicago,5,Chicago,"800 N Michigan Ave, Chicago, IL 60611","Hot tub, Parking, Pool, Pet friendly, Gym",857
+10/3/2024,Park Hyatt Chicago,5,Chicago,"800 N Michigan Ave, Chicago, IL 60611","Free WiFi, Kitchen/Kitchenette, Hot tub",352
+10/3/2024,Four Seasons Hotel Chicago,5,Chicago,"120 E Delaware Pl, Chicago, IL 60611","Hot tub, Kitchen/Kitchenette, Parking",1267
+11/3/2024,Four Seasons Hotel Chicago,5,Chicago,"120 E Delaware Pl, Chicago, IL 60611","Free Breakfast, Gym, Hot tub, Kitchen/Kitchenette, Pet friendly",538
+11/3/2024,Park Hyatt Chicago,5,Chicago,"800 N Michigan Ave, Chicago, IL 60611","Pool, Gym, Parking, Airport Shuttle",610
+12/3/2024,Trump International Hotel & Tower Chicago,5,Chicago,"401 N Wabash Ave, Chicago, IL 60611","Free WiFi, Free Breakfast, Pool, Airport Shuttle, Pet friendly",498
+12/3/2024,The Peninsula Chicago,5,Chicago,"108 E Superior St, Chicago, IL 60611","Fitness, Pool, Kitchen/Kitchenette",235
+13-03-2024,"The Langham, Chicago",5,Chicago,"330 N Wabash Ave, Chicago, IL 60611","Pool, Free WiFi, Free Breakfast, Pet friendly, Gym",854
+13-03-2024,The Peninsula Chicago,5,Chicago,"108 E Superior St, Chicago, IL 60611","Airport Shuttle, Kitchen/Kitchenette, Pool",291
+14-03-2024,"The Langham, Chicago",5,Chicago,"330 N Wabash Ave, Chicago, IL 60611","Pool, Parking, Pet friendly",647
+14-03-2024,Park Hyatt Chicago,5,Chicago,"800 N Michigan Ave, Chicago, IL 60611","Airport Shuttle, Kitchen/Kitchenette, Gym, Pool",1341
+15-03-2024,Trump International Hotel & Tower Chicago,5,Chicago,"401 N Wabash Ave, Chicago, IL 60611","Gym, Pet friendly, Free Breakfast, Pool",488
+15-03-2024,Park Hyatt Chicago,5,Chicago,"800 N Michigan Ave, Chicago, IL 60611","Free Breakfast, Parking, Airport Shuttle, Fitness",259
+16-03-2024,"The Langham, Chicago",5,Chicago,"330 N Wabash Ave, Chicago, IL 60611","Gym, Kitchen/Kitchenette, Free WiFi, Fitness, Free Breakfast",979
+16-03-2024,The Peninsula Chicago,5,Chicago,"108 E Superior St, Chicago, IL 60611","Fitness, Airport Shuttle, Hot tub",1365
+17-03-2024,"The Langham, Chicago",5,Chicago,"330 N Wabash Ave, Chicago, IL 60611","Fitness, Gym, Pool",1018
+17-03-2024,The Peninsula Chicago,5,Chicago,"108 E Superior St, Chicago, IL 60611","Gym, Pool, Kitchen/Kitchenette, Airport Shuttle",660
+18-03-2024,Park Hyatt Chicago,5,Chicago,"800 N Michigan Ave, Chicago, IL 60611","Free WiFi, Pool, Kitchen/Kitchenette",1397
+18-03-2024,Trump International Hotel & Tower Chicago,5,Chicago,"401 N Wabash Ave, Chicago, IL 60611","Free Breakfast, Parking, Hot tub, Gym",1002
+19-03-2024,The Peninsula Chicago,5,Chicago,"108 E Superior St, Chicago, IL 60611","Free WiFi, Gym, Free Breakfast, Fitness, Kitchen/Kitchenette",269
+19-03-2024,"The Langham, Chicago",5,Chicago,"330 N Wabash Ave, Chicago, IL 60611","Pet friendly, Airport Shuttle, Parking",376
+20-03-2024,Trump International Hotel & Tower Chicago,5,Chicago,"401 N Wabash Ave, Chicago, IL 60611","Free WiFi, Fitness, Parking",310
+20-03-2024,Park Hyatt Chicago,5,Chicago,"800 N Michigan Ave, Chicago, IL 60611","Gym, Fitness, Pool",537
+21-03-2024,Trump International Hotel & Tower Chicago,5,Chicago,"401 N Wabash Ave, Chicago, IL 60611","Pool, Parking, Hot tub, Airport Shuttle, Gym",1163
+21-03-2024,Park Hyatt Chicago,5,Chicago,"800 N Michigan Ave, Chicago, IL 60611","Kitchen/Kitchenette, Free Breakfast, Free WiFi, Fitness",1336
+22-03-2024,"The Langham, Chicago",5,Chicago,"330 N Wabash Ave, Chicago, IL 60611","Fitness, Hot tub, Parking, Free WiFi",1441
+22-03-2024,Trump International Hotel & Tower Chicago,5,Chicago,"401 N Wabash Ave, Chicago, IL 60611","Airport Shuttle, Hot tub, Free Breakfast, Parking",379
+23-03-2024,The Peninsula Chicago,5,Chicago,"108 E Superior St, Chicago, IL 60611","Parking, Airport Shuttle, Pool",268
+23-03-2024,The Peninsula Chicago,5,Chicago,"108 E Superior St, Chicago, IL 60611","Fitness, Kitchen/Kitchenette, Airport Shuttle",1062
+24-03-2024,Four Seasons Hotel Chicago,5,Chicago,"120 E Delaware Pl, Chicago, IL 60611","Pet friendly, Kitchen/Kitchenette, Hot tub",987
+24-03-2024,"The Langham, Chicago",5,Chicago,"330 N Wabash Ave, Chicago, IL 60611","Airport Shuttle, Kitchen/Kitchenette, Free WiFi, Fitness, Hot tub",1456
+25-03-2024,The Peninsula Chicago,5,Chicago,"108 E Superior St, Chicago, IL 60611","Free WiFi, Pet friendly, Fitness, Gym",430
+25-03-2024,Trump International Hotel & Tower Chicago,5,Chicago,"401 N Wabash Ave, Chicago, IL 60611","Hot tub, Kitchen/Kitchenette, Free Breakfast, Airport Shuttle",994
+26-03-2024,Trump International Hotel & Tower Chicago,5,Chicago,"401 N Wabash Ave, Chicago, IL 60611","Kitchen/Kitchenette, Pet friendly, Fitness, Parking",652
+26-03-2024,"The Langham, Chicago",5,Chicago,"330 N Wabash Ave, Chicago, IL 60611","Gym, Fitness, Parking",574
+27-03-2024,Trump International Hotel & Tower Chicago,5,Chicago,"401 N Wabash Ave, Chicago, IL 60611","Hot tub, Pet friendly, Free WiFi, Free Breakfast",1175
+27-03-2024,The Peninsula Chicago,5,Chicago,"108 E Superior St, Chicago, IL 60611","Pool, Pet friendly, Airport Shuttle",531
+28-03-2024,Trump International Hotel & Tower Chicago,5,Chicago,"401 N Wabash Ave, Chicago, IL 60611","Parking, Gym, Free Breakfast, Pet friendly, Hot tub",1329
+28-03-2024,The Peninsula Chicago,5,Chicago,"108 E Superior St, Chicago, IL 60611","Airport Shuttle, Gym, Pool, Kitchen/Kitchenette",1430
+29-03-2024,Trump International Hotel & Tower Chicago,5,Chicago,"401 N Wabash Ave, Chicago, IL 60611","Pool, Hot tub, Gym, Free WiFi",622
+29-03-2024,Park Hyatt Chicago,5,Chicago,"800 N Michigan Ave, Chicago, IL 60611","Kitchen/Kitchenette, Parking, Gym",950
+30-03-2024,Four Seasons Hotel Chicago,5,Chicago,"120 E Delaware Pl, Chicago, IL 60611","Fitness, Pool, Free WiFi, Pet friendly",1201
+30-03-2024,Trump International Hotel & Tower Chicago,5,Chicago,"401 N Wabash Ave, Chicago, IL 60611","Airport Shuttle, Gym, Free Breakfast, Free WiFi",747
+31-03-2024,Trump International Hotel & Tower Chicago,5,Chicago,"401 N Wabash Ave, Chicago, IL 60611","Airport Shuttle, Free Breakfast, Free WiFi, Hot tub",285
+31-03-2024,The Peninsula Chicago,5,Chicago,"108 E Superior St, Chicago, IL 60611","Hot tub, Pet friendly, Fitness, Kitchen/Kitchenette, Parking",1110
+1/3/2024,The Plaza Hotel,4,NYC,"768 5th Ave, New York, NY 10019","Free WiFi, Fitness, Pet friendly",397
+1/3/2024,"The Ritz-Carlton New York, Central Park",4,NYC,"50 Central Park S, New York, NY 10019","Free Breakfast, Parking",412
+2/3/2024,"The Langham, New York, Fifth Avenue",4,NYC,"400 5th Ave, New York, NY 10018","Free Breakfast, Free WiFi, Fitness",282
+2/3/2024,Four Seasons Hotel New York Downtown,4,NYC,"27 Barclay St, New York, NY 10007","Parking, Airport Shuttle",406
+3/3/2024,The Plaza Hotel,4,NYC,"768 5th Ave, New York, NY 10019","Fitness, Free Breakfast",334
+3/3/2024,Four Seasons Hotel New York Downtown,4,NYC,"27 Barclay St, New York, NY 10007","Pool, Kitchen/Kitchenette, Fitness",330
+4/3/2024,The Peninsula New York,4,NYC,"700 5th Ave, New York, NY 10019",Free Breakfast,379
+4/3/2024,Four Seasons Hotel New York Downtown,4,NYC,"27 Barclay St, New York, NY 10007",Fitness,362
+5/3/2024,Four Seasons Hotel New York Downtown,4,NYC,"27 Barclay St, New York, NY 10007","Gym, Parking",245
+5/3/2024,The Plaza Hotel,4,NYC,"768 5th Ave, New York, NY 10019",Pet friendly,401
+6/3/2024,Four Seasons Hotel New York Downtown,4,NYC,"27 Barclay St, New York, NY 10007","Free WiFi, Hot tub",415
+6/3/2024,"The Ritz-Carlton New York, Central Park",4,NYC,"50 Central Park S, New York, NY 10019","Parking, Airport Shuttle, Free Breakfast",360
+7/3/2024,"The Langham, New York, Fifth Avenue",4,NYC,"400 5th Ave, New York, NY 10018","Gym, Pool, Pet friendly",252
+7/3/2024,The Peninsula New York,4,NYC,"700 5th Ave, New York, NY 10019",Gym,278
+8/3/2024,Four Seasons Hotel New York Downtown,4,NYC,"27 Barclay St, New York, NY 10007",Gym,301
+8/3/2024,"The Ritz-Carlton New York, Central Park",4,NYC,"50 Central Park S, New York, NY 10019",Airport Shuttle,245
+9/3/2024,Four Seasons Hotel New York Downtown,4,NYC,"27 Barclay St, New York, NY 10007","Pool, Fitness",350
+9/3/2024,"The Langham, New York, Fifth Avenue",4,NYC,"400 5th Ave, New York, NY 10018","Fitness, Gym, Pool",378
+10/3/2024,The Plaza Hotel,4,NYC,"768 5th Ave, New York, NY 10019",Parking,266
+10/3/2024,The Plaza Hotel,4,NYC,"768 5th Ave, New York, NY 10019",Free WiFi,346
+11/3/2024,"The Langham, New York, Fifth Avenue",4,NYC,"400 5th Ave, New York, NY 10018","Pool, Free Breakfast, Free WiFi",271
+11/3/2024,The Peninsula New York,4,NYC,"700 5th Ave, New York, NY 10019",Hot tub,388
+12/3/2024,"The Langham, New York, Fifth Avenue",4,NYC,"400 5th Ave, New York, NY 10018",Airport Shuttle,236
+12/3/2024,The Peninsula New York,4,NYC,"700 5th Ave, New York, NY 10019",Hot tub,265
+13-03-2024,"The Langham, New York, Fifth Avenue",4,NYC,"400 5th Ave, New York, NY 10018",Airport Shuttle,244
+13-03-2024,"The Langham, New York, Fifth Avenue",4,NYC,"400 5th Ave, New York, NY 10018",Free WiFi,411
+14-03-2024,The Plaza Hotel,4,NYC,"768 5th Ave, New York, NY 10019","Kitchen/Kitchenette, Free WiFi",395
+14-03-2024,Four Seasons Hotel New York Downtown,4,NYC,"27 Barclay St, New York, NY 10007","Fitness, Airport Shuttle",349
+15-03-2024,"The Langham, New York, Fifth Avenue",4,NYC,"400 5th Ave, New York, NY 10018","Airport Shuttle, Pet friendly, Parking",399
+15-03-2024,Four Seasons Hotel New York Downtown,4,NYC,"27 Barclay St, New York, NY 10007",Airport Shuttle,248
+16-03-2024,The Plaza Hotel,4,NYC,"768 5th Ave, New York, NY 10019","Free Breakfast, Gym",331
+16-03-2024,Four Seasons Hotel New York Downtown,4,NYC,"27 Barclay St, New York, NY 10007","Airport Shuttle, Free Breakfast, Pool",355
+17-03-2024,"The Langham, New York, Fifth Avenue",4,NYC,"400 5th Ave, New York, NY 10018",Gym,416
+17-03-2024,Four Seasons Hotel New York Downtown,4,NYC,"27 Barclay St, New York, NY 10007","Free Breakfast, Fitness",302
+18-03-2024,Four Seasons Hotel New York Downtown,4,NYC,"27 Barclay St, New York, NY 10007","Hot tub, Parking, Kitchen/Kitchenette",297
+18-03-2024,Four Seasons Hotel New York Downtown,4,NYC,"27 Barclay St, New York, NY 10007",Pool,385
+19-03-2024,The Peninsula New York,4,NYC,"700 5th Ave, New York, NY 10019","Gym, Parking",279
+19-03-2024,The Plaza Hotel,4,NYC,"768 5th Ave, New York, NY 10019",Pet friendly,392
+20-03-2024,"The Ritz-Carlton New York, Central Park",4,NYC,"50 Central Park S, New York, NY 10019","Free WiFi, Airport Shuttle",235
+20-03-2024,The Peninsula New York,4,NYC,"700 5th Ave, New York, NY 10019","Fitness, Airport Shuttle, Kitchen/Kitchenette",360
+21-03-2024,"The Langham, New York, Fifth Avenue",4,NYC,"400 5th Ave, New York, NY 10018","Free WiFi, Parking, Pet friendly",412
+21-03-2024,"The Ritz-Carlton New York, Central Park",4,NYC,"50 Central Park S, New York, NY 10019","Gym, Free Breakfast",231
+22-03-2024,The Peninsula New York,4,NYC,"700 5th Ave, New York, NY 10019","Pool, Airport Shuttle",292
+22-03-2024,"The Langham, New York, Fifth Avenue",4,NYC,"400 5th Ave, New York, NY 10018","Pet friendly, Gym",234
+23-03-2024,The Plaza Hotel,4,NYC,"768 5th Ave, New York, NY 10019","Pet friendly, Free WiFi, Parking",339
+23-03-2024,The Peninsula New York,4,NYC,"700 5th Ave, New York, NY 10019","Airport Shuttle, Free WiFi, Gym",345
+24-03-2024,Four Seasons Hotel New York Downtown,4,NYC,"27 Barclay St, New York, NY 10007",Airport Shuttle,249
+24-03-2024,The Peninsula New York,4,NYC,"700 5th Ave, New York, NY 10019",Free WiFi,379
+25-03-2024,Four Seasons Hotel New York Downtown,4,NYC,"27 Barclay St, New York, NY 10007","Airport Shuttle, Hot tub",321
+25-03-2024,Four Seasons Hotel New York Downtown,4,NYC,"27 Barclay St, New York, NY 10007","Pool, Hot tub, Gym",324
+26-03-2024,Four Seasons Hotel New York Downtown,4,NYC,"27 Barclay St, New York, NY 10007","Free Breakfast, Gym",349
+26-03-2024,The Plaza Hotel,4,NYC,"768 5th Ave, New York, NY 10019","Free Breakfast, Airport Shuttle, Kitchen/Kitchenette",381
+27-03-2024,The Plaza Hotel,4,NYC,"768 5th Ave, New York, NY 10019","Free WiFi, Parking, Pet friendly",242
+27-03-2024,Four Seasons Hotel New York Downtown,4,NYC,"27 Barclay St, New York, NY 10007","Pet friendly, Airport Shuttle, Fitness",289
+28-03-2024,"The Langham, New York, Fifth Avenue",4,NYC,"400 5th Ave, New York, NY 10018","Fitness, Hot tub, Pet friendly",401
+28-03-2024,The Plaza Hotel,4,NYC,"768 5th Ave, New York, NY 10019",Free Breakfast,416
+29-03-2024,The Peninsula New York,4,NYC,"700 5th Ave, New York, NY 10019","Free WiFi, Hot tub",398
+29-03-2024,The Plaza Hotel,4,NYC,"768 5th Ave, New York, NY 10019","Gym, Free Breakfast, Kitchen/Kitchenette",301
+30-03-2024,"The Ritz-Carlton New York, Central Park",4,NYC,"50 Central Park S, New York, NY 10019",Airport Shuttle,288
+30-03-2024,The Peninsula New York,4,NYC,"700 5th Ave, New York, NY 10019",Pet friendly,241
+31-03-2024,Four Seasons Hotel New York Downtown,4,NYC,"27 Barclay St, New York, NY 10007","Pet friendly, Kitchen/Kitchenette",304
+31-03-2024,Four Seasons Hotel New York Downtown,4,NYC,"27 Barclay St, New York, NY 10007",Pet friendly,403
+1/3/2024,"The Langham, New York, Fifth Avenue",5,NYC,"400 5th Ave, New York, NY 10018","Parking, Free WiFi, Pool, Pet friendly, Free Breakfast",714
+1/3/2024,The Plaza Hotel,5,NYC,"768 5th Ave, New York, NY 10019","Fitness, Gym, Pool, Pet friendly, Free WiFi",1176
+2/3/2024,"The Ritz-Carlton New York, Central Park",5,NYC,"50 Central Park S, New York, NY 10019","Hot tub, Gym, Airport Shuttle, Free WiFi",1937
+2/3/2024,"The Ritz-Carlton New York, Central Park",5,NYC,"50 Central Park S, New York, NY 10019","Kitchen/Kitchenette, Fitness, Hot tub",451
+3/3/2024,The Peninsula New York,5,NYC,"700 5th Ave, New York, NY 10019","Parking, Pet friendly, Free WiFi, Airport Shuttle, Free Breakfast",1730
+3/3/2024,"The Ritz-Carlton New York, Central Park",5,NYC,"50 Central Park S, New York, NY 10019","Parking, Airport Shuttle, Kitchen/Kitchenette, Hot tub",762
+4/3/2024,The Peninsula New York,5,NYC,"700 5th Ave, New York, NY 10019","Kitchen/Kitchenette, Hot tub, Free Breakfast, Fitness, Gym",481
+4/3/2024,Four Seasons Hotel New York Downtown,5,NYC,"27 Barclay St, New York, NY 10007","Fitness, Parking, Pool, Pet friendly, Kitchen/Kitchenette",1648
+5/3/2024,"The Langham, New York, Fifth Avenue",5,NYC,"400 5th Ave, New York, NY 10018","Free Breakfast, Airport Shuttle, Parking",1763
+5/3/2024,The Peninsula New York,5,NYC,"700 5th Ave, New York, NY 10019","Kitchen/Kitchenette, Hot tub, Gym, Pet friendly",1266
+6/3/2024,The Plaza Hotel,5,NYC,"768 5th Ave, New York, NY 10019","Pet friendly, Airport Shuttle, Fitness",1143
+6/3/2024,"The Langham, New York, Fifth Avenue",5,NYC,"400 5th Ave, New York, NY 10018","Pool, Pet friendly, Parking, Free Breakfast, Hot tub",1135
+7/3/2024,Four Seasons Hotel New York Downtown,5,NYC,"27 Barclay St, New York, NY 10007","Fitness, Kitchen/Kitchenette, Pool",584
+7/3/2024,Four Seasons Hotel New York Downtown,5,NYC,"27 Barclay St, New York, NY 10007","Parking, Fitness, Airport Shuttle, Kitchen/Kitchenette",1862
+8/3/2024,The Peninsula New York,5,NYC,"700 5th Ave, New York, NY 10019","Kitchen/Kitchenette, Pool, Pet friendly",1151
+8/3/2024,Four Seasons Hotel New York Downtown,5,NYC,"27 Barclay St, New York, NY 10007","Pet friendly, Pool, Parking, Free WiFi",1217
+9/3/2024,Four Seasons Hotel New York Downtown,5,NYC,"27 Barclay St, New York, NY 10007","Pool, Pet friendly, Parking",1037
+9/3/2024,The Peninsula New York,5,NYC,"700 5th Ave, New York, NY 10019","Fitness, Pool, Free Breakfast",621
+10/3/2024,"The Ritz-Carlton New York, Central Park",5,NYC,"50 Central Park S, New York, NY 10019","Hot tub, Fitness, Kitchen/Kitchenette, Airport Shuttle, Parking",1061
+10/3/2024,"The Ritz-Carlton New York, Central Park",5,NYC,"50 Central Park S, New York, NY 10019","Free Breakfast, Airport Shuttle, Gym",565
+11/3/2024,The Peninsula New York,5,NYC,"700 5th Ave, New York, NY 10019","Gym, Free Breakfast, Parking",574
+11/3/2024,Four Seasons Hotel New York Downtown,5,NYC,"27 Barclay St, New York, NY 10007","Hot tub, Parking, Fitness, Free WiFi, Pet friendly",750
+12/3/2024,The Plaza Hotel,5,NYC,"768 5th Ave, New York, NY 10019","Fitness, Parking, Hot tub, Kitchen/Kitchenette",769
+12/3/2024,The Plaza Hotel,5,NYC,"768 5th Ave, New York, NY 10019","Pet friendly, Fitness, Pool, Hot tub, Kitchen/Kitchenette",1328
+13-03-2024,"The Langham, New York, Fifth Avenue",5,NYC,"400 5th Ave, New York, NY 10018","Parking, Gym, Free Breakfast",1918
+13-03-2024,"The Langham, New York, Fifth Avenue",5,NYC,"400 5th Ave, New York, NY 10018","Pool, Free WiFi, Hot tub",972
+14-03-2024,"The Langham, New York, Fifth Avenue",5,NYC,"400 5th Ave, New York, NY 10018","Free Breakfast, Free WiFi, Airport Shuttle, Pet friendly, Gym",1262
+14-03-2024,The Plaza Hotel,5,NYC,"768 5th Ave, New York, NY 10019","Gym, Pet friendly, Free WiFi",740
+15-03-2024,Four Seasons Hotel New York Downtown,5,NYC,"27 Barclay St, New York, NY 10007","Free Breakfast, Airport Shuttle, Pet friendly",609
+15-03-2024,Four Seasons Hotel New York Downtown,5,NYC,"27 Barclay St, New York, NY 10007","Fitness, Free Breakfast, Gym, Pool, Airport Shuttle",1575
+16-03-2024,"The Ritz-Carlton New York, Central Park",5,NYC,"50 Central Park S, New York, NY 10019","Pool, Kitchen/Kitchenette, Gym, Hot tub, Pet friendly",1624
+16-03-2024,"The Ritz-Carlton New York, Central Park",5,NYC,"50 Central Park S, New York, NY 10019","Kitchen/Kitchenette, Free WiFi, Pet friendly, Airport Shuttle",885
+17-03-2024,Four Seasons Hotel New York Downtown,5,NYC,"27 Barclay St, New York, NY 10007","Airport Shuttle, Pool, Fitness, Hot tub, Gym",1403
+17-03-2024,"The Ritz-Carlton New York, Central Park",5,NYC,"50 Central Park S, New York, NY 10019","Pool, Pet friendly, Hot tub",538
+18-03-2024,Four Seasons Hotel New York Downtown,5,NYC,"27 Barclay St, New York, NY 10007","Free Breakfast, Parking, Free WiFi, Gym",395
+18-03-2024,The Peninsula New York,5,NYC,"700 5th Ave, New York, NY 10019","Fitness, Airport Shuttle, Free WiFi, Parking, Pet friendly",1354
+19-03-2024,"The Ritz-Carlton New York, Central Park",5,NYC,"50 Central Park S, New York, NY 10019","Fitness, Free Breakfast, Gym",1025
+19-03-2024,The Plaza Hotel,5,NYC,"768 5th Ave, New York, NY 10019","Kitchen/Kitchenette, Free Breakfast, Hot tub",1157
+20-03-2024,The Peninsula New York,5,NYC,"700 5th Ave, New York, NY 10019","Kitchen/Kitchenette, Free WiFi, Fitness, Pool, Gym",1406
+20-03-2024,"The Langham, New York, Fifth Avenue",5,NYC,"400 5th Ave, New York, NY 10018","Free Breakfast, Airport Shuttle, Kitchen/Kitchenette, Free WiFi, Hot tub",1461
+21-03-2024,The Plaza Hotel,5,NYC,"768 5th Ave, New York, NY 10019","Gym, Pet friendly, Free Breakfast",1474
+21-03-2024,"The Ritz-Carlton New York, Central Park",5,NYC,"50 Central Park S, New York, NY 10019","Airport Shuttle, Gym, Kitchen/Kitchenette, Fitness",1549
+22-03-2024,Four Seasons Hotel New York Downtown,5,NYC,"27 Barclay St, New York, NY 10007","Pool, Airport Shuttle, Free Breakfast",930
+22-03-2024,The Plaza Hotel,5,NYC,"768 5th Ave, New York, NY 10019","Gym, Free Breakfast, Kitchen/Kitchenette, Free WiFi, Pet friendly",1775
+23-03-2024,The Plaza Hotel,5,NYC,"768 5th Ave, New York, NY 10019","Gym, Free Breakfast, Free WiFi, Hot tub",1520
+23-03-2024,Four Seasons Hotel New York Downtown,5,NYC,"27 Barclay St, New York, NY 10007","Pet friendly, Free WiFi, Kitchen/Kitchenette, Free Breakfast",497
+24-03-2024,The Peninsula New York,5,NYC,"700 5th Ave, New York, NY 10019","Fitness, Kitchen/Kitchenette, Gym",1726
+24-03-2024,Four Seasons Hotel New York Downtown,5,NYC,"27 Barclay St, New York, NY 10007","Pet friendly, Free Breakfast, Fitness",1837
+25-03-2024,The Plaza Hotel,5,NYC,"768 5th Ave, New York, NY 10019","Kitchen/Kitchenette, Pet friendly, Pool, Parking",1543
+25-03-2024,"The Langham, New York, Fifth Avenue",5,NYC,"400 5th Ave, New York, NY 10018","Free WiFi, Pool, Hot tub",1078
+26-03-2024,Four Seasons Hotel New York Downtown,5,NYC,"27 Barclay St, New York, NY 10007","Fitness, Gym, Hot tub, Kitchen/Kitchenette, Free Breakfast",994
+26-03-2024,"The Ritz-Carlton New York, Central Park",5,NYC,"50 Central Park S, New York, NY 10019","Free WiFi, Gym, Kitchen/Kitchenette",1564
+27-03-2024,"The Ritz-Carlton New York, Central Park",5,NYC,"50 Central Park S, New York, NY 10019","Parking, Kitchen/Kitchenette, Free WiFi, Gym",1798
+27-03-2024,Four Seasons Hotel New York Downtown,5,NYC,"27 Barclay St, New York, NY 10007","Kitchen/Kitchenette, Pet friendly, Pool",1080
+28-03-2024,The Peninsula New York,5,NYC,"700 5th Ave, New York, NY 10019","Pet friendly, Airport Shuttle, Pool, Parking, Free Breakfast",608
+28-03-2024,"The Ritz-Carlton New York, Central Park",5,NYC,"50 Central Park S, New York, NY 10019","Airport Shuttle, Pool, Kitchen/Kitchenette, Parking",537
+29-03-2024,"The Langham, New York, Fifth Avenue",5,NYC,"400 5th Ave, New York, NY 10018","Fitness, Airport Shuttle, Pet friendly",1694
+29-03-2024,"The Ritz-Carlton New York, Central Park",5,NYC,"50 Central Park S, New York, NY 10019","Free Breakfast, Kitchen/Kitchenette, Pool, Fitness, Parking",485
+30-03-2024,"The Langham, New York, Fifth Avenue",5,NYC,"400 5th Ave, New York, NY 10018","Airport Shuttle, Pet friendly, Parking, Fitness, Free WiFi",882
+30-03-2024,The Plaza Hotel,5,NYC,"768 5th Ave, New York, NY 10019","Pool, Fitness, Gym, Pet friendly",750
+31-03-2024,The Plaza Hotel,5,NYC,"768 5th Ave, New York, NY 10019","Fitness, Free WiFi, Kitchen/Kitchenette, Free Breakfast, Parking",1724
+31-03-2024,The Peninsula New York,5,NYC,"700 5th Ave, New York, NY 10019","Kitchen/Kitchenette, Airport Shuttle, Free WiFi, Hot tub",1039
+1/3/2024,The Westin San Jose,4,San Jose,"302 S Market St, San Jose, CA 95113","Free Breakfast, Free WiFi",231
+1/3/2024,Hotel Valencia Santana Row,4,San Jose,"355 Santana Row, San Jose, CA 95128",Free WiFi,253
+2/3/2024,The Westin San Jose,4,San Jose,"302 S Market St, San Jose, CA 95113",Parking,244
+2/3/2024,San Jose Marriott,4,San Jose,"301 S Market St, San Jose, CA 95113","Kitchen/Kitchenette, Pool, Gym",237
+3/3/2024,AC Hotel by Marriott San Jose Downtown,4,San Jose,"350 W Santa Clara St, San Jose, CA 95113",Pool,231
+3/3/2024,San Jose Marriott,4,San Jose,"301 S Market St, San Jose, CA 95113","Hot tub, Kitchen/Kitchenette, Airport Shuttle",228
+4/3/2024,Fairmont San Jose,4,San Jose,"170 S Market St, San Jose, CA 95113","Pool, Kitchen/Kitchenette, Airport Shuttle",247
+4/3/2024,Fairmont San Jose,4,San Jose,"170 S Market St, San Jose, CA 95113","Free Breakfast, Gym, Free WiFi",249
+5/3/2024,The Westin San Jose,4,San Jose,"302 S Market St, San Jose, CA 95113",Gym,254
+5/3/2024,San Jose Marriott,4,San Jose,"301 S Market St, San Jose, CA 95113",Free Breakfast,252
+6/3/2024,AC Hotel by Marriott San Jose Downtown,4,San Jose,"350 W Santa Clara St, San Jose, CA 95113","Hot tub, Pet friendly, Gym",232
+6/3/2024,AC Hotel by Marriott San Jose Downtown,4,San Jose,"350 W Santa Clara St, San Jose, CA 95113",Pool,226
+7/3/2024,AC Hotel by Marriott San Jose Downtown,4,San Jose,"350 W Santa Clara St, San Jose, CA 95113","Airport Shuttle, Fitness",248
+7/3/2024,AC Hotel by Marriott San Jose Downtown,4,San Jose,"350 W Santa Clara St, San Jose, CA 95113","Free WiFi, Gym",227
+8/3/2024,San Jose Marriott,4,San Jose,"301 S Market St, San Jose, CA 95113","Airport Shuttle, Fitness, Free WiFi",253
+8/3/2024,AC Hotel by Marriott San Jose Downtown,4,San Jose,"350 W Santa Clara St, San Jose, CA 95113","Hot tub, Pet friendly, Fitness",245
+9/3/2024,Fairmont San Jose,4,San Jose,"170 S Market St, San Jose, CA 95113",Free WiFi,233
+9/3/2024,San Jose Marriott,4,San Jose,"301 S Market St, San Jose, CA 95113",Gym,223
+10/3/2024,San Jose Marriott,4,San Jose,"301 S Market St, San Jose, CA 95113","Hot tub, Airport Shuttle, Free WiFi",230
+10/3/2024,San Jose Marriott,4,San Jose,"301 S Market St, San Jose, CA 95113","Pet friendly, Parking, Fitness",237
+11/3/2024,San Jose Marriott,4,San Jose,"301 S Market St, San Jose, CA 95113",Parking,251
+11/3/2024,The Westin San Jose,4,San Jose,"302 S Market St, San Jose, CA 95113","Free WiFi, Pool",240
+12/3/2024,AC Hotel by Marriott San Jose Downtown,4,San Jose,"350 W Santa Clara St, San Jose, CA 95113",Hot tub,235
+12/3/2024,The Westin San Jose,4,San Jose,"302 S Market St, San Jose, CA 95113","Gym, Free WiFi",237
+13-03-2024,The Westin San Jose,4,San Jose,"302 S Market St, San Jose, CA 95113","Gym, Airport Shuttle",234
+13-03-2024,San Jose Marriott,4,San Jose,"301 S Market St, San Jose, CA 95113",Fitness,249
+14-03-2024,The Westin San Jose,4,San Jose,"302 S Market St, San Jose, CA 95113","Free Breakfast, Parking",228
+14-03-2024,San Jose Marriott,4,San Jose,"301 S Market St, San Jose, CA 95113",Pool,242
+15-03-2024,Fairmont San Jose,4,San Jose,"170 S Market St, San Jose, CA 95113",Kitchen/Kitchenette,235
+15-03-2024,San Jose Marriott,4,San Jose,"301 S Market St, San Jose, CA 95113","Pool, Kitchen/Kitchenette, Free Breakfast",243
+16-03-2024,Hotel Valencia Santana Row,4,San Jose,"355 Santana Row, San Jose, CA 95128","Kitchen/Kitchenette, Free WiFi",233
+16-03-2024,The Westin San Jose,4,San Jose,"302 S Market St, San Jose, CA 95113","Pet friendly, Parking",225
+17-03-2024,AC Hotel by Marriott San Jose Downtown,4,San Jose,"350 W Santa Clara St, San Jose, CA 95113","Hot tub, Gym",247
+17-03-2024,Fairmont San Jose,4,San Jose,"170 S Market St, San Jose, CA 95113","Fitness, Free WiFi",231
+18-03-2024,Fairmont San Jose,4,San Jose,"170 S Market St, San Jose, CA 95113",Gym,239
+18-03-2024,San Jose Marriott,4,San Jose,"301 S Market St, San Jose, CA 95113","Airport Shuttle, Free Breakfast",243
+19-03-2024,The Westin San Jose,4,San Jose,"302 S Market St, San Jose, CA 95113","Fitness, Free WiFi, Airport Shuttle",241
+19-03-2024,Hotel Valencia Santana Row,4,San Jose,"355 Santana Row, San Jose, CA 95128","Free Breakfast, Pool",253
+20-03-2024,Fairmont San Jose,4,San Jose,"170 S Market St, San Jose, CA 95113","Pool, Hot tub",228
+20-03-2024,Fairmont San Jose,4,San Jose,"170 S Market St, San Jose, CA 95113",Hot tub,228
+21-03-2024,AC Hotel by Marriott San Jose Downtown,4,San Jose,"350 W Santa Clara St, San Jose, CA 95113","Parking, Free Breakfast, Pool",229
+21-03-2024,Hotel Valencia Santana Row,4,San Jose,"355 Santana Row, San Jose, CA 95128","Free WiFi, Kitchen/Kitchenette, Pet friendly",236
+22-03-2024,Fairmont San Jose,4,San Jose,"170 S Market St, San Jose, CA 95113","Parking, Fitness",230
+22-03-2024,Hotel Valencia Santana Row,4,San Jose,"355 Santana Row, San Jose, CA 95128","Pet friendly, Airport Shuttle, Gym",247
+23-03-2024,The Westin San Jose,4,San Jose,"302 S Market St, San Jose, CA 95113","Gym, Pet friendly",236
+23-03-2024,Hotel Valencia Santana Row,4,San Jose,"355 Santana Row, San Jose, CA 95128","Pet friendly, Hot tub, Parking",253
+24-03-2024,AC Hotel by Marriott San Jose Downtown,4,San Jose,"350 W Santa Clara St, San Jose, CA 95113","Airport Shuttle, Hot tub, Fitness",240
+24-03-2024,San Jose Marriott,4,San Jose,"301 S Market St, San Jose, CA 95113","Free Breakfast, Gym",229
+25-03-2024,Hotel Valencia Santana Row,4,San Jose,"355 Santana Row, San Jose, CA 95128",Parking,236
+25-03-2024,Fairmont San Jose,4,San Jose,"170 S Market St, San Jose, CA 95113","Parking, Pool, Fitness",253
+26-03-2024,Hotel Valencia Santana Row,4,San Jose,"355 Santana Row, San Jose, CA 95128",Airport Shuttle,227
+26-03-2024,Fairmont San Jose,4,San Jose,"170 S Market St, San Jose, CA 95113","Gym, Kitchen/Kitchenette",241
+27-03-2024,The Westin San Jose,4,San Jose,"302 S Market St, San Jose, CA 95113","Kitchen/Kitchenette, Hot tub, Fitness",225
+27-03-2024,The Westin San Jose,4,San Jose,"302 S Market St, San Jose, CA 95113","Free WiFi, Kitchen/Kitchenette",252
+28-03-2024,Fairmont San Jose,4,San Jose,"170 S Market St, San Jose, CA 95113",Hot tub,228
+28-03-2024,Hotel Valencia Santana Row,4,San Jose,"355 Santana Row, San Jose, CA 95128","Free WiFi, Free Breakfast, Gym",237
+29-03-2024,The Westin San Jose,4,San Jose,"302 S Market St, San Jose, CA 95113",Fitness,244
+29-03-2024,Fairmont San Jose,4,San Jose,"170 S Market St, San Jose, CA 95113","Gym, Free WiFi",236
+30-03-2024,AC Hotel by Marriott San Jose Downtown,4,San Jose,"350 W Santa Clara St, San Jose, CA 95113","Parking, Free Breakfast, Hot tub",245
+30-03-2024,Hotel Valencia Santana Row,4,San Jose,"355 Santana Row, San Jose, CA 95128",Parking,245
+31-03-2024,San Jose Marriott,4,San Jose,"301 S Market St, San Jose, CA 95113","Fitness, Hot tub",252
+31-03-2024,The Westin San Jose,4,San Jose,"302 S Market St, San Jose, CA 95113",Pool,232
+1/3/2024,Fairmont San Jose,5,San Jose,"170 S Market St, San Jose, CA 95113","Gym, Parking, Free WiFi, Kitchen/Kitchenette",473
+1/3/2024,San Jose Marriott,5,San Jose,"301 S Market St, San Jose, CA 95113","Airport Shuttle, Hot tub, Kitchen/Kitchenette, Fitness, Pool",427
+2/3/2024,Hotel Valencia Santana Row,5,San Jose,"355 Santana Row, San Jose, CA 95128","Pet friendly, Kitchen/Kitchenette, Parking, Hot tub",484
+2/3/2024,Hotel Valencia Santana Row,5,San Jose,"355 Santana Row, San Jose, CA 95128","Fitness, Hot tub, Pet friendly",339
+3/3/2024,The Westin San Jose,5,San Jose,"302 S Market St, San Jose, CA 95113","Hot tub, Free Breakfast, Kitchen/Kitchenette, Parking",462
+3/3/2024,AC Hotel by Marriott San Jose Downtown,5,San Jose,"350 W Santa Clara St, San Jose, CA 95113","Free Breakfast, Free WiFi, Pool",451
+4/3/2024,San Jose Marriott,5,San Jose,"301 S Market St, San Jose, CA 95113","Airport Shuttle, Free Breakfast, Fitness, Gym, Pet friendly",469
+4/3/2024,AC Hotel by Marriott San Jose Downtown,5,San Jose,"350 W Santa Clara St, San Jose, CA 95113","Pool, Parking, Gym",385
+5/3/2024,San Jose Marriott,5,San Jose,"301 S Market St, San Jose, CA 95113","Hot tub, Airport Shuttle, Pet friendly, Fitness, Pool",345
+5/3/2024,The Westin San Jose,5,San Jose,"302 S Market St, San Jose, CA 95113","Gym, Pool, Free WiFi, Hot tub",400
+6/3/2024,Hotel Valencia Santana Row,5,San Jose,"355 Santana Row, San Jose, CA 95128","Free Breakfast, Gym, Parking",579
+6/3/2024,Hotel Valencia Santana Row,5,San Jose,"355 Santana Row, San Jose, CA 95128","Fitness, Airport Shuttle, Gym, Pool",339
+7/3/2024,The Westin San Jose,5,San Jose,"302 S Market St, San Jose, CA 95113","Kitchen/Kitchenette, Parking, Fitness",434
+7/3/2024,AC Hotel by Marriott San Jose Downtown,5,San Jose,"350 W Santa Clara St, San Jose, CA 95113","Airport Shuttle, Gym, Fitness, Pool",459
+8/3/2024,Fairmont San Jose,5,San Jose,"170 S Market St, San Jose, CA 95113","Fitness, Free WiFi, Hot tub, Pool",423
+8/3/2024,San Jose Marriott,5,San Jose,"301 S Market St, San Jose, CA 95113","Gym, Parking, Kitchen/Kitchenette, Free WiFi",567
+9/3/2024,San Jose Marriott,5,San Jose,"301 S Market St, San Jose, CA 95113","Free WiFi, Kitchen/Kitchenette, Pet friendly",522
+9/3/2024,San Jose Marriott,5,San Jose,"301 S Market St, San Jose, CA 95113","Hot tub, Free WiFi, Pool, Pet friendly",541
+10/3/2024,AC Hotel by Marriott San Jose Downtown,5,San Jose,"350 W Santa Clara St, San Jose, CA 95113","Free WiFi, Hot tub, Gym, Fitness, Kitchen/Kitchenette",533
+10/3/2024,San Jose Marriott,5,San Jose,"301 S Market St, San Jose, CA 95113","Free Breakfast, Fitness, Gym",309
+11/3/2024,AC Hotel by Marriott San Jose Downtown,5,San Jose,"350 W Santa Clara St, San Jose, CA 95113","Pet friendly, Parking, Fitness, Free WiFi",362
+11/3/2024,AC Hotel by Marriott San Jose Downtown,5,San Jose,"350 W Santa Clara St, San Jose, CA 95113","Airport Shuttle, Parking, Fitness",540
+12/3/2024,San Jose Marriott,5,San Jose,"301 S Market St, San Jose, CA 95113","Fitness, Hot tub, Airport Shuttle",368
+12/3/2024,AC Hotel by Marriott San Jose Downtown,5,San Jose,"350 W Santa Clara St, San Jose, CA 95113","Kitchen/Kitchenette, Free Breakfast, Pet friendly, Fitness, Parking",546
+13-03-2024,San Jose Marriott,5,San Jose,"301 S Market St, San Jose, CA 95113","Pool, Hot tub, Airport Shuttle, Pet friendly, Parking",399
+13-03-2024,The Westin San Jose,5,San Jose,"302 S Market St, San Jose, CA 95113","Hot tub, Free Breakfast, Pool, Free WiFi, Airport Shuttle",438
+14-03-2024,AC Hotel by Marriott San Jose Downtown,5,San Jose,"350 W Santa Clara St, San Jose, CA 95113","Hot tub, Gym, Fitness, Parking, Airport Shuttle",493
+14-03-2024,AC Hotel by Marriott San Jose Downtown,5,San Jose,"350 W Santa Clara St, San Jose, CA 95113","Hot tub, Fitness, Airport Shuttle, Pet friendly",420
+15-03-2024,Fairmont San Jose,5,San Jose,"170 S Market St, San Jose, CA 95113","Hot tub, Free Breakfast, Fitness",456
+15-03-2024,Hotel Valencia Santana Row,5,San Jose,"355 Santana Row, San Jose, CA 95128","Free WiFi, Free Breakfast, Kitchen/Kitchenette, Airport Shuttle, Gym",495
+16-03-2024,AC Hotel by Marriott San Jose Downtown,5,San Jose,"350 W Santa Clara St, San Jose, CA 95113","Kitchen/Kitchenette, Hot tub, Gym",346
+16-03-2024,Hotel Valencia Santana Row,5,San Jose,"355 Santana Row, San Jose, CA 95128","Gym, Fitness, Airport Shuttle, Pool",455
+17-03-2024,San Jose Marriott,5,San Jose,"301 S Market St, San Jose, CA 95113","Free Breakfast, Kitchen/Kitchenette, Gym, Hot tub",423
+17-03-2024,The Westin San Jose,5,San Jose,"302 S Market St, San Jose, CA 95113","Hot tub, Free WiFi, Pool, Fitness",580
+18-03-2024,AC Hotel by Marriott San Jose Downtown,5,San Jose,"350 W Santa Clara St, San Jose, CA 95113","Airport Shuttle, Hot tub, Fitness",585
+18-03-2024,Fairmont San Jose,5,San Jose,"170 S Market St, San Jose, CA 95113","Pool, Hot tub, Kitchen/Kitchenette, Pet friendly, Free Breakfast",428
+19-03-2024,Hotel Valencia Santana Row,5,San Jose,"355 Santana Row, San Jose, CA 95128","Kitchen/Kitchenette, Pool, Free Breakfast, Parking",571
+19-03-2024,Fairmont San Jose,5,San Jose,"170 S Market St, San Jose, CA 95113","Airport Shuttle, Parking, Kitchen/Kitchenette, Hot tub, Pool",401
+20-03-2024,Hotel Valencia Santana Row,5,San Jose,"355 Santana Row, San Jose, CA 95128","Pet friendly, Airport Shuttle, Fitness",418
+20-03-2024,The Westin San Jose,5,San Jose,"302 S Market St, San Jose, CA 95113","Free WiFi, Fitness, Kitchen/Kitchenette, Parking, Pet friendly",472
+21-03-2024,Hotel Valencia Santana Row,5,San Jose,"355 Santana Row, San Jose, CA 95128","Gym, Pool, Parking, Hot tub, Pet friendly",603
+21-03-2024,AC Hotel by Marriott San Jose Downtown,5,San Jose,"350 W Santa Clara St, San Jose, CA 95113","Pool, Fitness, Gym, Parking, Kitchen/Kitchenette",345
+22-03-2024,San Jose Marriott,5,San Jose,"301 S Market St, San Jose, CA 95113","Free WiFi, Free Breakfast, Airport Shuttle, Pool, Kitchen/Kitchenette",584
+22-03-2024,AC Hotel by Marriott San Jose Downtown,5,San Jose,"350 W Santa Clara St, San Jose, CA 95113","Free WiFi, Airport Shuttle, Hot tub, Kitchen/Kitchenette",396
+23-03-2024,The Westin San Jose,5,San Jose,"302 S Market St, San Jose, CA 95113","Fitness, Parking, Free WiFi, Pet friendly, Free Breakfast",599
+23-03-2024,San Jose Marriott,5,San Jose,"301 S Market St, San Jose, CA 95113","Parking, Gym, Fitness",582
+24-03-2024,Fairmont San Jose,5,San Jose,"170 S Market St, San Jose, CA 95113","Hot tub, Airport Shuttle, Free Breakfast, Kitchen/Kitchenette",414
+24-03-2024,Hotel Valencia Santana Row,5,San Jose,"355 Santana Row, San Jose, CA 95128","Fitness, Pet friendly, Pool, Free Breakfast",546
+25-03-2024,Hotel Valencia Santana Row,5,San Jose,"355 Santana Row, San Jose, CA 95128","Pet friendly, Airport Shuttle, Gym, Pool, Parking",606
+25-03-2024,AC Hotel by Marriott San Jose Downtown,5,San Jose,"350 W Santa Clara St, San Jose, CA 95113","Pool, Hot tub, Kitchen/Kitchenette",647
+26-03-2024,San Jose Marriott,5,San Jose,"301 S Market St, San Jose, CA 95113","Free Breakfast, Parking, Free WiFi",492
+26-03-2024,San Jose Marriott,5,San Jose,"301 S Market St, San Jose, CA 95113","Airport Shuttle, Parking, Kitchen/Kitchenette, Hot tub",488
+27-03-2024,The Westin San Jose,5,San Jose,"302 S Market St, San Jose, CA 95113","Fitness, Free WiFi, Pet friendly, Parking, Hot tub",386
+27-03-2024,The Westin San Jose,5,San Jose,"302 S Market St, San Jose, CA 95113","Hot tub, Pet friendly, Gym",326
+28-03-2024,San Jose Marriott,5,San Jose,"301 S Market St, San Jose, CA 95113","Gym, Free WiFi, Pool, Parking, Free Breakfast",568
+28-03-2024,AC Hotel by Marriott San Jose Downtown,5,San Jose,"350 W Santa Clara St, San Jose, CA 95113","Parking, Pool, Free WiFi, Airport Shuttle",395
+29-03-2024,Fairmont San Jose,5,San Jose,"170 S Market St, San Jose, CA 95113","Hot tub, Gym, Pool",406
+29-03-2024,San Jose Marriott,5,San Jose,"301 S Market St, San Jose, CA 95113","Hot tub, Kitchen/Kitchenette, Gym, Free Breakfast, Pool",630
+30-03-2024,Fairmont San Jose,5,San Jose,"170 S Market St, San Jose, CA 95113","Airport Shuttle, Pool, Fitness, Parking, Free WiFi",569
+30-03-2024,The Westin San Jose,5,San Jose,"302 S Market St, San Jose, CA 95113","Fitness, Parking, Airport Shuttle",477
+31-03-2024,Fairmont San Jose,5,San Jose,"170 S Market St, San Jose, CA 95113","Free Breakfast, Pool, Gym, Airport Shuttle, Free WiFi",474
+31-03-2024,Hotel Valencia Santana Row,5,San Jose,"355 Santana Row, San Jose, CA 95128","Parking, Airport Shuttle, Pet friendly, Gym",373
+1/2/2024,,4,Los Angeles,,,311
+2/2/2024,,4,Los Angeles,,,215
+3/2/2024,,4,Los Angeles,,,188
+4/2/2024,,4,Los Angeles,,,210
+5/2/2024,,4,Los Angeles,,,211
+6/2/2024,,4,Los Angeles,,,241
+7/2/2024,,4,Los Angeles,,,331
+8/2/2024,,4,Los Angeles,,,226
+9/2/2024,,4,Los Angeles,,,176
+10/2/2024,,4,Los Angeles,,,196
+11/2/2024,,4,Los Angeles,,,181
+12/2/2024,,4,Los Angeles,,,280
+13-02-2024,,4,Los Angeles,,,300
+14-02-2024,,4,Los Angeles,,,278
+15-02-2024,,4,Los Angeles,,,192
+16-02-2024,,4,Los Angeles,,,179
+17-02-2024,,4,Los Angeles,,,184
+18-02-2024,,4,Los Angeles,,,261
+19-02-2024,,4,Los Angeles,,,207
+20-02-2024,,4,Los Angeles,,,250
+21-02-2024,,4,Los Angeles,,,240
+22-02-2024,,4,Los Angeles,,,229
+23-02-2024,,4,Los Angeles,,,258
+24-02-2024,,4,Los Angeles,,,224
+25-02-2024,,4,Los Angeles,,,201
+26-02-2024,,4,Los Angeles,,,279
+27-02-2024,,4,Los Angeles,,,252
+28-02-2024,,4,Los Angeles,,,322
+29-02-2024,,4,Los Angeles,,,178
+1/2/2024,,5,Los Angeles,,,3158
+2/2/2024,,5,Los Angeles,,,1581
+3/2/2024,,5,Los Angeles,,,2594
+4/2/2024,,5,Los Angeles,,,2017
+5/2/2024,,5,Los Angeles,,,1603
+6/2/2024,,5,Los Angeles,,,2121
+7/2/2024,,5,Los Angeles,,,2721
+8/2/2024,,5,Los Angeles,,,2669
+9/2/2024,,5,Los Angeles,,,2873
+10/2/2024,,5,Los Angeles,,,508
+11/2/2024,,5,Los Angeles,,,682
+12/2/2024,,5,Los Angeles,,,1881
+13-02-2024,,5,Los Angeles,,,521
+14-02-2024,,5,Los Angeles,,,2389
+15-02-2024,,5,Los Angeles,,,698
+16-02-2024,,5,Los Angeles,,,2321
+17-02-2024,,5,Los Angeles,,,1459
+18-02-2024,,5,Los Angeles,,,363
+19-02-2024,,5,Los Angeles,,,493
+20-02-2024,,5,Los Angeles,,,541
+21-02-2024,,5,Los Angeles,,,2055
+22-02-2024,,5,Los Angeles,,,2669
+23-02-2024,,5,Los Angeles,,,1496
+24-02-2024,,5,Los Angeles,,,548
+25-02-2024,,5,Los Angeles,,,1738
+26-02-2024,,5,Los Angeles,,,491
+27-02-2024,,5,Los Angeles,,,1763
+28-02-2024,,5,Los Angeles,,,1292
+29-02-2024,,5,Los Angeles,,,1740
+1/2/2024,,4,San Francisco,,,240
+2/2/2024,,4,San Francisco,,,153
+3/2/2024,,4,San Francisco,,,228
+4/2/2024,,4,San Francisco,,,176
+5/2/2024,,4,San Francisco,,,228
+6/2/2024,,4,San Francisco,,,280
+7/2/2024,,4,San Francisco,,,286
+8/2/2024,,4,San Francisco,,,160
+9/2/2024,,4,San Francisco,,,161
+10/2/2024,,4,San Francisco,,,235
+11/2/2024,,4,San Francisco,,,174
+12/2/2024,,4,San Francisco,,,214
+13-02-2024,,4,San Francisco,,,252
+14-02-2024,,4,San Francisco,,,276
+15-02-2024,,4,San Francisco,,,164
+16-02-2024,,4,San Francisco,,,174
+17-02-2024,,4,San Francisco,,,186
+18-02-2024,,4,San Francisco,,,171
+19-02-2024,,4,San Francisco,,,186
+20-02-2024,,4,San Francisco,,,201
+21-02-2024,,4,San Francisco,,,231
+22-02-2024,,4,San Francisco,,,208
+23-02-2024,,4,San Francisco,,,166
+24-02-2024,,4,San Francisco,,,192
+25-02-2024,,4,San Francisco,,,208
+26-02-2024,,4,San Francisco,,,170
+27-02-2024,,4,San Francisco,,,218
+28-02-2024,,4,San Francisco,,,262
+29-02-2024,,4,San Francisco,,,226
+1/2/2024,,5,San Francisco,,,1084
+2/2/2024,,5,San Francisco,,,1112
+3/2/2024,,5,San Francisco,,,796
+4/2/2024,,5,San Francisco,,,1516
+5/2/2024,,5,San Francisco,,,1511
+6/2/2024,,5,San Francisco,,,754
+7/2/2024,,5,San Francisco,,,1492
+8/2/2024,,5,San Francisco,,,1129
+9/2/2024,,5,San Francisco,,,526
+10/2/2024,,5,San Francisco,,,1255
+11/2/2024,,5,San Francisco,,,703
+12/2/2024,,5,San Francisco,,,244
+13-02-2024,,5,San Francisco,,,395
+14-02-2024,,5,San Francisco,,,620
+15-02-2024,,5,San Francisco,,,331
+16-02-2024,,5,San Francisco,,,864
+17-02-2024,,5,San Francisco,,,743
+18-02-2024,,5,San Francisco,,,1081
+19-02-2024,,5,San Francisco,,,249
+20-02-2024,,5,San Francisco,,,596
+21-02-2024,,5,San Francisco,,,867
+22-02-2024,,5,San Francisco,,,965
+23-02-2024,,5,San Francisco,,,1411
+24-02-2024,,5,San Francisco,,,1134
+25-02-2024,,5,San Francisco,,,506
+26-02-2024,,5,San Francisco,,,1302
+27-02-2024,,5,San Francisco,,,1326
+28-02-2024,,5,San Francisco,,,1074
+29-02-2024,,5,San Francisco,,,923
+1/2/2024,,4,San Diego,,,416
+2/2/2024,,4,San Diego,,,339
+3/2/2024,,4,San Diego,,,354
+4/2/2024,,4,San Diego,,,346
+5/2/2024,,4,San Diego,,,331
+6/2/2024,,4,San Diego,,,408
+7/2/2024,,4,San Diego,,,404
+8/2/2024,,4,San Diego,,,341
+9/2/2024,,4,San Diego,,,342
+10/2/2024,,4,San Diego,,,362
+11/2/2024,,4,San Diego,,,347
+12/2/2024,,4,San Diego,,,341
+13-02-2024,,4,San Diego,,,412
+14-02-2024,,4,San Diego,,,415
+15-02-2024,,4,San Diego,,,343
+16-02-2024,,4,San Diego,,,361
+17-02-2024,,4,San Diego,,,351
+18-02-2024,,4,San Diego,,,366
+19-02-2024,,4,San Diego,,,334
+20-02-2024,,4,San Diego,,,395
+21-02-2024,,4,San Diego,,,398
+22-02-2024,,4,San Diego,,,357
+23-02-2024,,4,San Diego,,,331
+24-02-2024,,4,San Diego,,,337
+25-02-2024,,4,San Diego,,,353
+26-02-2024,,4,San Diego,,,350
+27-02-2024,,4,San Diego,,,394
+28-02-2024,,4,San Diego,,,401
+29-02-2024,,4,San Diego,,,335
+1/2/2024,,5,San Diego,,,509
+2/2/2024,,5,San Diego,,,737
+3/2/2024,,5,San Diego,,,886
+4/2/2024,,5,San Diego,,,578
+5/2/2024,,5,San Diego,,,463
+6/2/2024,,5,San Diego,,,1276
+7/2/2024,,5,San Diego,,,397
+8/2/2024,,5,San Diego,,,1219
+9/2/2024,,5,San Diego,,,489
+10/2/2024,,5,San Diego,,,945
+11/2/2024,,5,San Diego,,,505
+12/2/2024,,5,San Diego,,,469
+13-02-2024,,5,San Diego,,,1104
+14-02-2024,,5,San Diego,,,1131
+15-02-2024,,5,San Diego,,,981
+16-02-2024,,5,San Diego,,,734
+17-02-2024,,5,San Diego,,,1118
+18-02-2024,,5,San Diego,,,842
+19-02-2024,,5,San Diego,,,351
+20-02-2024,,5,San Diego,,,493
+21-02-2024,,5,San Diego,,,782
+22-02-2024,,5,San Diego,,,868
+23-02-2024,,5,San Diego,,,699
+24-02-2024,,5,San Diego,,,513
+25-02-2024,,5,San Diego,,,1161
+26-02-2024,,5,San Diego,,,973
+27-02-2024,,5,San Diego,,,780
+28-02-2024,,5,San Diego,,,1104
+29-02-2024,,5,San Diego,,,612
+1/2/2024,,4,Chicago,,,203
+2/2/2024,,4,Chicago,,,153
+3/2/2024,,4,Chicago,,,140
+4/2/2024,,4,Chicago,,,188
+5/2/2024,,4,Chicago,,,161
+6/2/2024,,4,Chicago,,,256
+7/2/2024,,4,Chicago,,,247
+8/2/2024,,4,Chicago,,,202
+9/2/2024,,4,Chicago,,,185
+10/2/2024,,4,Chicago,,,190
+11/2/2024,,4,Chicago,,,175
+12/2/2024,,4,Chicago,,,211
+13-02-2024,,4,Chicago,,,208
+14-02-2024,,4,Chicago,,,187
+15-02-2024,,4,Chicago,,,181
+16-02-2024,,4,Chicago,,,171
+17-02-2024,,4,Chicago,,,208
+18-02-2024,,4,Chicago,,,162
+19-02-2024,,4,Chicago,,,204
+20-02-2024,,4,Chicago,,,196
+21-02-2024,,4,Chicago,,,232
+22-02-2024,,4,Chicago,,,214
+23-02-2024,,4,Chicago,,,213
+24-02-2024,,4,Chicago,,,169
+25-02-2024,,4,Chicago,,,140
+26-02-2024,,4,Chicago,,,175
+27-02-2024,,4,Chicago,,,236
+28-02-2024,,4,Chicago,,,232
+29-02-2024,,4,Chicago,,,146
+1/2/2024,,5,Chicago,,,880
+2/2/2024,,5,Chicago,,,901
+3/2/2024,,5,Chicago,,,1461
+4/2/2024,,5,Chicago,,,375
+5/2/2024,,5,Chicago,,,1449
+6/2/2024,,5,Chicago,,,1164
+7/2/2024,,5,Chicago,,,372
+8/2/2024,,5,Chicago,,,486
+9/2/2024,,5,Chicago,,,1316
+10/2/2024,,5,Chicago,,,911
+11/2/2024,,5,Chicago,,,930
+12/2/2024,,5,Chicago,,,456
+13-02-2024,,5,Chicago,,,1126
+14-02-2024,,5,Chicago,,,344
+15-02-2024,,5,Chicago,,,1098
+16-02-2024,,5,Chicago,,,1205
+17-02-2024,,5,Chicago,,,812
+18-02-2024,,5,Chicago,,,849
+19-02-2024,,5,Chicago,,,1001
+20-02-2024,,5,Chicago,,,427
+21-02-2024,,5,Chicago,,,1369
+22-02-2024,,5,Chicago,,,896
+23-02-2024,,5,Chicago,,,1256
+24-02-2024,,5,Chicago,,,441
+25-02-2024,,5,Chicago,,,1289
+26-02-2024,,5,Chicago,,,297
+27-02-2024,,5,Chicago,,,650
+28-02-2024,,5,Chicago,,,955
+29-02-2024,,5,Chicago,,,279
+1/2/2024,,4,NYC,,,284
+2/2/2024,,4,NYC,,,270
+3/2/2024,,4,NYC,,,315
+4/2/2024,,4,NYC,,,374
+5/2/2024,,4,NYC,,,282
+6/2/2024,,4,NYC,,,388
+7/2/2024,,4,NYC,,,447
+8/2/2024,,4,NYC,,,392
+9/2/2024,,4,NYC,,,263
+10/2/2024,,4,NYC,,,332
+11/2/2024,,4,NYC,,,327
+12/2/2024,,4,NYC,,,398
+13-02-2024,,4,NYC,,,325
+14-02-2024,,4,NYC,,,379
+15-02-2024,,4,NYC,,,295
+16-02-2024,,4,NYC,,,239
+17-02-2024,,4,NYC,,,376
+18-02-2024,,4,NYC,,,350
+19-02-2024,,4,NYC,,,294
+20-02-2024,,4,NYC,,,376
+21-02-2024,,4,NYC,,,365
+22-02-2024,,4,NYC,,,359
+23-02-2024,,4,NYC,,,409
+24-02-2024,,4,NYC,,,367
+25-02-2024,,4,NYC,,,403
+26-02-2024,,4,NYC,,,363
+27-02-2024,,4,NYC,,,359
+28-02-2024,,4,NYC,,,370
+29-02-2024,,4,NYC,,,401
+1/2/2024,,5,NYC,,,1494
+2/2/2024,,5,NYC,,,912
+3/2/2024,,5,NYC,,,1008
+4/2/2024,,5,NYC,,,1062
+5/2/2024,,5,NYC,,,1747
+6/2/2024,,5,NYC,,,581
+7/2/2024,,5,NYC,,,1682
+8/2/2024,,5,NYC,,,1416
+9/2/2024,,5,NYC,,,1131
+10/2/2024,,5,NYC,,,1310
+11/2/2024,,5,NYC,,,1627
+12/2/2024,,5,NYC,,,647
+13-02-2024,,5,NYC,,,1616
+14-02-2024,,5,NYC,,,653
+15-02-2024,,5,NYC,,,1319
+16-02-2024,,5,NYC,,,761
+17-02-2024,,5,NYC,,,1890
+18-02-2024,,5,NYC,,,1470
+19-02-2024,,5,NYC,,,1044
+20-02-2024,,5,NYC,,,1960
+21-02-2024,,5,NYC,,,671
+22-02-2024,,5,NYC,,,792
+23-02-2024,,5,NYC,,,873
+24-02-2024,,5,NYC,,,395
+25-02-2024,,5,NYC,,,1331
+26-02-2024,,5,NYC,,,1312
+27-02-2024,,5,NYC,,,1451
+28-02-2024,,5,NYC,,,935
+29-02-2024,,5,NYC,,,744
+2/2/2024,,4,Seattle,,,282
+1/2/2024,,4,Seattle,,,206
+3/2/2024,,4,Seattle,,,246
+4/2/2024,,4,Seattle,,,265
+5/2/2024,,4,Seattle,,,291
+6/2/2024,,4,Seattle,,,340
+7/2/2024,,4,Seattle,,,297
+8/2/2024,,4,Seattle,,,205
+9/2/2024,,4,Seattle,,,223
+10/2/2024,,4,Seattle,,,226
+11/2/2024,,4,Seattle,,,255
+12/2/2024,,4,Seattle,,,227
+13-02-2024,,4,Seattle,,,232
+14-02-2024,,4,Seattle,,,290
+15-02-2024,,4,Seattle,,,196
+16-02-2024,,4,Seattle,,,286
+17-02-2024,,4,Seattle,,,193
+18-02-2024,,4,Seattle,,,287
+19-02-2024,,4,Seattle,,,248
+20-02-2024,,4,Seattle,,,299
+21-02-2024,,4,Seattle,,,302
+22-02-2024,,4,Seattle,,,176
+23-02-2024,,4,Seattle,,,247
+24-02-2024,,4,Seattle,,,227
+25-02-2024,,4,Seattle,,,237
+26-02-2024,,4,Seattle,,,174
+27-02-2024,,4,Seattle,,,235
+28-02-2024,,4,Seattle,,,269
+29-02-2024,,4,Seattle,,,184
+1/2/2024,,5,Seattle,,,841
+2/2/2024,,5,Seattle,,,1009
+3/2/2024,,5,Seattle,,,238
+4/2/2024,,5,Seattle,,,1155
+5/2/2024,,5,Seattle,,,677
+6/2/2024,,5,Seattle,,,309
+7/2/2024,,5,Seattle,,,1487
+8/2/2024,,5,Seattle,,,398
+9/2/2024,,5,Seattle,,,1176
+10/2/2024,,5,Seattle,,,1026
+11/2/2024,,5,Seattle,,,956
+12/2/2024,,5,Seattle,,,254
+13-02-2024,,5,Seattle,,,1056
+14-02-2024,,5,Seattle,,,1258
+15-02-2024,,5,Seattle,,,1095
+16-02-2024,,5,Seattle,,,949
+17-02-2024,,5,Seattle,,,667
+18-02-2024,,5,Seattle,,,1101
+19-02-2024,,5,Seattle,,,821
+20-02-2024,,5,Seattle,,,355
+21-02-2024,,5,Seattle,,,1024
+22-02-2024,,5,Seattle,,,442
+23-02-2024,,5,Seattle,,,320
+24-02-2024,,5,Seattle,,,1316
+25-02-2024,,5,Seattle,,,504
+26-02-2024,,5,Seattle,,,1065
+27-02-2024,,5,Seattle,,,487
+28-02-2024,,5,Seattle,,,537
+29-02-2024,,5,Seattle,,,434

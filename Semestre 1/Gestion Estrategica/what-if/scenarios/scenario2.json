@@ -1,0 +1,15 @@
+{
+  "df": "./data/sample_tne_data_flights_and_hotel_combined.csv",
+  "parameters": ["destination", "date_from", "date_to", "stars"],
+  "policies": [
+      {"origin": "NYC","travelers":4},
+      {"origin": "Los Angeles","travelers":8}
+  ],
+  "filters": {
+      "date_from": ["2024-02-12"],
+      "date_to": ["2024-02-15"],
+      "flex_days": 1
+  },
+  "targets": ["total_price"],
+  "top_n": 3
+}

@@ -1,0 +1,359 @@
+[
+    {
+        "Algorithm": "Genetic Algorithm",
+        "Recommendations": 1,
+        "Optimal_Destination": "Chicago",
+        "Overall Cost": 11802,
+        "Details": [
+            {
+                "Origin": "Chicago",
+                "Destination": "Chicago",
+                "Travel Date": "2024-04-02",
+                "No. Travelers": 2,
+                "Max_nights": 0,
+                "Return Date": "2024-04-06",
+                "Flight Rate": 0,
+                "Flight Cost": 0,
+                "Return Flight Rate": 0,
+                "Return Flight Cost": 0,
+                "Hotel Cost": 0,
+                "Hotel cost per person": 0,
+                "Hotel Rates": [],
+                "Trip Cost": 0
+            },
+            {
+                "Origin": "NYC",
+                "Destination": "Chicago",
+                "Travel Date": "2024-04-02",
+                "No. Travelers": 3,
+                "Max_nights": 0,
+                "Return Date": "2024-04-06",
+                "Flight Rate": 127,
+                "Flight Cost": 381,
+                "Return Flight Rate": 116,
+                "Return Flight Cost": 348,
+                "Hotel Cost": 3675,
+                "Hotel cost per person": 1225,
+                "Hotel Rates": [
+                    {
+                        "Date": "2024-04-02",
+                        "Night Price($)": 77
+                    },
+                    {
+                        "Date": "2024-04-03",
+                        "Night Price($)": 549
+                    },
+                    {
+                        "Date": "2024-04-04",
+                        "Night Price($)": 191
+                    },
+                    {
+                        "Date": "2024-04-05",
+                        "Night Price($)": 408
+                    }
+                ],
+                "Trip Cost": 4404
+            },
+            {
+                "Origin": "San Francisco",
+                "Destination": "Chicago",
+                "Travel Date": "2024-04-02",
+                "No. Travelers": 3,
+                "Max_nights": 0,
+                "Return Date": "2024-04-06",
+                "Flight Rate": 143,
+                "Flight Cost": 429,
+                "Return Flight Rate": 110,
+                "Return Flight Cost": 330,
+                "Hotel Cost": 3675,
+                "Hotel cost per person": 1225,
+                "Hotel Rates": [
+                    {
+                        "Date": "2024-04-02",
+                        "Night Price($)": 77
+                    },
+                    {
+                        "Date": "2024-04-03",
+                        "Night Price($)": 549
+                    },
+                    {
+                        "Date": "2024-04-04",
+                        "Night Price($)": 191
+                    },
+                    {
+                        "Date": "2024-04-05",
+                        "Night Price($)": 408
+                    }
+                ],
+                "Trip Cost": 4434
+            },
+            {
+                "Origin": "Seattle",
+                "Destination": "Chicago",
+                "Travel Date": "2024-04-02",
+                "No. Travelers": 2,
+                "Max_nights": 0,
+                "Return Date": "2024-04-06",
+                "Flight Rate": 140,
+                "Flight Cost": 280,
+                "Return Flight Rate": 117,
+                "Return Flight Cost": 234,
+                "Hotel Cost": 2450,
+                "Hotel cost per person": 1225,
+                "Hotel Rates": [
+                    {
+                        "Date": "2024-04-02",
+                        "Night Price($)": 77
+                    },
+                    {
+                        "Date": "2024-04-03",
+                        "Night Price($)": 549
+                    },
+                    {
+                        "Date": "2024-04-04",
+                        "Night Price($)": 191
+                    },
+                    {
+                        "Date": "2024-04-05",
+                        "Night Price($)": 408
+                    }
+                ],
+                "Trip Cost": 2964
+            }
+        ]
+    },
+    {
+        "Algorithm": "Tabu Search",
+        "Recommendations": 2,
+        "Optimal_Destination": "San Francisco",
+        "Overall Cost": 12067,
+        "Details": [
+            {
+                "Origin": "Chicago",
+                "Destination": "San Francisco",
+                "Travel Date": "2024-04-02",
+                "No. Travelers": 2,
+                "Max_nights": 4,
+                "Return Date": "2024-04-06",
+                "Flight Rate": 119,
+                "Flight Cost": 238,
+                "Return Flight Rate": 128,
+                "Return Flight Cost": 256,
+                "Hotel Cost": 3030,
+                "Hotel cost per person": 1515,
+                "Hotel Rates": [
+                    {
+                        "Date": "2024-04-02",
+                        "Night Price($)": 132
+                    },
+                    {
+                        "Date": "2024-04-03",
+                        "Night Price($)": 534
+                    },
+                    {
+                        "Date": "2024-04-04",
+                        "Night Price($)": 189
+                    },
+                    {
+                        "Date": "2024-04-05",
+                        "Night Price($)": 660
+                    }
+                ],
+                "Trip Cost": 3524
+            },
+            {
+                "Origin": "NYC",
+                "Destination": "San Francisco",
+                "Travel Date": "2024-04-02",
+                "No. Travelers": 3,
+                "Max_nights": 3,
+                "Return Date": "2024-04-05",
+                "Flight Rate": 125,
+                "Flight Cost": 375,
+                "Return Flight Rate": 669,
+                "Return Flight Cost": 2007,
+                "Hotel Cost": 2565,
+                "Hotel cost per person": 855,
+                "Hotel Rates": [
+                    {
+                        "Date": "2024-04-02",
+                        "Night Price($)": 132
+                    },
+                    {
+                        "Date": "2024-04-03",
+                        "Night Price($)": 534
+                    },
+                    {
+                        "Date": "2024-04-04",
+                        "Night Price($)": 189
+                    }
+                ],
+                "Trip Cost": 4947
+            },
+            {
+                "Origin": "San Francisco",
+                "Destination": "San Francisco",
+                "Travel Date": "2024-04-02",
+                "No. Travelers": 3,
+                "Max_nights": 4,
+                "Return Date": "2024-04-06",
+                "Flight Rate": 0,
+                "Flight Cost": 0,
+                "Return Flight Rate": 0,
+                "Return Flight Cost": 0,
+                "Hotel Cost": 0,
+                "Hotel cost per person": 0,
+                "Hotel Rates": [],
+                "Trip Cost": 0
+            },
+            {
+                "Origin": "Seattle",
+                "Destination": "San Francisco",
+                "Travel Date": "2024-04-02",
+                "No. Travelers": 2,
+                "Max_nights": 4,
+                "Return Date": "2024-04-06",
+                "Flight Rate": 151,
+                "Flight Cost": 302,
+                "Return Flight Rate": 132,
+                "Return Flight Cost": 264,
+                "Hotel Cost": 3030,
+                "Hotel cost per person": 1515,
+                "Hotel Rates": [
+                    {
+                        "Date": "2024-04-02",
+                        "Night Price($)": 132
+                    },
+                    {
+                        "Date": "2024-04-03",
+                        "Night Price($)": 534
+                    },
+                    {
+                        "Date": "2024-04-04",
+                        "Night Price($)": 189
+                    },
+                    {
+                        "Date": "2024-04-05",
+                        "Night Price($)": 660
+                    }
+                ],
+                "Trip Cost": 3596
+            }
+        ]
+    },
+    {
+        "Algorithm": "Tabu Search",
+        "Recommendations": 3,
+        "Optimal_Destination": "Seattle",
+        "Overall Cost": 16095,
+        "Details": [
+            {
+                "Origin": "Chicago",
+                "Destination": "Seattle",
+                "Travel Date": "2024-04-02",
+                "No. Travelers": 2,
+                "Max_nights": 3,
+                "Return Date": "2024-04-05",
+                "Flight Rate": 132,
+                "Flight Cost": 264,
+                "Return Flight Rate": 723,
+                "Return Flight Cost": 1446,
+                "Hotel Cost": 2142,
+                "Hotel cost per person": 1071,
+                "Hotel Rates": [
+                    {
+                        "Date": "2024-04-02",
+                        "Night Price($)": 108
+                    },
+                    {
+                        "Date": "2024-04-03",
+                        "Night Price($)": 741
+                    },
+                    {
+                        "Date": "2024-04-04",
+                        "Night Price($)": 222
+                    }
+                ],
+                "Trip Cost": 3852
+            },
+            {
+                "Origin": "NYC",
+                "Destination": "Seattle",
+                "Travel Date": "2024-04-02",
+                "No. Travelers": 3,
+                "Max_nights": 4,
+                "Return Date": "2024-04-06",
+                "Flight Rate": 185,
+                "Flight Cost": 555,
+                "Return Flight Rate": 200,
+                "Return Flight Cost": 600,
+                "Hotel Cost": 5328,
+                "Hotel cost per person": 1776,
+                "Hotel Rates": [
+                    {
+                        "Date": "2024-04-02",
+                        "Night Price($)": 108
+                    },
+                    {
+                        "Date": "2024-04-03",
+                        "Night Price($)": 741
+                    },
+                    {
+                        "Date": "2024-04-04",
+                        "Night Price($)": 222
+                    },
+                    {
+                        "Date": "2024-04-05",
+                        "Night Price($)": 705
+                    }
+                ],
+                "Trip Cost": 6483
+            },
+            {
+                "Origin": "San Francisco",
+                "Destination": "Seattle",
+                "Travel Date": "2024-04-02",
+                "No. Travelers": 3,
+                "Max_nights": 3,
+                "Return Date": "2024-04-05",
+                "Flight Rate": 156,
+                "Flight Cost": 468,
+                "Return Flight Rate": 693,
+                "Return Flight Cost": 2079,
+                "Hotel Cost": 3213,
+                "Hotel cost per person": 1071,
+                "Hotel Rates": [
+                    {
+                        "Date": "2024-04-02",
+                        "Night Price($)": 108
+                    },
+                    {
+                        "Date": "2024-04-03",
+                        "Night Price($)": 741
+                    },
+                    {
+                        "Date": "2024-04-04",
+                        "Night Price($)": 222
+                    }
+                ],
+                "Trip Cost": 5760
+            },
+            {
+                "Origin": "Seattle",
+                "Destination": "Seattle",
+                "Travel Date": "2024-04-03",
+                "No. Travelers": 2,
+                "Max_nights": 2,
+                "Return Date": "2024-04-05",
+                "Flight Rate": 0,
+                "Flight Cost": 0,
+                "Return Flight Rate": 0,
+                "Return Flight Cost": 0,
+                "Hotel Cost": 0,
+                "Hotel cost per person": 0,
+                "Hotel Rates": [],
+                "Trip Cost": 0
+            }
+        ]
+    }
+]

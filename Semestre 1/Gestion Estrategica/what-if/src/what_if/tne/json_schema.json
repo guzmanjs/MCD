@@ -1,0 +1,51 @@
+{
+    "schema": "Cost Recommendations Schema",
+    "type": "object",
+    "properties": {
+      "trips": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "origin": { "type": "string" },
+            "destination": { "type": "string" },
+            "start_date": { "type": "string", "format": "date" },
+            "end_date": { "type": "string", "format": "date" },
+            "num_travelers": { "type": "integer", "minimum": 1 },
+            "max_nights": { "type": "integer", "minimum": 0 },
+            "flight_class": { "type": "string" },
+            "airline": { "type": "string" },
+            "time_of_flight": { "type": "string" },
+            "hotel_stars": { "type": "integer", "minimum": 0 },
+            "amenities": {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          },
+          "required": [
+            "origin",
+            "destination",
+            "start_date",
+            "end_date",
+            "num_travelers"
+          ]
+        }
+      },
+      "budget": { "type": "integer", "minimum": 0 },
+      "algorithms": {
+        "type": "array",
+        "items": { "type": "string" }
+      },
+      "number_days_before_after": { "type": "integer", "minimum": 0 },
+      "potential_destinations": {
+        "type": "array",
+        "items": { "type": "string" }
+      }
+    },
+    "required": [
+      "trips",
+      "algorithms",
+      "potential_destinations"
+    ]
+  }
+  

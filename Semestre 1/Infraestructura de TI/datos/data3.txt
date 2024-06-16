@@ -1,0 +1,30 @@
+"Name", Sex, "Marital Status", Career
+"Alice", Female, Single, Data Scientist
+"Bob", Male, Single, Software Engineer
+"Charlie", Male, Married, Doctor
+"David", Male, Single, Lawyer
+"Eve", Female, Divorced, Artist
+"Frank", Male, Married, Engineer
+"Grace", Female, Single, Nurse
+"Heidi", Female, Married, Teacher
+"Ivan", Male, Married, Accountant
+"Jack", Male, Single, IT Specialist
+"Katie", Female, Single, Marketing
+"Liam", Male, Single, Researcher
+"Mia", Female, Married, Nurse
+"Nora", Female, Single, Data Analyst
+"Oliver", Male, Married, Architect
+"Penny", Female, Single, Graphic Designer
+"Quinn", Non-Binary, Single, Writer
+"Ryan", Male, Single, Financial Analyst
+"Sophia", Female, Married, Psychologist
+"Amy", Female, Married, Sales Manager
+"Ben", Male, Single, Marketing Manager
+"Charlie", Male, Married, Doctor
+"David", Male, Single, Lawyer
+"Ella", Female, Divorced, Artist
+"Frank", Male, Married, Engineer
+"Grace", Female, Single, Nurse
+"Henry", Male, Single, Accountant
+"Ivy", Female, Married, Professor
+"Jack", Male, Single, IT Specialist

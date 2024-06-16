@@ -1,0 +1,2731 @@
+Origin,Destination,Flight Date,Flight Price
+Seattle,NYC,01-01-2024,360
+Seattle,Chicago,01-01-2024,250
+Seattle,San Francisco,01-01-2024,200
+Seattle,Los Angeles,01-01-2024,220
+Seattle,San Diego,01-01-2024,210
+NYC,Seattle,01-01-2024,366
+NYC,Chicago,01-01-2024,210
+NYC,San Francisco,01-01-2024,410
+NYC,Los Angeles,01-01-2024,380
+NYC,San Diego,01-01-2024,230
+Chicago,Seattle,01-01-2024,280
+Chicago,NYC,01-01-2024,250
+Chicago,San Francisco,01-01-2024,250
+Chicago,Los Angeles,01-01-2024,250
+Chicago,San Diego,01-01-2024,280
+San Francisco,Seattle,01-01-2024,240
+San Francisco,NYC,01-01-2024,430
+San Francisco,Chicago,01-01-2024,270
+San Francisco,Los Angeles,01-01-2024,265
+San Francisco,San Diego,01-01-2024,180
+Los Angeles,Seattle,01-01-2024,240
+Los Angeles,NYC,01-01-2024,430
+Los Angeles,Chicago,01-01-2024,250
+Los Angeles,San Francisco,01-01-2024,120
+Los Angeles,San Diego,01-01-2024,160
+San Diego,Seattle,01-01-2024,200
+San Diego,NYC,01-01-2024,250
+San Diego,Chicago,01-01-2024,270
+San Diego,San Francisco,01-01-2024,229
+San Diego,Los Angeles,01-01-2024,120
+Seattle,NYC,02-01-2024,370
+Seattle,Chicago,02-01-2024,245
+Seattle,San Francisco,02-01-2024,265
+Seattle,Los Angeles,02-01-2024,161
+Seattle,San Diego,02-01-2024,175
+NYC,Seattle,02-01-2024,324
+NYC,Chicago,02-01-2024,222
+NYC,San Francisco,02-01-2024,218
+NYC,Los Angeles,02-01-2024,264
+NYC,San Diego,02-01-2024,151
+Chicago,Seattle,02-01-2024,231
+Chicago,NYC,02-01-2024,219
+Chicago,San Francisco,02-01-2024,209
+Chicago,Los Angeles,02-01-2024,211
+Chicago,San Diego,02-01-2024,226
+San Francisco,Seattle,02-01-2024,273
+San Francisco,NYC,02-01-2024,240
+San Francisco,Chicago,02-01-2024,250
+San Francisco,Los Angeles,02-01-2024,141
+San Francisco,San Diego,02-01-2024,210
+Los Angeles,Seattle,02-01-2024,219
+Los Angeles,NYC,02-01-2024,283
+Los Angeles,Chicago,02-01-2024,218
+Los Angeles,San Francisco,02-01-2024,131
+Los Angeles,San Diego,02-01-2024,152
+San Diego,Seattle,02-01-2024,200
+San Diego,NYC,02-01-2024,254
+San Diego,Chicago,02-01-2024,251
+San Diego,San Francisco,02-01-2024,207
+San Diego,Los Angeles,02-01-2024,162
+Seattle,NYC,03-01-2024,375
+Seattle,Chicago,03-01-2024,272
+Seattle,San Francisco,03-01-2024,269
+Seattle,Los Angeles,03-01-2024,159
+Seattle,San Diego,03-01-2024,176
+NYC,Seattle,03-01-2024,387
+NYC,Chicago,03-01-2024,219
+NYC,San Francisco,03-01-2024,218
+NYC,Los Angeles,03-01-2024,274
+NYC,San Diego,03-01-2024,196
+Chicago,Seattle,03-01-2024,240
+Chicago,NYC,03-01-2024,221
+Chicago,San Francisco,03-01-2024,216
+Chicago,Los Angeles,03-01-2024,209
+Chicago,San Diego,03-01-2024,211
+San Francisco,Seattle,03-01-2024,228
+San Francisco,NYC,03-01-2024,319
+San Francisco,Chicago,03-01-2024,229
+San Francisco,Los Angeles,03-01-2024,146
+San Francisco,San Diego,03-01-2024,196
+Los Angeles,Seattle,03-01-2024,200
+Los Angeles,NYC,03-01-2024,291
+Los Angeles,Chicago,03-01-2024,243
+Los Angeles,San Francisco,03-01-2024,123
+Los Angeles,San Diego,03-01-2024,145
+San Diego,Seattle,03-01-2024,211
+San Diego,NYC,03-01-2024,232
+San Diego,Chicago,03-01-2024,255
+San Diego,San Francisco,03-01-2024,213
+San Diego,Los Angeles,03-01-2024,144
+Seattle,NYC,04-01-2024,338
+Seattle,Chicago,04-01-2024,276
+Seattle,San Francisco,04-01-2024,253
+Seattle,Los Angeles,04-01-2024,179
+Seattle,San Diego,04-01-2024,166
+NYC,Seattle,04-01-2024,319
+NYC,Chicago,04-01-2024,216
+NYC,San Francisco,04-01-2024,243
+NYC,Los Angeles,04-01-2024,184
+NYC,San Diego,04-01-2024,201
+Chicago,Seattle,04-01-2024,209
+Chicago,NYC,04-01-2024,231
+Chicago,San Francisco,04-01-2024,219
+Chicago,Los Angeles,04-01-2024,209
+Chicago,San Diego,04-01-2024,211
+San Francisco,Seattle,04-01-2024,299
+San Francisco,NYC,04-01-2024,233
+San Francisco,Chicago,04-01-2024,232
+San Francisco,Los Angeles,04-01-2024,123
+San Francisco,San Diego,04-01-2024,199
+Los Angeles,Seattle,04-01-2024,145
+Los Angeles,NYC,04-01-2024,287
+Los Angeles,Chicago,04-01-2024,111
+Los Angeles,San Francisco,04-01-2024,113
+Los Angeles,San Diego,04-01-2024,135
+San Diego,Seattle,04-01-2024,246
+San Diego,NYC,04-01-2024,286
+San Diego,Chicago,04-01-2024,268
+San Diego,San Francisco,04-01-2024,206
+San Diego,Los Angeles,04-01-2024,153
+Seattle,NYC,05-01-2024,333
+Seattle,Chicago,05-01-2024,241
+Seattle,San Francisco,05-01-2024,231
+Seattle,Los Angeles,05-01-2024,149
+Seattle,San Diego,05-01-2024,162
+NYC,Seattle,05-01-2024,341
+NYC,Chicago,05-01-2024,192
+NYC,San Francisco,05-01-2024,209
+NYC,Los Angeles,05-01-2024,241
+NYC,San Diego,05-01-2024,187
+Chicago,Seattle,05-01-2024,213
+Chicago,NYC,05-01-2024,221
+Chicago,San Francisco,05-01-2024,219
+Chicago,Los Angeles,05-01-2024,208
+Chicago,San Diego,05-01-2024,209
+San Francisco,Seattle,05-01-2024,269
+San Francisco,NYC,05-01-2024,223
+San Francisco,Chicago,05-01-2024,287
+San Francisco,Los Angeles,05-01-2024,119
+San Francisco,San Diego,05-01-2024,199
+Los Angeles,Seattle,05-01-2024,153
+Los Angeles,NYC,05-01-2024,276
+Los Angeles,Chicago,05-01-2024,209
+Los Angeles,San Francisco,05-01-2024,109
+Los Angeles,San Diego,05-01-2024,146
+San Diego,Seattle,05-01-2024,200
+San Diego,NYC,05-01-2024,219
+San Diego,Chicago,05-01-2024,256
+San Diego,San Francisco,05-01-2024,199
+San Diego,Los Angeles,05-01-2024,158
+Seattle,NYC,06-01-2024,400
+Seattle,Chicago,06-01-2024,301
+Seattle,San Francisco,06-01-2024,264
+Seattle,Los Angeles,06-01-2024,181
+Seattle,San Diego,06-01-2024,167
+NYC,Seattle,06-01-2024,320
+NYC,Chicago,06-01-2024,221
+NYC,San Francisco,06-01-2024,220
+NYC,Los Angeles,06-01-2024,251
+NYC,San Diego,06-01-2024,191
+Chicago,Seattle,06-01-2024,234
+Chicago,NYC,06-01-2024,232
+Chicago,San Francisco,06-01-2024,221
+Chicago,Los Angeles,06-01-2024,219
+Chicago,San Diego,06-01-2024,241
+San Francisco,Seattle,06-01-2024,265
+San Francisco,NYC,06-01-2024,376
+San Francisco,Chicago,06-01-2024,256
+San Francisco,Los Angeles,06-01-2024,152
+San Francisco,San Diego,06-01-2024,200
+Los Angeles,Seattle,06-01-2024,153
+Los Angeles,NYC,06-01-2024,278
+Los Angeles,Chicago,06-01-2024,225
+Los Angeles,San Francisco,06-01-2024,131
+Los Angeles,San Diego,06-01-2024,134
+San Diego,Seattle,06-01-2024,211
+San Diego,NYC,06-01-2024,299
+San Diego,Chicago,06-01-2024,276
+San Diego,San Francisco,06-01-2024,211
+San Diego,Los Angeles,06-01-2024,167
+Seattle,NYC,07-01-2024,408
+Seattle,Chicago,07-01-2024,290
+Seattle,San Francisco,07-01-2024,287
+Seattle,Los Angeles,07-01-2024,178
+Seattle,San Diego,07-01-2024,179
+NYC,Seattle,07-01-2024,342
+NYC,Chicago,07-01-2024,244
+NYC,San Francisco,07-01-2024,236
+NYC,Los Angeles,07-01-2024,265
+NYC,San Diego,07-01-2024,198
+Chicago,Seattle,07-01-2024,244
+Chicago,NYC,07-01-2024,245
+Chicago,San Francisco,07-01-2024,235
+Chicago,Los Angeles,07-01-2024,211
+Chicago,San Diego,07-01-2024,233
+San Francisco,Seattle,07-01-2024,278
+San Francisco,NYC,07-01-2024,243
+San Francisco,Chicago,07-01-2024,244
+San Francisco,Los Angeles,07-01-2024,135
+San Francisco,San Diego,07-01-2024,198
+Los Angeles,Seattle,07-01-2024,165
+Los Angeles,NYC,07-01-2024,286
+Los Angeles,Chicago,07-01-2024,233
+Los Angeles,San Francisco,07-01-2024,129
+Los Angeles,San Diego,07-01-2024,154
+San Diego,Seattle,07-01-2024,209
+San Diego,NYC,07-01-2024,246
+San Diego,Chicago,07-01-2024,284
+San Diego,San Francisco,07-01-2024,209
+San Diego,Los Angeles,07-01-2024,157
+Seattle,NYC,08-01-2024,289
+Seattle,Chicago,08-01-2024,208
+Seattle,San Francisco,08-01-2024,219
+Seattle,Los Angeles,08-01-2024,131
+Seattle,San Diego,08-01-2024,121
+NYC,Seattle,08-01-2024,245
+NYC,Chicago,08-01-2024,157
+NYC,San Francisco,08-01-2024,166
+NYC,Los Angeles,08-01-2024,199
+NYC,San Diego,08-01-2024,135
+Chicago,Seattle,08-01-2024,174
+Chicago,NYC,08-01-2024,166
+Chicago,San Francisco,08-01-2024,159
+Chicago,Los Angeles,08-01-2024,167
+Chicago,San Diego,08-01-2024,166
+San Francisco,Seattle,08-01-2024,200
+San Francisco,NYC,08-01-2024,176
+San Francisco,Chicago,08-01-2024,196
+San Francisco,Los Angeles,08-01-2024,87
+San Francisco,San Diego,08-01-2024,141
+Los Angeles,Seattle,08-01-2024,99
+Los Angeles,NYC,08-01-2024,200
+Los Angeles,Chicago,08-01-2024,143
+Los Angeles,San Francisco,08-01-2024,61
+Los Angeles,San Diego,08-01-2024,78
+San Diego,Seattle,08-01-2024,100
+San Diego,NYC,08-01-2024,148
+San Diego,Chicago,08-01-2024,174
+San Diego,San Francisco,08-01-2024,100
+San Diego,Los Angeles,08-01-2024,90
+Seattle,NYC,09-01-2024,192
+Seattle,Chicago,09-01-2024,79
+Seattle,San Francisco,09-01-2024,100
+Seattle,Los Angeles,09-01-2024,67
+Seattle,San Diego,09-01-2024,77
+NYC,Seattle,09-01-2024,180
+NYC,Chicago,09-01-2024,110
+NYC,San Francisco,09-01-2024,120
+NYC,Los Angeles,09-01-2024,191
+NYC,San Diego,09-01-2024,109
+Chicago,Seattle,09-01-2024,71
+Chicago,NYC,09-01-2024,111
+Chicago,San Francisco,09-01-2024,94
+Chicago,Los Angeles,09-01-2024,73
+Chicago,San Diego,09-01-2024,79
+San Francisco,Seattle,09-01-2024,77
+San Francisco,NYC,09-01-2024,109
+San Francisco,Chicago,09-01-2024,94
+San Francisco,Los Angeles,09-01-2024,66
+San Francisco,San Diego,09-01-2024,69
+Los Angeles,Seattle,09-01-2024,71
+Los Angeles,NYC,09-01-2024,193
+Los Angeles,Chicago,09-01-2024,68
+Los Angeles,San Francisco,09-01-2024,59
+Los Angeles,San Diego,09-01-2024,51
+San Diego,Seattle,09-01-2024,74
+San Diego,NYC,09-01-2024,109
+San Diego,Chicago,09-01-2024,79
+San Diego,San Francisco,09-01-2024,69
+San Diego,Los Angeles,09-01-2024,58
+Seattle,NYC,10-01-2024,180
+Seattle,Chicago,10-01-2024,70
+Seattle,San Francisco,10-01-2024,74
+Seattle,Los Angeles,10-01-2024,63
+Seattle,San Diego,10-01-2024,76
+NYC,Seattle,10-01-2024,173
+NYC,Chicago,10-01-2024,83
+NYC,San Francisco,10-01-2024,109
+NYC,Los Angeles,10-01-2024,182
+NYC,San Diego,10-01-2024,111
+Chicago,Seattle,10-01-2024,73
+Chicago,NYC,10-01-2024,105
+Chicago,San Francisco,10-01-2024,93
+Chicago,Los Angeles,10-01-2024,77
+Chicago,San Diego,10-01-2024,79
+San Francisco,Seattle,10-01-2024,74
+San Francisco,NYC,10-01-2024,106
+San Francisco,Chicago,10-01-2024,79
+San Francisco,Los Angeles,10-01-2024,49
+San Francisco,San Diego,10-01-2024,60
+Los Angeles,Seattle,10-01-2024,61
+Los Angeles,NYC,10-01-2024,187
+Los Angeles,Chicago,10-01-2024,96
+Los Angeles,San Francisco,10-01-2024,58
+Los Angeles,San Diego,10-01-2024,43
+San Diego,Seattle,10-01-2024,65
+San Diego,NYC,10-01-2024,103
+San Diego,Chicago,10-01-2024,79
+San Diego,San Francisco,10-01-2024,63
+San Diego,Los Angeles,10-01-2024,44
+Seattle,NYC,11-01-2024,171
+Seattle,Chicago,11-01-2024,62
+Seattle,San Francisco,11-01-2024,65
+Seattle,Los Angeles,11-01-2024,57
+Seattle,San Diego,11-01-2024,70
+NYC,Seattle,11-01-2024,160
+NYC,Chicago,11-01-2024,91
+NYC,San Francisco,11-01-2024,101
+NYC,Los Angeles,11-01-2024,172
+NYC,San Diego,11-01-2024,103
+Chicago,Seattle,11-01-2024,62
+Chicago,NYC,11-01-2024,103
+Chicago,San Francisco,11-01-2024,88
+Chicago,Los Angeles,11-01-2024,62
+Chicago,San Diego,11-01-2024,77
+San Francisco,Seattle,11-01-2024,66
+San Francisco,NYC,11-01-2024,105
+San Francisco,Chicago,11-01-2024,76
+San Francisco,Los Angeles,11-01-2024,49
+San Francisco,San Diego,11-01-2024,55
+Los Angeles,Seattle,11-01-2024,56
+Los Angeles,NYC,11-01-2024,181
+Los Angeles,Chicago,11-01-2024,64
+Los Angeles,San Francisco,11-01-2024,56
+Los Angeles,San Diego,11-01-2024,40
+San Diego,Seattle,11-01-2024,65
+San Diego,NYC,11-01-2024,97
+San Diego,Chicago,11-01-2024,74
+San Diego,San Francisco,11-01-2024,56
+San Diego,Los Angeles,11-01-2024,35
+Seattle,NYC,12-01-2024,184
+Seattle,Chicago,12-01-2024,76
+Seattle,San Francisco,12-01-2024,79
+Seattle,Los Angeles,12-01-2024,71
+Seattle,San Diego,12-01-2024,74
+NYC,Seattle,12-01-2024,177
+NYC,Chicago,12-01-2024,120
+NYC,San Francisco,12-01-2024,133
+NYC,Los Angeles,12-01-2024,191
+NYC,San Diego,12-01-2024,141
+Chicago,Seattle,12-01-2024,88
+Chicago,NYC,12-01-2024,157
+Chicago,San Francisco,12-01-2024,149
+Chicago,Los Angeles,12-01-2024,148
+Chicago,San Diego,12-01-2024,143
+San Francisco,Seattle,12-01-2024,199
+San Francisco,NYC,12-01-2024,186
+San Francisco,Chicago,12-01-2024,175
+San Francisco,Los Angeles,12-01-2024,79
+San Francisco,San Diego,12-01-2024,134
+Los Angeles,Seattle,12-01-2024,100
+Los Angeles,NYC,12-01-2024,210
+Los Angeles,Chicago,12-01-2024,159
+Los Angeles,San Francisco,12-01-2024,71
+Los Angeles,San Diego,12-01-2024,89
+San Diego,Seattle,12-01-2024,154
+San Diego,NYC,12-01-2024,191
+San Diego,Chicago,12-01-2024,166
+San Diego,San Francisco,12-01-2024,139
+San Diego,Los Angeles,12-01-2024,99
+Seattle,NYC,13-01-2024,289
+Seattle,Chicago,13-01-2024,208
+Seattle,San Francisco,13-01-2024,217
+Seattle,Los Angeles,13-01-2024,128
+Seattle,San Diego,13-01-2024,125
+NYC,Seattle,13-01-2024,269
+NYC,Chicago,13-01-2024,170
+NYC,San Francisco,13-01-2024,174
+NYC,Los Angeles,13-01-2024,216
+NYC,San Diego,13-01-2024,151
+Chicago,Seattle,13-01-2024,190
+Chicago,NYC,13-01-2024,171
+Chicago,San Francisco,13-01-2024,176
+Chicago,Los Angeles,13-01-2024,179
+Chicago,San Diego,13-01-2024,192
+San Francisco,Seattle,13-01-2024,215
+San Francisco,NYC,13-01-2024,188
+San Francisco,Chicago,13-01-2024,191
+San Francisco,Los Angeles,13-01-2024,78
+San Francisco,San Diego,13-01-2024,157
+Los Angeles,Seattle,13-01-2024,111
+Los Angeles,NYC,13-01-2024,229
+Los Angeles,Chicago,13-01-2024,174
+Los Angeles,San Francisco,13-01-2024,73
+Los Angeles,San Diego,13-01-2024,119
+San Diego,Seattle,13-01-2024,166
+San Diego,NYC,13-01-2024,197
+San Diego,Chicago,13-01-2024,222
+San Diego,San Francisco,13-01-2024,149
+San Diego,Los Angeles,13-01-2024,127
+Seattle,NYC,14-01-2024,288
+Seattle,Chicago,14-01-2024,197
+Seattle,San Francisco,14-01-2024,201
+Seattle,Los Angeles,14-01-2024,120
+Seattle,San Diego,14-01-2024,119
+NYC,Seattle,14-01-2024,264
+NYC,Chicago,14-01-2024,156
+NYC,San Francisco,14-01-2024,155
+NYC,Los Angeles,14-01-2024,217
+NYC,San Diego,14-01-2024,141
+Chicago,Seattle,14-01-2024,179
+Chicago,NYC,14-01-2024,167
+Chicago,San Francisco,14-01-2024,176
+Chicago,Los Angeles,14-01-2024,169
+Chicago,San Diego,14-01-2024,188
+San Francisco,Seattle,14-01-2024,167
+San Francisco,NYC,14-01-2024,189
+San Francisco,Chicago,14-01-2024,196
+San Francisco,Los Angeles,14-01-2024,81
+San Francisco,San Diego,14-01-2024,143
+Los Angeles,Seattle,14-01-2024,225
+Los Angeles,NYC,14-01-2024,221
+Los Angeles,Chicago,14-01-2024,182
+Los Angeles,San Francisco,14-01-2024,76
+Los Angeles,San Diego,14-01-2024,118
+San Diego,Seattle,14-01-2024,153
+San Diego,NYC,14-01-2024,193
+San Diego,Chicago,14-01-2024,227
+San Diego,San Francisco,14-01-2024,161
+San Diego,Los Angeles,14-01-2024,124
+Seattle,NYC,15-01-2024,186
+Seattle,Chicago,15-01-2024,83
+Seattle,San Francisco,15-01-2024,79
+Seattle,Los Angeles,15-01-2024,78
+Seattle,San Diego,15-01-2024,90
+NYC,Seattle,15-01-2024,201
+NYC,Chicago,15-01-2024,141
+NYC,San Francisco,15-01-2024,149
+NYC,Los Angeles,15-01-2024,193
+NYC,San Diego,15-01-2024,119
+Chicago,Seattle,15-01-2024,173
+Chicago,NYC,15-01-2024,149
+Chicago,San Francisco,15-01-2024,131
+Chicago,Los Angeles,15-01-2024,96
+Chicago,San Diego,15-01-2024,86
+San Francisco,Seattle,15-01-2024,93
+San Francisco,NYC,15-01-2024,153
+San Francisco,Chicago,15-01-2024,191
+San Francisco,Los Angeles,15-01-2024,68
+San Francisco,San Diego,15-01-2024,123
+Los Angeles,Seattle,15-01-2024,89
+Los Angeles,NYC,15-01-2024,196
+Los Angeles,Chicago,15-01-2024,155
+Los Angeles,San Francisco,15-01-2024,68
+Los Angeles,San Diego,15-01-2024,86
+San Diego,Seattle,15-01-2024,132
+San Diego,NYC,15-01-2024,179
+San Diego,Chicago,15-01-2024,166
+San Diego,San Francisco,15-01-2024,134
+San Diego,Los Angeles,15-01-2024,79
+Seattle,NYC,16-01-2024,176
+Seattle,Chicago,16-01-2024,66
+Seattle,San Francisco,16-01-2024,73
+Seattle,Los Angeles,16-01-2024,63
+Seattle,San Diego,16-01-2024,72
+NYC,Seattle,16-01-2024,175
+NYC,Chicago,16-01-2024,103
+NYC,San Francisco,16-01-2024,113
+NYC,Los Angeles,16-01-2024,182
+NYC,San Diego,16-01-2024,111
+Chicago,Seattle,16-01-2024,83
+Chicago,NYC,16-01-2024,115
+Chicago,San Francisco,16-01-2024,99
+Chicago,Los Angeles,16-01-2024,77
+Chicago,San Diego,16-01-2024,84
+San Francisco,Seattle,16-01-2024,80
+San Francisco,NYC,16-01-2024,106
+San Francisco,Chicago,16-01-2024,73
+San Francisco,Los Angeles,16-01-2024,51
+San Francisco,San Diego,16-01-2024,57
+Los Angeles,Seattle,16-01-2024,63
+Los Angeles,NYC,16-01-2024,187
+Los Angeles,Chicago,16-01-2024,66
+Los Angeles,San Francisco,16-01-2024,59
+Los Angeles,San Diego,16-01-2024,46
+San Diego,Seattle,16-01-2024,72
+San Diego,NYC,16-01-2024,104
+San Diego,Chicago,16-01-2024,86
+San Diego,San Francisco,16-01-2024,63
+San Diego,Los Angeles,16-01-2024,54
+Seattle,NYC,17-01-2024,176
+Seattle,Chicago,17-01-2024,64
+Seattle,San Francisco,17-01-2024,66
+Seattle,Los Angeles,17-01-2024,58
+Seattle,San Diego,17-01-2024,69
+NYC,Seattle,17-01-2024,176
+NYC,Chicago,17-01-2024,104
+NYC,San Francisco,17-01-2024,105
+NYC,Los Angeles,17-01-2024,173
+NYC,San Diego,17-01-2024,102
+Chicago,Seattle,17-01-2024,67
+Chicago,NYC,17-01-2024,106
+Chicago,San Francisco,17-01-2024,93
+Chicago,Los Angeles,17-01-2024,71
+Chicago,San Diego,17-01-2024,82
+San Francisco,Seattle,17-01-2024,67
+San Francisco,NYC,17-01-2024,170
+San Francisco,Chicago,17-01-2024,76
+San Francisco,Los Angeles,17-01-2024,61
+San Francisco,San Diego,17-01-2024,56
+Los Angeles,Seattle,17-01-2024,63
+Los Angeles,NYC,17-01-2024,183
+Los Angeles,Chicago,17-01-2024,72
+Los Angeles,San Francisco,17-01-2024,55
+Los Angeles,San Diego,17-01-2024,102
+San Diego,Seattle,17-01-2024,77
+San Diego,NYC,17-01-2024,112
+San Diego,Chicago,17-01-2024,82
+San Diego,San Francisco,17-01-2024,63
+San Diego,Los Angeles,17-01-2024,57
+Seattle,NYC,18-01-2024,171
+Seattle,Chicago,18-01-2024,64
+Seattle,San Francisco,18-01-2024,70
+Seattle,Los Angeles,18-01-2024,62
+Seattle,San Diego,18-01-2024,73
+NYC,Seattle,18-01-2024,176
+NYC,Chicago,18-01-2024,106
+NYC,San Francisco,18-01-2024,107
+NYC,Los Angeles,18-01-2024,176
+NYC,San Diego,18-01-2024,112
+Chicago,Seattle,18-01-2024,67
+Chicago,NYC,18-01-2024,102
+Chicago,San Francisco,18-01-2024,88
+Chicago,Los Angeles,18-01-2024,65
+Chicago,San Diego,18-01-2024,75
+San Francisco,Seattle,18-01-2024,76
+San Francisco,NYC,18-01-2024,104
+San Francisco,Chicago,18-01-2024,73
+San Francisco,Los Angeles,18-01-2024,46
+San Francisco,San Diego,18-01-2024,52
+Los Angeles,Seattle,18-01-2024,58
+Los Angeles,NYC,18-01-2024,186
+Los Angeles,Chicago,18-01-2024,63
+Los Angeles,San Francisco,18-01-2024,56
+Los Angeles,San Diego,18-01-2024,39
+San Diego,Seattle,18-01-2024,66
+San Diego,NYC,18-01-2024,98
+San Diego,Chicago,18-01-2024,73
+San Diego,San Francisco,18-01-2024,52
+San Diego,Los Angeles,18-01-2024,39
+Seattle,NYC,19-01-2024,198
+Seattle,Chicago,19-01-2024,198
+Seattle,San Francisco,19-01-2024,203
+Seattle,Los Angeles,19-01-2024,122
+Seattle,San Diego,19-01-2024,118
+NYC,Seattle,19-01-2024,215
+NYC,Chicago,19-01-2024,97
+NYC,San Francisco,19-01-2024,163
+NYC,Los Angeles,19-01-2024,190
+NYC,San Diego,19-01-2024,130
+Chicago,Seattle,19-01-2024,93
+Chicago,NYC,19-01-2024,152
+Chicago,San Francisco,19-01-2024,147
+Chicago,Los Angeles,19-01-2024,136
+Chicago,San Diego,19-01-2024,139
+San Francisco,Seattle,19-01-2024,186
+San Francisco,NYC,19-01-2024,161
+San Francisco,Chicago,19-01-2024,183
+San Francisco,Los Angeles,19-01-2024,68
+San Francisco,San Diego,19-01-2024,98
+Los Angeles,Seattle,19-01-2024,89
+Los Angeles,NYC,19-01-2024,211
+Los Angeles,Chicago,19-01-2024,133
+Los Angeles,San Francisco,19-01-2024,69
+Los Angeles,San Diego,19-01-2024,86
+San Diego,Seattle,19-01-2024,112
+San Diego,NYC,19-01-2024,165
+San Diego,Chicago,19-01-2024,188
+San Diego,San Francisco,19-01-2024,144
+San Diego,Los Angeles,19-01-2024,96
+Seattle,NYC,20-01-2024,283
+Seattle,Chicago,20-01-2024,203
+Seattle,San Francisco,20-01-2024,196
+Seattle,Los Angeles,20-01-2024,121
+Seattle,San Diego,20-01-2024,106
+NYC,Seattle,20-01-2024,234
+NYC,Chicago,20-01-2024,159
+NYC,San Francisco,20-01-2024,174
+NYC,Los Angeles,20-01-2024,206
+NYC,San Diego,20-01-2024,143
+Chicago,Seattle,20-01-2024,179
+Chicago,NYC,20-01-2024,163
+Chicago,San Francisco,20-01-2024,159
+Chicago,Los Angeles,20-01-2024,171
+Chicago,San Diego,20-01-2024,182
+San Francisco,Seattle,20-01-2024,209
+San Francisco,NYC,20-01-2024,205
+San Francisco,Chicago,20-01-2024,207
+San Francisco,Los Angeles,20-01-2024,81
+San Francisco,San Diego,20-01-2024,147
+Los Angeles,Seattle,20-01-2024,113
+Los Angeles,NYC,20-01-2024,233
+Los Angeles,Chicago,20-01-2024,179
+Los Angeles,San Francisco,20-01-2024,73
+Los Angeles,San Diego,20-01-2024,115
+San Diego,Seattle,20-01-2024,159
+San Diego,NYC,20-01-2024,193
+San Diego,Chicago,20-01-2024,209
+San Diego,San Francisco,20-01-2024,157
+San Diego,Los Angeles,20-01-2024,82
+Seattle,NYC,21-01-2024,296
+Seattle,Chicago,21-01-2024,212
+Seattle,San Francisco,21-01-2024,219
+Seattle,Los Angeles,21-01-2024,131
+Seattle,San Diego,21-01-2024,123
+NYC,Seattle,21-01-2024,269
+NYC,Chicago,21-01-2024,163
+NYC,San Francisco,21-01-2024,168
+NYC,Los Angeles,21-01-2024,216
+NYC,San Diego,21-01-2024,143
+Chicago,Seattle,21-01-2024,191
+Chicago,NYC,21-01-2024,167
+Chicago,San Francisco,21-01-2024,170
+Chicago,Los Angeles,21-01-2024,172
+Chicago,San Diego,21-01-2024,184
+San Francisco,Seattle,21-01-2024,214
+San Francisco,NYC,21-01-2024,200
+San Francisco,Chicago,21-01-2024,204
+San Francisco,Los Angeles,21-01-2024,91
+San Francisco,San Diego,21-01-2024,160
+Los Angeles,Seattle,21-01-2024,109
+Los Angeles,NYC,21-01-2024,202
+Los Angeles,Chicago,21-01-2024,173
+Los Angeles,San Francisco,21-01-2024,71
+Los Angeles,San Diego,21-01-2024,120
+San Diego,Seattle,21-01-2024,159
+San Diego,NYC,21-01-2024,201
+San Diego,Chicago,21-01-2024,209
+San Diego,San Francisco,21-01-2024,159
+San Diego,Los Angeles,21-01-2024,129
+Seattle,NYC,22-01-2024,206
+Seattle,Chicago,22-01-2024,175
+Seattle,San Francisco,22-01-2024,162
+Seattle,Los Angeles,22-01-2024,86
+Seattle,San Diego,22-01-2024,82
+NYC,Seattle,22-01-2024,231
+NYC,Chicago,22-01-2024,125
+NYC,San Francisco,22-01-2024,133
+NYC,Los Angeles,22-01-2024,196
+NYC,San Diego,22-01-2024,126
+Chicago,Seattle,22-01-2024,157
+Chicago,NYC,22-01-2024,153
+Chicago,San Francisco,22-01-2024,148
+Chicago,Los Angeles,22-01-2024,129
+Chicago,San Diego,22-01-2024,156
+San Francisco,Seattle,22-01-2024,163
+San Francisco,NYC,22-01-2024,179
+San Francisco,Chicago,22-01-2024,169
+San Francisco,Los Angeles,22-01-2024,66
+San Francisco,San Diego,22-01-2024,100
+Los Angeles,Seattle,22-01-2024,84
+Los Angeles,NYC,22-01-2024,209
+Los Angeles,Chicago,22-01-2024,129
+Los Angeles,San Francisco,22-01-2024,61
+Los Angeles,San Diego,22-01-2024,84
+San Diego,Seattle,22-01-2024,123
+San Diego,NYC,22-01-2024,147
+San Diego,Chicago,22-01-2024,164
+San Diego,San Francisco,22-01-2024,144
+San Diego,Los Angeles,22-01-2024,75
+Seattle,NYC,23-01-2024,183
+Seattle,Chicago,23-01-2024,73
+Seattle,San Francisco,23-01-2024,69
+Seattle,Los Angeles,23-01-2024,77
+Seattle,San Diego,23-01-2024,81
+NYC,Seattle,23-01-2024,86
+NYC,Chicago,23-01-2024,106
+NYC,San Francisco,23-01-2024,125
+NYC,Los Angeles,23-01-2024,180
+NYC,San Diego,23-01-2024,103
+Chicago,Seattle,23-01-2024,88
+Chicago,NYC,23-01-2024,106
+Chicago,San Francisco,23-01-2024,96
+Chicago,Los Angeles,23-01-2024,116
+Chicago,San Diego,23-01-2024,112
+San Francisco,Seattle,23-01-2024,90
+San Francisco,NYC,23-01-2024,127
+San Francisco,Chicago,23-01-2024,87
+San Francisco,Los Angeles,23-01-2024,57
+San Francisco,San Diego,23-01-2024,56
+Los Angeles,Seattle,23-01-2024,83
+Los Angeles,NYC,23-01-2024,137
+Los Angeles,Chicago,23-01-2024,76
+Los Angeles,San Francisco,23-01-2024,62
+Los Angeles,San Diego,23-01-2024,48
+San Diego,Seattle,23-01-2024,72
+San Diego,NYC,23-01-2024,103
+San Diego,Chicago,23-01-2024,78
+San Diego,San Francisco,23-01-2024,60
+San Diego,Los Angeles,23-01-2024,69
+Seattle,NYC,24-01-2024,182
+Seattle,Chicago,24-01-2024,75
+Seattle,San Francisco,24-01-2024,68
+Seattle,Los Angeles,24-01-2024,76
+Seattle,San Diego,24-01-2024,69
+NYC,Seattle,24-01-2024,183
+NYC,Chicago,24-01-2024,103
+NYC,San Francisco,24-01-2024,109
+NYC,Los Angeles,24-01-2024,175
+NYC,San Diego,24-01-2024,114
+Chicago,Seattle,24-01-2024,76
+Chicago,NYC,24-01-2024,118
+Chicago,San Francisco,24-01-2024,95
+Chicago,Los Angeles,24-01-2024,67
+Chicago,San Diego,24-01-2024,109
+San Francisco,Seattle,24-01-2024,72
+San Francisco,NYC,24-01-2024,104
+San Francisco,Chicago,24-01-2024,79
+San Francisco,Los Angeles,24-01-2024,53
+San Francisco,San Diego,24-01-2024,69
+Los Angeles,Seattle,24-01-2024,63
+Los Angeles,NYC,24-01-2024,211
+Los Angeles,Chicago,24-01-2024,76
+Los Angeles,San Francisco,24-01-2024,61
+Los Angeles,San Diego,24-01-2024,39
+San Diego,Seattle,24-01-2024,72
+San Diego,NYC,24-01-2024,114
+San Diego,Chicago,24-01-2024,82
+San Diego,San Francisco,24-01-2024,67
+San Diego,Los Angeles,24-01-2024,52
+Seattle,NYC,25-01-2024,198
+Seattle,Chicago,25-01-2024,94
+Seattle,San Francisco,25-01-2024,108
+Seattle,Los Angeles,25-01-2024,69
+Seattle,San Diego,25-01-2024,69
+NYC,Seattle,25-01-2024,161
+NYC,Chicago,25-01-2024,90
+NYC,San Francisco,25-01-2024,106
+NYC,Los Angeles,25-01-2024,174
+NYC,San Diego,25-01-2024,104
+Chicago,Seattle,25-01-2024,67
+Chicago,NYC,25-01-2024,108
+Chicago,San Francisco,25-01-2024,93
+Chicago,Los Angeles,25-01-2024,74
+Chicago,San Diego,25-01-2024,81
+San Francisco,Seattle,25-01-2024,77
+San Francisco,NYC,25-01-2024,100
+San Francisco,Chicago,25-01-2024,79
+San Francisco,Los Angeles,25-01-2024,46
+San Francisco,San Diego,25-01-2024,50
+Los Angeles,Seattle,25-01-2024,55
+Los Angeles,NYC,25-01-2024,185
+Los Angeles,Chicago,25-01-2024,63
+Los Angeles,San Francisco,25-01-2024,54
+Los Angeles,San Diego,25-01-2024,41
+San Diego,Seattle,25-01-2024,66
+San Diego,NYC,25-01-2024,95
+San Diego,Chicago,25-01-2024,73
+San Diego,San Francisco,25-01-2024,56
+San Diego,Los Angeles,25-01-2024,46
+Seattle,NYC,26-01-2024,221
+Seattle,Chicago,26-01-2024,189
+Seattle,San Francisco,26-01-2024,205
+Seattle,Los Angeles,26-01-2024,101
+Seattle,San Diego,26-01-2024,119
+NYC,Seattle,26-01-2024,266
+NYC,Chicago,26-01-2024,152
+NYC,San Francisco,26-01-2024,133
+NYC,Los Angeles,26-01-2024,201
+NYC,San Diego,26-01-2024,143
+Chicago,Seattle,26-01-2024,177
+Chicago,NYC,26-01-2024,164
+Chicago,San Francisco,26-01-2024,162
+Chicago,Los Angeles,26-01-2024,169
+Chicago,San Diego,26-01-2024,176
+San Francisco,Seattle,26-01-2024,202
+San Francisco,NYC,26-01-2024,179
+San Francisco,Chicago,26-01-2024,183
+San Francisco,Los Angeles,26-01-2024,75
+San Francisco,San Diego,26-01-2024,149
+Los Angeles,Seattle,26-01-2024,87
+Los Angeles,NYC,26-01-2024,221
+Los Angeles,Chicago,26-01-2024,153
+Los Angeles,San Francisco,26-01-2024,71
+Los Angeles,San Diego,26-01-2024,67
+San Diego,Seattle,26-01-2024,145
+San Diego,NYC,26-01-2024,169
+San Diego,Chicago,26-01-2024,195
+San Diego,San Francisco,26-01-2024,108
+San Diego,Los Angeles,26-01-2024,74
+Seattle,NYC,27-01-2024,287
+Seattle,Chicago,27-01-2024,209
+Seattle,San Francisco,27-01-2024,219
+Seattle,Los Angeles,27-01-2024,131
+Seattle,San Diego,27-01-2024,120
+NYC,Seattle,27-01-2024,268
+NYC,Chicago,27-01-2024,158
+NYC,San Francisco,27-01-2024,168
+NYC,Los Angeles,27-01-2024,219
+NYC,San Diego,27-01-2024,149
+Chicago,Seattle,27-01-2024,170
+Chicago,NYC,27-01-2024,172
+Chicago,San Francisco,27-01-2024,180
+Chicago,Los Angeles,27-01-2024,177
+Chicago,San Diego,27-01-2024,189
+San Francisco,Seattle,27-01-2024,200
+San Francisco,NYC,27-01-2024,195
+San Francisco,Chicago,27-01-2024,214
+San Francisco,Los Angeles,27-01-2024,94
+San Francisco,San Diego,27-01-2024,160
+Los Angeles,Seattle,27-01-2024,121
+Los Angeles,NYC,27-01-2024,239
+Los Angeles,Chicago,27-01-2024,188
+Los Angeles,San Francisco,27-01-2024,75
+Los Angeles,San Diego,27-01-2024,121
+San Diego,Seattle,27-01-2024,166
+San Diego,NYC,27-01-2024,204
+San Diego,Chicago,27-01-2024,230
+San Diego,San Francisco,27-01-2024,165
+San Diego,Los Angeles,27-01-2024,131
+Seattle,NYC,28-01-2024,293
+Seattle,Chicago,28-01-2024,212
+Seattle,San Francisco,28-01-2024,219
+Seattle,Los Angeles,28-01-2024,134
+Seattle,San Diego,28-01-2024,122
+NYC,Seattle,28-01-2024,276
+NYC,Chicago,28-01-2024,228
+NYC,San Francisco,28-01-2024,174
+NYC,Los Angeles,28-01-2024,214
+NYC,San Diego,28-01-2024,139
+Chicago,Seattle,28-01-2024,190
+Chicago,NYC,28-01-2024,173
+Chicago,San Francisco,28-01-2024,176
+Chicago,Los Angeles,28-01-2024,168
+Chicago,San Diego,28-01-2024,189
+San Francisco,Seattle,28-01-2024,213
+San Francisco,NYC,28-01-2024,179
+San Francisco,Chicago,28-01-2024,209
+San Francisco,Los Angeles,28-01-2024,88
+San Francisco,San Diego,28-01-2024,161
+Los Angeles,Seattle,28-01-2024,123
+Los Angeles,NYC,28-01-2024,233
+Los Angeles,Chicago,28-01-2024,175
+Los Angeles,San Francisco,28-01-2024,76
+Los Angeles,San Diego,28-01-2024,119
+San Diego,Seattle,28-01-2024,164
+San Diego,NYC,28-01-2024,200
+San Diego,Chicago,28-01-2024,221
+San Diego,San Francisco,28-01-2024,159
+San Diego,Los Angeles,28-01-2024,130
+Seattle,NYC,29-01-2024,200
+Seattle,Chicago,29-01-2024,146
+Seattle,San Francisco,29-01-2024,130
+Seattle,Los Angeles,29-01-2024,86
+Seattle,San Diego,29-01-2024,97
+NYC,Seattle,29-01-2024,202
+NYC,Chicago,29-01-2024,122
+NYC,San Francisco,29-01-2024,134
+NYC,Los Angeles,29-01-2024,182
+NYC,San Diego,29-01-2024,121
+Chicago,Seattle,29-01-2024,78
+Chicago,NYC,29-01-2024,133
+Chicago,San Francisco,29-01-2024,109
+Chicago,Los Angeles,29-01-2024,89
+Chicago,San Diego,29-01-2024,119
+San Francisco,Seattle,29-01-2024,99
+San Francisco,NYC,29-01-2024,136
+San Francisco,Chicago,29-01-2024,131
+San Francisco,Los Angeles,29-01-2024,56
+San Francisco,San Diego,29-01-2024,81
+Los Angeles,Seattle,29-01-2024,69
+Los Angeles,NYC,29-01-2024,191
+Los Angeles,Chicago,29-01-2024,73
+Los Angeles,San Francisco,29-01-2024,58
+Los Angeles,San Diego,29-01-2024,69
+San Diego,Seattle,29-01-2024,103
+San Diego,NYC,29-01-2024,138
+San Diego,Chicago,29-01-2024,143
+San Diego,San Francisco,29-01-2024,84
+San Diego,Los Angeles,29-01-2024,47
+Seattle,NYC,30-01-2024,182
+Seattle,Chicago,30-01-2024,73
+Seattle,San Francisco,30-01-2024,67
+Seattle,Los Angeles,30-01-2024,58
+Seattle,San Diego,30-01-2024,75
+NYC,Seattle,30-01-2024,163
+NYC,Chicago,30-01-2024,96
+NYC,San Francisco,30-01-2024,103
+NYC,Los Angeles,30-01-2024,171
+NYC,San Diego,30-01-2024,105
+Chicago,Seattle,30-01-2024,63
+Chicago,NYC,30-01-2024,103
+Chicago,San Francisco,30-01-2024,89
+Chicago,Los Angeles,30-01-2024,66
+Chicago,San Diego,30-01-2024,80
+San Francisco,Seattle,30-01-2024,68
+San Francisco,NYC,30-01-2024,106
+San Francisco,Chicago,30-01-2024,75
+San Francisco,Los Angeles,30-01-2024,51
+San Francisco,San Diego,30-01-2024,54
+Los Angeles,Seattle,30-01-2024,63
+Los Angeles,NYC,30-01-2024,188
+Los Angeles,Chicago,30-01-2024,64
+Los Angeles,San Francisco,30-01-2024,51
+Los Angeles,San Diego,30-01-2024,35
+San Diego,Seattle,30-01-2024,66
+San Diego,NYC,30-01-2024,98
+San Diego,Chicago,30-01-2024,76
+San Diego,San Francisco,30-01-2024,54
+San Diego,Los Angeles,30-01-2024,48
+Seattle,NYC,31-01-2024,173
+Seattle,Chicago,31-01-2024,67
+Seattle,San Francisco,31-01-2024,76
+Seattle,Los Angeles,31-01-2024,61
+Seattle,San Diego,31-01-2024,71
+NYC,Seattle,31-01-2024,173
+NYC,Chicago,31-01-2024,105
+NYC,San Francisco,31-01-2024,123
+NYC,Los Angeles,31-01-2024,173
+NYC,San Diego,31-01-2024,111
+Chicago,Seattle,31-01-2024,73
+Chicago,NYC,31-01-2024,133
+Chicago,San Francisco,31-01-2024,96
+Chicago,Los Angeles,31-01-2024,79
+Chicago,San Diego,31-01-2024,89
+San Francisco,Seattle,31-01-2024,81
+San Francisco,NYC,31-01-2024,118
+San Francisco,Chicago,31-01-2024,86
+San Francisco,Los Angeles,31-01-2024,72
+San Francisco,San Diego,31-01-2024,73
+Los Angeles,Seattle,31-01-2024,63
+Los Angeles,NYC,31-01-2024,186
+Los Angeles,Chicago,31-01-2024,68
+Los Angeles,San Francisco,31-01-2024,63
+Los Angeles,San Diego,31-01-2024,61
+San Diego,Seattle,31-01-2024,77
+San Diego,NYC,31-01-2024,127
+San Diego,Chicago,31-01-2024,119
+San Diego,San Francisco,31-01-2024,68
+San Diego,Los Angeles,31-01-2024,55
+Chicago,San Diego,01-03-2024,132
+Chicago,Seattle,01-03-2024,60
+Chicago,Los Angeles,01-03-2024,84
+Chicago,San Francisco,01-03-2024,170
+Chicago,NYC,01-03-2024,131
+Los Angeles,NYC,01-03-2024,208
+Los Angeles,Chicago,01-03-2024,100
+Los Angeles,Seattle,01-03-2024,55
+Los Angeles,San Francisco,01-03-2024,52
+Los Angeles,San Diego,01-03-2024,87
+NYC,San Diego,01-03-2024,121
+NYC,Chicago,01-03-2024,130
+NYC,Seattle,01-03-2024,233
+NYC,Los Angeles,01-03-2024,203
+NYC,San Francisco,01-03-2024,180
+San Diego,Seattle,01-03-2024,161
+San Diego,Chicago,01-03-2024,220
+San Diego,San Francisco,01-03-2024,60
+San Diego,Los Angeles,01-03-2024,122
+San Diego,NYC,01-03-2024,108
+San Francisco,Los Angeles,01-03-2024,64
+San Francisco,San Diego,01-03-2024,124
+San Francisco,NYC,01-03-2024,106
+San Francisco,Chicago,01-03-2024,167
+San Francisco,Seattle,01-03-2024,179
+Seattle,NYC,01-03-2024,277
+Seattle,Chicago,01-03-2024,172
+Seattle,Los Angeles,01-03-2024,56
+Seattle,San Francisco,01-03-2024,99
+Seattle,San Diego,01-03-2024,97
+Chicago,San Diego,02-03-2024,100
+Chicago,Seattle,02-03-2024,97
+Chicago,Los Angeles,02-03-2024,173
+Chicago,San Francisco,02-03-2024,154
+Chicago,NYC,02-03-2024,172
+Los Angeles,NYC,02-03-2024,231
+Los Angeles,Chicago,02-03-2024,98
+Los Angeles,Seattle,02-03-2024,99
+Los Angeles,San Francisco,02-03-2024,75
+Los Angeles,San Diego,02-03-2024,49
+NYC,San Diego,02-03-2024,124
+NYC,Chicago,02-03-2024,168
+NYC,Seattle,02-03-2024,165
+NYC,Los Angeles,02-03-2024,195
+NYC,San Francisco,02-03-2024,136
+San Diego,Seattle,02-03-2024,67
+San Diego,Chicago,02-03-2024,211
+San Diego,San Francisco,02-03-2024,146
+San Diego,Los Angeles,02-03-2024,104
+San Diego,NYC,02-03-2024,189
+San Francisco,Los Angeles,02-03-2024,62
+San Francisco,San Diego,02-03-2024,114
+San Francisco,NYC,02-03-2024,109
+San Francisco,Chicago,02-03-2024,110
+San Francisco,Seattle,02-03-2024,184
+Seattle,NYC,02-03-2024,250
+Seattle,Chicago,02-03-2024,96
+Seattle,Los Angeles,02-03-2024,116
+Seattle,San Francisco,02-03-2024,220
+Seattle,San Diego,02-03-2024,95
+Chicago,San Diego,03-03-2024,107
+Chicago,Seattle,03-03-2024,129
+Chicago,Los Angeles,03-03-2024,82
+Chicago,San Francisco,03-03-2024,179
+Chicago,NYC,03-03-2024,118
+Los Angeles,NYC,03-03-2024,189
+Los Angeles,Chicago,03-03-2024,132
+Los Angeles,Seattle,03-03-2024,69
+Los Angeles,San Francisco,03-03-2024,56
+Los Angeles,San Diego,03-03-2024,63
+NYC,San Diego,03-03-2024,152
+NYC,Chicago,03-03-2024,98
+NYC,Seattle,03-03-2024,194
+NYC,Los Angeles,03-03-2024,188
+NYC,San Francisco,03-03-2024,165
+San Diego,Seattle,03-03-2024,64
+San Diego,Chicago,03-03-2024,108
+San Diego,San Francisco,03-03-2024,155
+San Diego,Los Angeles,03-03-2024,111
+San Diego,NYC,03-03-2024,105
+San Francisco,Los Angeles,03-03-2024,69
+San Francisco,San Diego,03-03-2024,114
+San Francisco,NYC,03-03-2024,116
+San Francisco,Chicago,03-03-2024,115
+San Francisco,Seattle,03-03-2024,93
+Seattle,NYC,03-03-2024,212
+Seattle,Chicago,03-03-2024,74
+Seattle,Los Angeles,03-03-2024,61
+Seattle,San Francisco,03-03-2024,131
+Seattle,San Diego,03-03-2024,98
+Chicago,San Diego,04-03-2024,146
+Chicago,Seattle,04-03-2024,74
+Chicago,Los Angeles,04-03-2024,98
+Chicago,San Francisco,04-03-2024,183
+Chicago,NYC,04-03-2024,130
+Los Angeles,NYC,04-03-2024,226
+Los Angeles,Chicago,04-03-2024,181
+Los Angeles,Seattle,04-03-2024,70
+Los Angeles,San Francisco,04-03-2024,58
+Los Angeles,San Diego,04-03-2024,67
+NYC,San Diego,04-03-2024,139
+NYC,Chicago,04-03-2024,129
+NYC,Seattle,04-03-2024,170
+NYC,Los Angeles,04-03-2024,181
+NYC,San Francisco,04-03-2024,155
+San Diego,Seattle,04-03-2024,160
+San Diego,Chicago,04-03-2024,129
+San Diego,San Francisco,04-03-2024,133
+San Diego,Los Angeles,04-03-2024,86
+San Diego,NYC,04-03-2024,159
+San Francisco,Los Angeles,04-03-2024,52
+San Francisco,San Diego,04-03-2024,146
+San Francisco,NYC,04-03-2024,104
+San Francisco,Chicago,04-03-2024,213
+San Francisco,Seattle,04-03-2024,183
+Seattle,NYC,04-03-2024,178
+Seattle,Chicago,04-03-2024,174
+Seattle,Los Angeles,04-03-2024,96
+Seattle,San Francisco,04-03-2024,67
+Seattle,San Diego,04-03-2024,86
+Chicago,San Diego,05-03-2024,124
+Chicago,Seattle,05-03-2024,81
+Chicago,Los Angeles,05-03-2024,117
+Chicago,San Francisco,05-03-2024,157
+Chicago,NYC,05-03-2024,109
+Los Angeles,NYC,05-03-2024,225
+Los Angeles,Chicago,05-03-2024,100
+Los Angeles,Seattle,05-03-2024,80
+Los Angeles,San Francisco,05-03-2024,74
+Los Angeles,San Diego,05-03-2024,54
+NYC,San Diego,05-03-2024,153
+NYC,Chicago,05-03-2024,144
+NYC,Seattle,05-03-2024,270
+NYC,Los Angeles,05-03-2024,193
+NYC,San Francisco,05-03-2024,125
+San Diego,Seattle,05-03-2024,132
+San Diego,Chicago,05-03-2024,104
+San Diego,San Francisco,05-03-2024,113
+San Diego,Los Angeles,05-03-2024,123
+San Diego,NYC,05-03-2024,103
+San Francisco,Los Angeles,05-03-2024,77
+San Francisco,San Diego,05-03-2024,107
+San Francisco,NYC,05-03-2024,101
+San Francisco,Chicago,05-03-2024,182
+San Francisco,Seattle,05-03-2024,124
+Seattle,NYC,05-03-2024,206
+Seattle,Chicago,05-03-2024,155
+Seattle,Los Angeles,05-03-2024,60
+Seattle,San Francisco,05-03-2024,168
+Seattle,San Diego,05-03-2024,66
+Chicago,San Diego,06-03-2024,126
+Chicago,Seattle,06-03-2024,64
+Chicago,Los Angeles,06-03-2024,118
+Chicago,San Francisco,06-03-2024,111
+Chicago,NYC,06-03-2024,176
+Los Angeles,NYC,06-03-2024,192
+Los Angeles,Chicago,06-03-2024,164
+Los Angeles,Seattle,06-03-2024,119
+Los Angeles,San Francisco,06-03-2024,64
+Los Angeles,San Diego,06-03-2024,95
+NYC,San Diego,06-03-2024,122
+NYC,Chicago,06-03-2024,123
+NYC,Seattle,06-03-2024,215
+NYC,Los Angeles,06-03-2024,214
+NYC,San Francisco,06-03-2024,113
+San Diego,Seattle,06-03-2024,157
+San Diego,Chicago,06-03-2024,185
+San Diego,San Francisco,06-03-2024,132
+San Diego,Los Angeles,06-03-2024,50
+San Diego,NYC,06-03-2024,99
+San Francisco,Los Angeles,06-03-2024,74
+San Francisco,San Diego,06-03-2024,65
+San Francisco,NYC,06-03-2024,204
+San Francisco,Chicago,06-03-2024,147
+San Francisco,Seattle,06-03-2024,80
+Seattle,NYC,06-03-2024,208
+Seattle,Chicago,06-03-2024,85
+Seattle,Los Angeles,06-03-2024,109
+Seattle,San Francisco,06-03-2024,217
+Seattle,San Diego,06-03-2024,130
+Chicago,San Diego,07-03-2024,189
+Chicago,Seattle,07-03-2024,65
+Chicago,Los Angeles,07-03-2024,78
+Chicago,San Francisco,07-03-2024,93
+Chicago,NYC,07-03-2024,150
+Los Angeles,NYC,07-03-2024,186
+Los Angeles,Chicago,07-03-2024,77
+Los Angeles,Seattle,07-03-2024,70
+Los Angeles,San Francisco,07-03-2024,68
+Los Angeles,San Diego,07-03-2024,52
+NYC,San Diego,07-03-2024,107
+NYC,Chicago,07-03-2024,124
+NYC,Seattle,07-03-2024,177
+NYC,Los Angeles,07-03-2024,210
+NYC,San Francisco,07-03-2024,167
+San Diego,Seattle,07-03-2024,94
+San Diego,Chicago,07-03-2024,198
+San Diego,San Francisco,07-03-2024,152
+San Diego,Los Angeles,07-03-2024,113
+San Diego,NYC,07-03-2024,148
+San Francisco,Los Angeles,07-03-2024,85
+San Francisco,San Diego,07-03-2024,107
+San Francisco,NYC,07-03-2024,159
+San Francisco,Chicago,07-03-2024,85
+San Francisco,Seattle,07-03-2024,128
+Seattle,NYC,07-03-2024,273
+Seattle,Chicago,07-03-2024,102
+Seattle,Los Angeles,07-03-2024,82
+Seattle,San Francisco,07-03-2024,170
+Seattle,San Diego,07-03-2024,119
+Chicago,San Diego,08-03-2024,138
+Chicago,Seattle,08-03-2024,108
+Chicago,Los Angeles,08-03-2024,161
+Chicago,San Francisco,08-03-2024,161
+Chicago,NYC,08-03-2024,146
+Los Angeles,NYC,08-03-2024,208
+Los Angeles,Chicago,08-03-2024,66
+Los Angeles,Seattle,08-03-2024,60
+Los Angeles,San Francisco,08-03-2024,50
+Los Angeles,San Diego,08-03-2024,73
+NYC,San Diego,08-03-2024,133
+NYC,Chicago,08-03-2024,159
+NYC,Seattle,08-03-2024,164
+NYC,Los Angeles,08-03-2024,214
+NYC,San Francisco,08-03-2024,171
+San Diego,Seattle,08-03-2024,73
+San Diego,Chicago,08-03-2024,204
+San Diego,San Francisco,08-03-2024,138
+San Diego,Los Angeles,08-03-2024,129
+San Diego,NYC,08-03-2024,98
+San Francisco,Los Angeles,08-03-2024,74
+San Francisco,San Diego,08-03-2024,132
+San Francisco,NYC,08-03-2024,198
+San Francisco,Chicago,08-03-2024,125
+San Francisco,Seattle,08-03-2024,125
+Seattle,NYC,08-03-2024,177
+Seattle,Chicago,08-03-2024,195
+Seattle,Los Angeles,08-03-2024,120
+Seattle,San Francisco,08-03-2024,158
+Seattle,San Diego,08-03-2024,112
+Chicago,San Diego,09-03-2024,147
+Chicago,Seattle,09-03-2024,143
+Chicago,Los Angeles,09-03-2024,103
+Chicago,San Francisco,09-03-2024,167
+Chicago,NYC,09-03-2024,155
+Los Angeles,NYC,09-03-2024,221
+Los Angeles,Chicago,09-03-2024,76
+Los Angeles,Seattle,09-03-2024,103
+Los Angeles,San Francisco,09-03-2024,54
+Los Angeles,San Diego,09-03-2024,50
+NYC,San Diego,09-03-2024,154
+NYC,Chicago,09-03-2024,121
+NYC,Seattle,09-03-2024,222
+NYC,Los Angeles,09-03-2024,212
+NYC,San Francisco,09-03-2024,141
+San Diego,Seattle,09-03-2024,66
+San Diego,Chicago,09-03-2024,224
+San Diego,San Francisco,09-03-2024,143
+San Diego,Los Angeles,09-03-2024,51
+San Diego,NYC,09-03-2024,95
+San Francisco,Los Angeles,09-03-2024,77
+San Francisco,San Diego,09-03-2024,144
+San Francisco,NYC,09-03-2024,185
+San Francisco,Chicago,09-03-2024,84
+San Francisco,Seattle,09-03-2024,208
+Seattle,NYC,09-03-2024,191
+Seattle,Chicago,09-03-2024,211
+Seattle,Los Angeles,09-03-2024,92
+Seattle,San Francisco,09-03-2024,83
+Seattle,San Diego,09-03-2024,113
+Chicago,San Diego,10-03-2024,135
+Chicago,Seattle,10-03-2024,92
+Chicago,Los Angeles,10-03-2024,119
+Chicago,San Francisco,10-03-2024,97
+Chicago,NYC,10-03-2024,115
+Los Angeles,NYC,10-03-2024,200
+Los Angeles,Chicago,10-03-2024,183
+Los Angeles,Seattle,10-03-2024,113
+Los Angeles,San Francisco,10-03-2024,64
+Los Angeles,San Diego,10-03-2024,114
+NYC,San Diego,10-03-2024,137
+NYC,Chicago,10-03-2024,170
+NYC,Seattle,10-03-2024,216
+NYC,Los Angeles,10-03-2024,192
+NYC,San Francisco,10-03-2024,137
+San Diego,Seattle,10-03-2024,86
+San Diego,Chicago,10-03-2024,221
+San Diego,San Francisco,10-03-2024,113
+San Diego,Los Angeles,10-03-2024,57
+San Diego,NYC,10-03-2024,198
+San Francisco,Los Angeles,10-03-2024,67
+San Francisco,San Diego,10-03-2024,136
+San Francisco,NYC,10-03-2024,130
+San Francisco,Chicago,10-03-2024,199
+San Francisco,Seattle,10-03-2024,171
+Seattle,NYC,10-03-2024,253
+Seattle,Chicago,10-03-2024,89
+Seattle,Los Angeles,10-03-2024,75
+Seattle,San Francisco,10-03-2024,199
+Seattle,San Diego,10-03-2024,112
+Chicago,San Diego,11-03-2024,103
+Chicago,Seattle,11-03-2024,154
+Chicago,Los Angeles,11-03-2024,123
+Chicago,San Francisco,11-03-2024,165
+Chicago,NYC,11-03-2024,107
+Los Angeles,NYC,11-03-2024,235
+Los Angeles,Chicago,11-03-2024,141
+Los Angeles,Seattle,11-03-2024,128
+Los Angeles,San Francisco,11-03-2024,69
+Los Angeles,San Diego,11-03-2024,38
+NYC,San Diego,11-03-2024,146
+NYC,Chicago,11-03-2024,134
+NYC,Seattle,11-03-2024,195
+NYC,Los Angeles,11-03-2024,190
+NYC,San Francisco,11-03-2024,110
+San Diego,Seattle,11-03-2024,63
+San Diego,Chicago,11-03-2024,86
+San Diego,San Francisco,11-03-2024,81
+San Diego,Los Angeles,11-03-2024,60
+San Diego,NYC,11-03-2024,113
+San Francisco,Los Angeles,11-03-2024,85
+San Francisco,San Diego,11-03-2024,57
+San Francisco,NYC,11-03-2024,110
+San Francisco,Chicago,11-03-2024,93
+San Francisco,Seattle,11-03-2024,160
+Seattle,NYC,11-03-2024,259
+Seattle,Chicago,11-03-2024,81
+Seattle,Los Angeles,11-03-2024,104
+Seattle,San Francisco,11-03-2024,191
+Seattle,San Diego,11-03-2024,121
+Chicago,San Diego,12-03-2024,78
+Chicago,Seattle,12-03-2024,126
+Chicago,Los Angeles,12-03-2024,80
+Chicago,San Francisco,12-03-2024,114
+Chicago,NYC,12-03-2024,160
+Los Angeles,NYC,12-03-2024,202
+Los Angeles,Chicago,12-03-2024,86
+Los Angeles,Seattle,12-03-2024,129
+Los Angeles,San Francisco,12-03-2024,54
+Los Angeles,San Diego,12-03-2024,70
+NYC,San Diego,12-03-2024,138
+NYC,Chicago,12-03-2024,149
+NYC,Seattle,12-03-2024,276
+NYC,Los Angeles,12-03-2024,219
+NYC,San Francisco,12-03-2024,180
+San Diego,Seattle,12-03-2024,103
+San Diego,Chicago,12-03-2024,135
+San Diego,San Francisco,12-03-2024,148
+San Diego,Los Angeles,12-03-2024,102
+San Diego,NYC,12-03-2024,117
+San Francisco,Los Angeles,12-03-2024,68
+San Francisco,San Diego,12-03-2024,99
+San Francisco,NYC,12-03-2024,138
+San Francisco,Chicago,12-03-2024,124
+San Francisco,Seattle,12-03-2024,111
+Seattle,NYC,12-03-2024,202
+Seattle,Chicago,12-03-2024,160
+Seattle,Los Angeles,12-03-2024,114
+Seattle,San Francisco,12-03-2024,189
+Seattle,San Diego,12-03-2024,96
+Chicago,San Diego,13-03-2024,150
+Chicago,Seattle,13-03-2024,182
+Chicago,Los Angeles,13-03-2024,160
+Chicago,San Francisco,13-03-2024,102
+Chicago,NYC,13-03-2024,149
+Los Angeles,NYC,13-03-2024,223
+Los Angeles,Chicago,13-03-2024,135
+Los Angeles,Seattle,13-03-2024,101
+Los Angeles,San Francisco,13-03-2024,68
+Los Angeles,San Diego,13-03-2024,50
+NYC,San Diego,13-03-2024,115
+NYC,Chicago,13-03-2024,103
+NYC,Seattle,13-03-2024,217
+NYC,Los Angeles,13-03-2024,219
+NYC,San Francisco,13-03-2024,103
+San Diego,Seattle,13-03-2024,100
+San Diego,Chicago,13-03-2024,202
+San Diego,San Francisco,13-03-2024,110
+San Diego,Los Angeles,13-03-2024,49
+San Diego,NYC,13-03-2024,151
+San Francisco,Los Angeles,13-03-2024,85
+San Francisco,San Diego,13-03-2024,144
+San Francisco,NYC,13-03-2024,148
+San Francisco,Chicago,13-03-2024,177
+San Francisco,Seattle,13-03-2024,219
+Seattle,NYC,13-03-2024,271
+Seattle,Chicago,13-03-2024,167
+Seattle,Los Angeles,13-03-2024,118
+Seattle,San Francisco,13-03-2024,150
+Seattle,San Diego,13-03-2024,122
+Chicago,San Diego,14-03-2024,147
+Chicago,Seattle,14-03-2024,64
+Chicago,Los Angeles,14-03-2024,158
+Chicago,San Francisco,14-03-2024,176
+Chicago,NYC,14-03-2024,117
+Los Angeles,NYC,14-03-2024,194
+Los Angeles,Chicago,14-03-2024,72
+Los Angeles,Seattle,14-03-2024,101
+Los Angeles,San Francisco,14-03-2024,54
+Los Angeles,San Diego,14-03-2024,112
+NYC,San Diego,14-03-2024,139
+NYC,Chicago,14-03-2024,155
+NYC,Seattle,14-03-2024,246
+NYC,Los Angeles,14-03-2024,216
+NYC,San Francisco,14-03-2024,112
+San Diego,Seattle,14-03-2024,140
+San Diego,Chicago,14-03-2024,220
+San Diego,San Francisco,14-03-2024,55
+San Diego,Los Angeles,14-03-2024,37
+San Diego,NYC,14-03-2024,185
+San Francisco,Los Angeles,14-03-2024,59
+San Francisco,San Diego,14-03-2024,152
+San Francisco,NYC,14-03-2024,134
+San Francisco,Chicago,14-03-2024,162
+San Francisco,Seattle,14-03-2024,136
+Seattle,NYC,14-03-2024,226
+Seattle,Chicago,14-03-2024,190
+Seattle,Los Angeles,14-03-2024,81
+Seattle,San Francisco,14-03-2024,219
+Seattle,San Diego,14-03-2024,76
+Chicago,San Diego,15-03-2024,120
+Chicago,Seattle,15-03-2024,127
+Chicago,Los Angeles,15-03-2024,176
+Chicago,San Francisco,15-03-2024,109
+Chicago,NYC,15-03-2024,109
+Los Angeles,NYC,15-03-2024,210
+Los Angeles,Chicago,15-03-2024,107
+Los Angeles,Seattle,15-03-2024,69
+Los Angeles,San Francisco,15-03-2024,62
+Los Angeles,San Diego,15-03-2024,96
+NYC,San Diego,15-03-2024,110
+NYC,Chicago,15-03-2024,113
+NYC,Seattle,15-03-2024,271
+NYC,Los Angeles,15-03-2024,193
+NYC,San Francisco,15-03-2024,159
+San Diego,Seattle,15-03-2024,126
+San Diego,Chicago,15-03-2024,101
+San Diego,San Francisco,15-03-2024,167
+San Diego,Los Angeles,15-03-2024,66
+San Diego,NYC,15-03-2024,135
+San Francisco,Los Angeles,15-03-2024,56
+San Francisco,San Diego,15-03-2024,155
+San Francisco,NYC,15-03-2024,205
+San Francisco,Chicago,15-03-2024,184
+San Francisco,Seattle,15-03-2024,164
+Seattle,NYC,15-03-2024,246
+Seattle,Chicago,15-03-2024,133
+Seattle,Los Angeles,15-03-2024,86
+Seattle,San Francisco,15-03-2024,146
+Seattle,San Diego,15-03-2024,91
+Chicago,San Diego,16-03-2024,166
+Chicago,Seattle,16-03-2024,124
+Chicago,Los Angeles,16-03-2024,114
+Chicago,San Francisco,16-03-2024,95
+Chicago,NYC,16-03-2024,142
+Los Angeles,NYC,16-03-2024,238
+Los Angeles,Chicago,16-03-2024,65
+Los Angeles,Seattle,16-03-2024,78
+Los Angeles,San Francisco,16-03-2024,66
+Los Angeles,San Diego,16-03-2024,62
+NYC,San Diego,16-03-2024,103
+NYC,Chicago,16-03-2024,165
+NYC,Seattle,16-03-2024,274
+NYC,Los Angeles,16-03-2024,177
+NYC,San Francisco,16-03-2024,157
+San Diego,Seattle,16-03-2024,75
+San Diego,Chicago,16-03-2024,177
+San Diego,San Francisco,16-03-2024,133
+San Diego,Los Angeles,16-03-2024,108
+San Diego,NYC,16-03-2024,149
+San Francisco,Los Angeles,16-03-2024,47
+San Francisco,San Diego,16-03-2024,78
+San Francisco,NYC,16-03-2024,106
+San Francisco,Chicago,16-03-2024,105
+San Francisco,Seattle,16-03-2024,126
+Seattle,NYC,16-03-2024,208
+Seattle,Chicago,16-03-2024,121
+Seattle,Los Angeles,16-03-2024,107
+Seattle,San Francisco,16-03-2024,94
+Seattle,San Diego,16-03-2024,98
+Chicago,San Diego,17-03-2024,175
+Chicago,Seattle,17-03-2024,182
+Chicago,Los Angeles,17-03-2024,101
+Chicago,San Francisco,17-03-2024,129
+Chicago,NYC,17-03-2024,137
+Los Angeles,NYC,17-03-2024,208
+Los Angeles,Chicago,17-03-2024,140
+Los Angeles,Seattle,17-03-2024,113
+Los Angeles,San Francisco,17-03-2024,76
+Los Angeles,San Diego,17-03-2024,118
+NYC,San Diego,17-03-2024,124
+NYC,Chicago,17-03-2024,134
+NYC,Seattle,17-03-2024,190
+NYC,Los Angeles,17-03-2024,174
+NYC,San Francisco,17-03-2024,176
+San Diego,Seattle,17-03-2024,113
+San Diego,Chicago,17-03-2024,159
+San Diego,San Francisco,17-03-2024,65
+San Diego,Los Angeles,17-03-2024,44
+San Diego,NYC,17-03-2024,206
+San Francisco,Los Angeles,17-03-2024,82
+San Francisco,San Diego,17-03-2024,119
+San Francisco,NYC,17-03-2024,198
+San Francisco,Chicago,17-03-2024,162
+San Francisco,Seattle,17-03-2024,141
+Seattle,NYC,17-03-2024,249
+Seattle,Chicago,17-03-2024,199
+Seattle,Los Angeles,17-03-2024,66
+Seattle,San Francisco,17-03-2024,216
+Seattle,San Diego,17-03-2024,79
+Chicago,San Diego,18-03-2024,159
+Chicago,Seattle,18-03-2024,164
+Chicago,Los Angeles,18-03-2024,166
+Chicago,San Francisco,18-03-2024,170
+Chicago,NYC,18-03-2024,143
+Los Angeles,NYC,18-03-2024,184
+Los Angeles,Chicago,18-03-2024,151
+Los Angeles,Seattle,18-03-2024,82
+Los Angeles,San Francisco,18-03-2024,80
+Los Angeles,San Diego,18-03-2024,43
+NYC,San Diego,18-03-2024,110
+NYC,Chicago,18-03-2024,138
+NYC,Seattle,18-03-2024,265
+NYC,Los Angeles,18-03-2024,188
+NYC,San Francisco,18-03-2024,146
+San Diego,Seattle,18-03-2024,100
+San Diego,Chicago,18-03-2024,211
+San Diego,San Francisco,18-03-2024,162
+San Diego,Los Angeles,18-03-2024,131
+San Diego,NYC,18-03-2024,163
+San Francisco,Los Angeles,18-03-2024,76
+San Francisco,San Diego,18-03-2024,125
+San Francisco,NYC,18-03-2024,146
+San Francisco,Chicago,18-03-2024,108
+San Francisco,Seattle,18-03-2024,166
+Seattle,NYC,18-03-2024,178
+Seattle,Chicago,18-03-2024,100
+Seattle,Los Angeles,18-03-2024,80
+Seattle,San Francisco,18-03-2024,89
+Seattle,San Diego,18-03-2024,114
+Chicago,San Diego,19-03-2024,85
+Chicago,Seattle,19-03-2024,113
+Chicago,Los Angeles,19-03-2024,168
+Chicago,San Francisco,19-03-2024,145
+Chicago,NYC,19-03-2024,155
+Los Angeles,NYC,19-03-2024,198
+Los Angeles,Chicago,19-03-2024,109
+Los Angeles,Seattle,19-03-2024,87
+Los Angeles,San Francisco,19-03-2024,56
+Los Angeles,San Diego,19-03-2024,54
+NYC,San Diego,19-03-2024,147
+NYC,Chicago,19-03-2024,154
+NYC,Seattle,19-03-2024,197
+NYC,Los Angeles,19-03-2024,195
+NYC,San Francisco,19-03-2024,106
+San Diego,Seattle,19-03-2024,78
+San Diego,Chicago,19-03-2024,159
+San Diego,San Francisco,19-03-2024,87
+San Diego,Los Angeles,19-03-2024,81
+San Diego,NYC,19-03-2024,100
+San Francisco,Los Angeles,19-03-2024,66
+San Francisco,San Diego,19-03-2024,96
+San Francisco,NYC,19-03-2024,142
+San Francisco,Chicago,19-03-2024,101
+San Francisco,Seattle,19-03-2024,181
+Seattle,NYC,19-03-2024,262
+Seattle,Chicago,19-03-2024,88
+Seattle,Los Angeles,19-03-2024,123
+Seattle,San Francisco,19-03-2024,65
+Seattle,San Diego,19-03-2024,120
+Chicago,San Diego,20-03-2024,133
+Chicago,Seattle,20-03-2024,81
+Chicago,Los Angeles,20-03-2024,175
+Chicago,San Francisco,20-03-2024,96
+Chicago,NYC,20-03-2024,124
+Los Angeles,NYC,20-03-2024,180
+Los Angeles,Chicago,20-03-2024,166
+Los Angeles,Seattle,20-03-2024,116
+Los Angeles,San Francisco,20-03-2024,50
+Los Angeles,San Diego,20-03-2024,119
+NYC,San Diego,20-03-2024,140
+NYC,Chicago,20-03-2024,145
+NYC,Seattle,20-03-2024,230
+NYC,Los Angeles,20-03-2024,189
+NYC,San Francisco,20-03-2024,173
+San Diego,Seattle,20-03-2024,162
+San Diego,Chicago,20-03-2024,171
+San Diego,San Francisco,20-03-2024,71
+San Diego,Los Angeles,20-03-2024,88
+San Diego,NYC,20-03-2024,118
+San Francisco,Los Angeles,20-03-2024,51
+San Francisco,San Diego,20-03-2024,98
+San Francisco,NYC,20-03-2024,190
+San Francisco,Chicago,20-03-2024,184
+San Francisco,Seattle,20-03-2024,113
+Seattle,NYC,20-03-2024,291
+Seattle,Chicago,20-03-2024,118
+Seattle,Los Angeles,20-03-2024,94
+Seattle,San Francisco,20-03-2024,94
+Seattle,San Diego,20-03-2024,73
+Chicago,San Diego,21-03-2024,140
+Chicago,Seattle,21-03-2024,68
+Chicago,Los Angeles,21-03-2024,132
+Chicago,San Francisco,21-03-2024,182
+Chicago,NYC,21-03-2024,149
+Los Angeles,NYC,21-03-2024,197
+Los Angeles,Chicago,21-03-2024,159
+Los Angeles,Seattle,21-03-2024,78
+Los Angeles,San Francisco,21-03-2024,66
+Los Angeles,San Diego,21-03-2024,111
+NYC,San Diego,21-03-2024,151
+NYC,Chicago,21-03-2024,132
+NYC,Seattle,21-03-2024,172
+NYC,Los Angeles,21-03-2024,201
+NYC,San Francisco,21-03-2024,125
+San Diego,Seattle,21-03-2024,89
+San Diego,Chicago,21-03-2024,74
+San Diego,San Francisco,21-03-2024,146
+San Diego,Los Angeles,21-03-2024,113
+San Diego,NYC,21-03-2024,122
+San Francisco,Los Angeles,21-03-2024,94
+San Francisco,San Diego,21-03-2024,141
+San Francisco,NYC,21-03-2024,198
+San Francisco,Chicago,21-03-2024,91
+San Francisco,Seattle,21-03-2024,78
+Seattle,NYC,21-03-2024,182
+Seattle,Chicago,21-03-2024,136
+Seattle,Los Angeles,21-03-2024,102
+Seattle,San Francisco,21-03-2024,179
+Seattle,San Diego,21-03-2024,81
+Chicago,San Diego,22-03-2024,114
+Chicago,Seattle,22-03-2024,119
+Chicago,Los Angeles,22-03-2024,124
+Chicago,San Francisco,22-03-2024,128
+Chicago,NYC,22-03-2024,119
+Los Angeles,NYC,22-03-2024,235
+Los Angeles,Chicago,22-03-2024,77
+Los Angeles,Seattle,22-03-2024,74
+Los Angeles,San Francisco,22-03-2024,64
+Los Angeles,San Diego,22-03-2024,41
+NYC,San Diego,22-03-2024,129
+NYC,Chicago,22-03-2024,125
+NYC,Seattle,22-03-2024,184
+NYC,Los Angeles,22-03-2024,177
+NYC,San Francisco,22-03-2024,102
+San Diego,Seattle,22-03-2024,170
+San Diego,Chicago,22-03-2024,78
+San Diego,San Francisco,22-03-2024,115
+San Diego,Los Angeles,22-03-2024,61
+San Diego,NYC,22-03-2024,101
+San Francisco,Los Angeles,22-03-2024,56
+San Francisco,San Diego,22-03-2024,74
+San Francisco,NYC,22-03-2024,161
+San Francisco,Chicago,22-03-2024,99
+San Francisco,Seattle,22-03-2024,166
+Seattle,NYC,22-03-2024,285
+Seattle,Chicago,22-03-2024,151
+Seattle,Los Angeles,22-03-2024,88
+Seattle,San Francisco,22-03-2024,167
+Seattle,San Diego,22-03-2024,80
+Chicago,San Diego,23-03-2024,187
+Chicago,Seattle,23-03-2024,119
+Chicago,Los Angeles,23-03-2024,158
+Chicago,San Francisco,23-03-2024,130
+Chicago,NYC,23-03-2024,112
+Los Angeles,NYC,23-03-2024,186
+Los Angeles,Chicago,23-03-2024,72
+Los Angeles,Seattle,23-03-2024,63
+Los Angeles,San Francisco,23-03-2024,70
+Los Angeles,San Diego,23-03-2024,70
+NYC,San Diego,23-03-2024,149
+NYC,Chicago,23-03-2024,102
+NYC,Seattle,23-03-2024,188
+NYC,Los Angeles,23-03-2024,170
+NYC,San Francisco,23-03-2024,106
+San Diego,Seattle,23-03-2024,167
+San Diego,Chicago,23-03-2024,212
+San Diego,San Francisco,23-03-2024,130
+San Diego,Los Angeles,23-03-2024,122
+San Diego,NYC,23-03-2024,104
+San Francisco,Los Angeles,23-03-2024,80
+San Francisco,San Diego,23-03-2024,121
+San Francisco,NYC,23-03-2024,134
+San Francisco,Chicago,23-03-2024,107
+San Francisco,Seattle,23-03-2024,93
+Seattle,NYC,23-03-2024,252
+Seattle,Chicago,23-03-2024,125
+Seattle,Los Angeles,23-03-2024,68
+Seattle,San Francisco,23-03-2024,65
+Seattle,San Diego,23-03-2024,106
+Chicago,San Diego,24-03-2024,162
+Chicago,Seattle,24-03-2024,82
+Chicago,Los Angeles,24-03-2024,141
+Chicago,San Francisco,24-03-2024,130
+Chicago,NYC,24-03-2024,124
+Los Angeles,NYC,24-03-2024,203
+Los Angeles,Chicago,24-03-2024,126
+Los Angeles,Seattle,24-03-2024,68
+Los Angeles,San Francisco,24-03-2024,78
+Los Angeles,San Diego,24-03-2024,114
+NYC,San Diego,24-03-2024,123
+NYC,Chicago,24-03-2024,135
+NYC,Seattle,24-03-2024,271
+NYC,Los Angeles,24-03-2024,211
+NYC,San Francisco,24-03-2024,136
+San Diego,Seattle,24-03-2024,151
+San Diego,Chicago,24-03-2024,227
+San Diego,San Francisco,24-03-2024,149
+San Diego,Los Angeles,24-03-2024,63
+San Diego,NYC,24-03-2024,117
+San Francisco,Los Angeles,24-03-2024,84
+San Francisco,San Diego,24-03-2024,82
+San Francisco,NYC,24-03-2024,193
+San Francisco,Chicago,24-03-2024,199
+San Francisco,Seattle,24-03-2024,136
+Seattle,NYC,24-03-2024,240
+Seattle,Chicago,24-03-2024,118
+Seattle,Los Angeles,24-03-2024,76
+Seattle,San Francisco,24-03-2024,110
+Seattle,San Diego,24-03-2024,124
+Chicago,San Diego,25-03-2024,137
+Chicago,Seattle,25-03-2024,134
+Chicago,Los Angeles,25-03-2024,106
+Chicago,San Francisco,25-03-2024,101
+Chicago,NYC,25-03-2024,114
+Los Angeles,NYC,25-03-2024,207
+Los Angeles,Chicago,25-03-2024,164
+Los Angeles,Seattle,25-03-2024,83
+Los Angeles,San Francisco,25-03-2024,67
+Los Angeles,San Diego,25-03-2024,117
+NYC,San Diego,25-03-2024,117
+NYC,Chicago,25-03-2024,97
+NYC,Seattle,25-03-2024,183
+NYC,Los Angeles,25-03-2024,191
+NYC,San Francisco,25-03-2024,176
+San Diego,Seattle,25-03-2024,84
+San Diego,Chicago,25-03-2024,184
+San Diego,San Francisco,25-03-2024,70
+San Diego,Los Angeles,25-03-2024,43
+San Diego,NYC,25-03-2024,116
+San Francisco,Los Angeles,25-03-2024,85
+San Francisco,San Diego,25-03-2024,107
+San Francisco,NYC,25-03-2024,123
+San Francisco,Chicago,25-03-2024,182
+San Francisco,Seattle,25-03-2024,173
+Seattle,NYC,25-03-2024,226
+Seattle,Chicago,25-03-2024,177
+Seattle,Los Angeles,25-03-2024,78
+Seattle,San Francisco,25-03-2024,216
+Seattle,San Diego,25-03-2024,110
+Chicago,San Diego,26-03-2024,125
+Chicago,Seattle,26-03-2024,148
+Chicago,Los Angeles,26-03-2024,140
+Chicago,San Francisco,26-03-2024,89
+Chicago,NYC,26-03-2024,124
+Los Angeles,NYC,26-03-2024,239
+Los Angeles,Chicago,26-03-2024,178
+Los Angeles,Seattle,26-03-2024,100
+Los Angeles,San Francisco,26-03-2024,54
+Los Angeles,San Diego,26-03-2024,82
+NYC,San Diego,26-03-2024,145
+NYC,Chicago,26-03-2024,117
+NYC,Seattle,26-03-2024,189
+NYC,Los Angeles,26-03-2024,202
+NYC,San Francisco,26-03-2024,124
+San Diego,Seattle,26-03-2024,61
+San Diego,Chicago,26-03-2024,117
+San Diego,San Francisco,26-03-2024,127
+San Diego,Los Angeles,26-03-2024,77
+San Diego,NYC,26-03-2024,196
+San Francisco,Los Angeles,26-03-2024,93
+San Francisco,San Diego,26-03-2024,110
+San Francisco,NYC,26-03-2024,160
+San Francisco,Chicago,26-03-2024,164
+San Francisco,Seattle,26-03-2024,83
+Seattle,NYC,26-03-2024,171
+Seattle,Chicago,26-03-2024,136
+Seattle,Los Angeles,26-03-2024,109
+Seattle,San Francisco,26-03-2024,180
+Seattle,San Diego,26-03-2024,83
+Chicago,San Diego,27-03-2024,106
+Chicago,Seattle,27-03-2024,119
+Chicago,Los Angeles,27-03-2024,118
+Chicago,San Francisco,27-03-2024,177
+Chicago,NYC,27-03-2024,150
+Los Angeles,NYC,27-03-2024,214
+Los Angeles,Chicago,27-03-2024,71
+Los Angeles,Seattle,27-03-2024,92
+Los Angeles,San Francisco,27-03-2024,56
+Los Angeles,San Diego,27-03-2024,113
+NYC,San Diego,27-03-2024,105
+NYC,Chicago,27-03-2024,127
+NYC,Seattle,27-03-2024,186
+NYC,Los Angeles,27-03-2024,216
+NYC,San Francisco,27-03-2024,162
+San Diego,Seattle,27-03-2024,71
+San Diego,Chicago,27-03-2024,113
+San Diego,San Francisco,27-03-2024,105
+San Diego,Los Angeles,27-03-2024,51
+San Diego,NYC,27-03-2024,116
+San Francisco,Los Angeles,27-03-2024,52
+San Francisco,San Diego,27-03-2024,125
+San Francisco,NYC,27-03-2024,152
+San Francisco,Chicago,27-03-2024,182
+San Francisco,Seattle,27-03-2024,121
+Seattle,NYC,27-03-2024,213
+Seattle,Chicago,27-03-2024,193
+Seattle,Los Angeles,27-03-2024,120
+Seattle,San Francisco,27-03-2024,139
+Seattle,San Diego,27-03-2024,81
+Chicago,San Diego,28-03-2024,123
+Chicago,Seattle,28-03-2024,144
+Chicago,Los Angeles,28-03-2024,112
+Chicago,San Francisco,28-03-2024,133
+Chicago,NYC,28-03-2024,107
+Los Angeles,NYC,28-03-2024,197
+Los Angeles,Chicago,28-03-2024,80
+Los Angeles,Seattle,28-03-2024,128
+Los Angeles,San Francisco,28-03-2024,55
+Los Angeles,San Diego,28-03-2024,63
+NYC,San Diego,28-03-2024,146
+NYC,Chicago,28-03-2024,93
+NYC,Seattle,28-03-2024,250
+NYC,Los Angeles,28-03-2024,214
+NYC,San Francisco,28-03-2024,163
+San Diego,Seattle,28-03-2024,90
+San Diego,Chicago,28-03-2024,73
+San Diego,San Francisco,28-03-2024,64
+San Diego,Los Angeles,28-03-2024,91
+San Diego,NYC,28-03-2024,135
+San Francisco,Los Angeles,28-03-2024,50
+San Francisco,San Diego,28-03-2024,111
+San Francisco,NYC,28-03-2024,160
+San Francisco,Chicago,28-03-2024,176
+San Francisco,Seattle,28-03-2024,156
+Seattle,NYC,28-03-2024,264
+Seattle,Chicago,28-03-2024,75
+Seattle,Los Angeles,28-03-2024,58
+Seattle,San Francisco,28-03-2024,200
+Seattle,San Diego,28-03-2024,71
+Chicago,San Diego,29-03-2024,101
+Chicago,Seattle,29-03-2024,121
+Chicago,Los Angeles,29-03-2024,74
+Chicago,San Francisco,29-03-2024,148
+Chicago,NYC,29-03-2024,116
+Los Angeles,NYC,29-03-2024,228
+Los Angeles,Chicago,29-03-2024,60
+Los Angeles,Seattle,29-03-2024,73
+Los Angeles,San Francisco,29-03-2024,62
+Los Angeles,San Diego,29-03-2024,81
+NYC,San Diego,29-03-2024,123
+NYC,Chicago,29-03-2024,90
+NYC,Seattle,29-03-2024,270
+NYC,Los Angeles,29-03-2024,217
+NYC,San Francisco,29-03-2024,168
+San Diego,Seattle,29-03-2024,168
+San Diego,Chicago,29-03-2024,117
+San Diego,San Francisco,29-03-2024,107
+San Diego,Los Angeles,29-03-2024,126
+San Diego,NYC,29-03-2024,100
+San Francisco,Los Angeles,29-03-2024,46
+San Francisco,San Diego,29-03-2024,144
+San Francisco,NYC,29-03-2024,201
+San Francisco,Chicago,29-03-2024,87
+San Francisco,Seattle,29-03-2024,123
+Seattle,NYC,29-03-2024,261
+Seattle,Chicago,29-03-2024,116
+Seattle,Los Angeles,29-03-2024,131
+Seattle,San Francisco,29-03-2024,92
+Seattle,San Diego,29-03-2024,110
+Chicago,San Diego,30-03-2024,167
+Chicago,Seattle,30-03-2024,100
+Chicago,Los Angeles,30-03-2024,107
+Chicago,San Francisco,30-03-2024,92
+Chicago,NYC,30-03-2024,179
+Los Angeles,NYC,30-03-2024,237
+Los Angeles,Chicago,30-03-2024,172
+Los Angeles,Seattle,30-03-2024,85
+Los Angeles,San Francisco,30-03-2024,78
+Los Angeles,San Diego,30-03-2024,85
+NYC,San Diego,30-03-2024,113
+NYC,Chicago,30-03-2024,151
+NYC,Seattle,30-03-2024,172
+NYC,Los Angeles,30-03-2024,215
+NYC,San Francisco,30-03-2024,145
+San Diego,Seattle,30-03-2024,71
+San Diego,Chicago,30-03-2024,155
+San Diego,San Francisco,30-03-2024,79
+San Diego,Los Angeles,30-03-2024,73
+San Diego,NYC,30-03-2024,96
+San Francisco,Los Angeles,30-03-2024,80
+San Francisco,San Diego,30-03-2024,51
+San Francisco,NYC,30-03-2024,144
+San Francisco,Chicago,30-03-2024,80
+San Francisco,Seattle,30-03-2024,143
+Seattle,NYC,30-03-2024,194
+Seattle,Chicago,30-03-2024,152
+Seattle,Los Angeles,30-03-2024,103
+Seattle,San Francisco,30-03-2024,88
+Seattle,San Diego,30-03-2024,116
+Chicago,San Diego,31-03-2024,188
+Chicago,Seattle,31-03-2024,71
+Chicago,Los Angeles,31-03-2024,112
+Chicago,San Francisco,31-03-2024,174
+Chicago,NYC,31-03-2024,118
+Los Angeles,NYC,31-03-2024,180
+Los Angeles,Chicago,31-03-2024,108
+Los Angeles,Seattle,31-03-2024,83
+Los Angeles,San Francisco,31-03-2024,66
+Los Angeles,San Diego,31-03-2024,92
+NYC,San Diego,31-03-2024,121
+NYC,Chicago,31-03-2024,94
+NYC,Seattle,31-03-2024,242
+NYC,Los Angeles,31-03-2024,197
+NYC,San Francisco,31-03-2024,136
+San Diego,Seattle,31-03-2024,140
+San Diego,Chicago,31-03-2024,103
+San Diego,San Francisco,31-03-2024,129
+San Diego,Los Angeles,31-03-2024,61
+San Diego,NYC,31-03-2024,174
+San Francisco,Los Angeles,31-03-2024,61
+San Francisco,San Diego,31-03-2024,51
+San Francisco,NYC,31-03-2024,205
+San Francisco,Chicago,31-03-2024,129
+San Francisco,Seattle,31-03-2024,220
+Seattle,NYC,31-03-2024,244
+Seattle,Chicago,31-03-2024,209
+Seattle,Los Angeles,31-03-2024,117
+Seattle,San Francisco,31-03-2024,72
+Seattle,San Diego,31-03-2024,90
+Los Angeles,Chicago,01-02-2024,178
+NYC,Chicago,01-02-2024,66
+San Diego,Chicago,01-02-2024,84
+San Francisco,Chicago,01-02-2024,168
+Seattle,Chicago,01-02-2024,213
+Los Angeles,Chicago,02-02-2024,138
+NYC,Chicago,02-02-2024,83
+San Diego,Chicago,02-02-2024,180
+San Francisco,Chicago,02-02-2024,208
+Seattle,Chicago,02-02-2024,115
+Los Angeles,Chicago,03-02-2024,113
+NYC,Chicago,03-02-2024,109
+San Diego,Chicago,03-02-2024,138
+San Francisco,Chicago,03-02-2024,104
+Seattle,Chicago,03-02-2024,174
+Los Angeles,Chicago,04-02-2024,94
+NYC,Chicago,04-02-2024,80
+San Diego,Chicago,04-02-2024,84
+San Francisco,Chicago,04-02-2024,144
+Seattle,Chicago,04-02-2024,178
+Los Angeles,Chicago,05-02-2024,68
+NYC,Chicago,05-02-2024,67
+San Diego,Chicago,05-02-2024,154
+San Francisco,Chicago,05-02-2024,132
+Seattle,Chicago,05-02-2024,61
+Los Angeles,Chicago,06-02-2024,149
+NYC,Chicago,06-02-2024,41
+San Diego,Chicago,06-02-2024,149
+San Francisco,Chicago,06-02-2024,98
+Seattle,Chicago,06-02-2024,93
+Los Angeles,Chicago,07-02-2024,138
+NYC,Chicago,07-02-2024,44
+San Diego,Chicago,07-02-2024,199
+San Francisco,Chicago,07-02-2024,91
+Seattle,Chicago,07-02-2024,61
+Los Angeles,Chicago,08-02-2024,138
+NYC,Chicago,08-02-2024,70
+San Diego,Chicago,08-02-2024,203
+San Francisco,Chicago,08-02-2024,201
+Seattle,Chicago,08-02-2024,155
+Los Angeles,Chicago,09-02-2024,175
+NYC,Chicago,09-02-2024,86
+San Diego,Chicago,09-02-2024,188
+San Francisco,Chicago,09-02-2024,116
+Seattle,Chicago,09-02-2024,164
+Los Angeles,Chicago,10-02-2024,123
+NYC,Chicago,10-02-2024,62
+San Diego,Chicago,10-02-2024,136
+San Francisco,Chicago,10-02-2024,75
+Seattle,Chicago,10-02-2024,200
+Los Angeles,Chicago,11-02-2024,78
+NYC,Chicago,11-02-2024,86
+San Diego,Chicago,11-02-2024,106
+San Francisco,Chicago,11-02-2024,83
+Seattle,Chicago,11-02-2024,134
+Los Angeles,Chicago,12-02-2024,111
+NYC,Chicago,12-02-2024,72
+San Diego,Chicago,12-02-2024,184
+San Francisco,Chicago,12-02-2024,197
+Seattle,Chicago,12-02-2024,193
+Los Angeles,Chicago,13-02-2024,122
+NYC,Chicago,13-02-2024,108
+San Diego,Chicago,13-02-2024,194
+San Francisco,Chicago,13-02-2024,150
+Seattle,Chicago,13-02-2024,63
+Los Angeles,Chicago,14-02-2024,67
+NYC,Chicago,14-02-2024,76
+San Diego,Chicago,14-02-2024,111
+San Francisco,Chicago,14-02-2024,165
+Seattle,Chicago,14-02-2024,149
+Los Angeles,Chicago,15-02-2024,101
+NYC,Chicago,15-02-2024,111
+San Diego,Chicago,15-02-2024,153
+San Francisco,Chicago,15-02-2024,182
+Seattle,Chicago,15-02-2024,112
+Los Angeles,Chicago,16-02-2024,148
+NYC,Chicago,16-02-2024,54
+San Diego,Chicago,16-02-2024,180
+San Francisco,Chicago,16-02-2024,194
+Seattle,Chicago,16-02-2024,100
+Los Angeles,Chicago,17-02-2024,177
+NYC,Chicago,17-02-2024,72
+San Diego,Chicago,17-02-2024,163
+San Francisco,Chicago,17-02-2024,214
+Seattle,Chicago,17-02-2024,200
+Los Angeles,Chicago,18-02-2024,119
+NYC,Chicago,18-02-2024,54
+San Diego,Chicago,18-02-2024,144
+San Francisco,Chicago,18-02-2024,154
+Seattle,Chicago,18-02-2024,137
+Los Angeles,Chicago,19-02-2024,138
+NYC,Chicago,19-02-2024,102
+San Diego,Chicago,19-02-2024,127
+San Francisco,Chicago,19-02-2024,213
+Seattle,Chicago,19-02-2024,80
+Los Angeles,Chicago,20-02-2024,168
+NYC,Chicago,20-02-2024,47
+San Diego,Chicago,20-02-2024,215
+San Francisco,Chicago,20-02-2024,165
+Seattle,Chicago,20-02-2024,143
+Los Angeles,Chicago,21-02-2024,127
+NYC,Chicago,21-02-2024,50
+San Diego,Chicago,21-02-2024,116
+San Francisco,Chicago,21-02-2024,107
+Seattle,Chicago,21-02-2024,142
+Los Angeles,Chicago,22-02-2024,125
+NYC,Chicago,22-02-2024,107
+San Diego,Chicago,22-02-2024,211
+San Francisco,Chicago,22-02-2024,168
+Seattle,Chicago,22-02-2024,166
+Los Angeles,Chicago,23-02-2024,147
+NYC,Chicago,23-02-2024,77
+San Diego,Chicago,23-02-2024,134
+San Francisco,Chicago,23-02-2024,177
+Seattle,Chicago,23-02-2024,60
+Los Angeles,Chicago,24-02-2024,95
+NYC,Chicago,24-02-2024,81
+San Diego,Chicago,24-02-2024,83
+San Francisco,Chicago,24-02-2024,214
+Seattle,Chicago,24-02-2024,205
+Los Angeles,Chicago,25-02-2024,121
+NYC,Chicago,25-02-2024,86
+San Diego,Chicago,25-02-2024,209
+San Francisco,Chicago,25-02-2024,190
+Seattle,Chicago,25-02-2024,153
+Los Angeles,Chicago,26-02-2024,101
+NYC,Chicago,26-02-2024,78
+San Diego,Chicago,26-02-2024,96
+San Francisco,Chicago,26-02-2024,106
+Seattle,Chicago,26-02-2024,167
+Los Angeles,Chicago,27-02-2024,117
+NYC,Chicago,27-02-2024,73
+San Diego,Chicago,27-02-2024,144
+San Francisco,Chicago,27-02-2024,179
+Seattle,Chicago,27-02-2024,125
+Los Angeles,Chicago,28-02-2024,116
+NYC,Chicago,28-02-2024,71
+San Diego,Chicago,28-02-2024,149
+San Francisco,Chicago,28-02-2024,212
+Seattle,Chicago,28-02-2024,166
+Los Angeles,Chicago,29-02-2024,76
+NYC,Chicago,29-02-2024,98
+San Diego,Chicago,29-02-2024,222
+San Francisco,Chicago,29-02-2024,102
+Seattle,Chicago,29-02-2024,202
+Chicago,Los Angeles,01-02-2024,123
+NYC,Los Angeles,01-02-2024,127
+San Diego,Los Angeles,01-02-2024,94
+San Francisco,Los Angeles,01-02-2024,82
+Seattle,Los Angeles,01-02-2024,58
+Chicago,Los Angeles,02-02-2024,162
+NYC,Los Angeles,02-02-2024,121
+San Diego,Los Angeles,02-02-2024,110
+San Francisco,Los Angeles,02-02-2024,85
+Seattle,Los Angeles,02-02-2024,61
+Chicago,Los Angeles,03-02-2024,102
+NYC,Los Angeles,03-02-2024,87
+San Diego,Los Angeles,03-02-2024,116
+San Francisco,Los Angeles,03-02-2024,66
+Seattle,Los Angeles,03-02-2024,92
+Chicago,Los Angeles,04-02-2024,119
+NYC,Los Angeles,04-02-2024,118
+San Diego,Los Angeles,04-02-2024,67
+San Francisco,Los Angeles,04-02-2024,47
+Seattle,Los Angeles,04-02-2024,105
+Chicago,Los Angeles,05-02-2024,81
+NYC,Los Angeles,05-02-2024,94
+San Diego,Los Angeles,05-02-2024,45
+San Francisco,Los Angeles,05-02-2024,60
+Seattle,Los Angeles,05-02-2024,104
+Chicago,Los Angeles,06-02-2024,133
+NYC,Los Angeles,06-02-2024,83
+San Diego,Los Angeles,06-02-2024,131
+San Francisco,Los Angeles,06-02-2024,64
+Seattle,Los Angeles,06-02-2024,101
+Chicago,Los Angeles,07-02-2024,126
+NYC,Los Angeles,07-02-2024,84
+San Diego,Los Angeles,07-02-2024,41
+San Francisco,Los Angeles,07-02-2024,92
+Seattle,Los Angeles,07-02-2024,108
+Chicago,Los Angeles,08-02-2024,126
+NYC,Los Angeles,08-02-2024,77
+San Diego,Los Angeles,08-02-2024,64
+San Francisco,Los Angeles,08-02-2024,80
+Seattle,Los Angeles,08-02-2024,130
+Chicago,Los Angeles,09-02-2024,110
+NYC,Los Angeles,09-02-2024,118
+San Diego,Los Angeles,09-02-2024,58
+San Francisco,Los Angeles,09-02-2024,89
+Seattle,Los Angeles,09-02-2024,81
+Chicago,Los Angeles,10-02-2024,103
+NYC,Los Angeles,10-02-2024,83
+San Diego,Los Angeles,10-02-2024,57
+San Francisco,Los Angeles,10-02-2024,77
+Seattle,Los Angeles,10-02-2024,81
+Chicago,Los Angeles,11-02-2024,138
+NYC,Los Angeles,11-02-2024,78
+San Diego,Los Angeles,11-02-2024,48
+San Francisco,Los Angeles,11-02-2024,71
+Seattle,Los Angeles,11-02-2024,124
+Chicago,Los Angeles,12-02-2024,179
+NYC,Los Angeles,12-02-2024,123
+San Diego,Los Angeles,12-02-2024,42
+San Francisco,Los Angeles,12-02-2024,53
+Seattle,Los Angeles,12-02-2024,87
+Chicago,Los Angeles,13-02-2024,129
+NYC,Los Angeles,13-02-2024,92
+San Diego,Los Angeles,13-02-2024,49
+San Francisco,Los Angeles,13-02-2024,71
+Seattle,Los Angeles,13-02-2024,74
+Chicago,Los Angeles,14-02-2024,141
+NYC,Los Angeles,14-02-2024,82
+San Diego,Los Angeles,14-02-2024,123
+San Francisco,Los Angeles,14-02-2024,75
+Seattle,Los Angeles,14-02-2024,103
+Chicago,Los Angeles,15-02-2024,150
+NYC,Los Angeles,15-02-2024,119
+San Diego,Los Angeles,15-02-2024,89
+San Francisco,Los Angeles,15-02-2024,78
+Seattle,Los Angeles,15-02-2024,125
+Chicago,Los Angeles,16-02-2024,166
+NYC,Los Angeles,16-02-2024,133
+San Diego,Los Angeles,16-02-2024,75
+San Francisco,Los Angeles,16-02-2024,66
+Seattle,Los Angeles,16-02-2024,92
+Chicago,Los Angeles,17-02-2024,139
+NYC,Los Angeles,17-02-2024,66
+San Diego,Los Angeles,17-02-2024,40
+San Francisco,Los Angeles,17-02-2024,76
+Seattle,Los Angeles,17-02-2024,133
+Chicago,Los Angeles,18-02-2024,142
+NYC,Los Angeles,18-02-2024,85
+San Diego,Los Angeles,18-02-2024,120
+San Francisco,Los Angeles,18-02-2024,53
+Seattle,Los Angeles,18-02-2024,71
+Chicago,Los Angeles,19-02-2024,98
+NYC,Los Angeles,19-02-2024,114
+San Diego,Los Angeles,19-02-2024,87
+San Francisco,Los Angeles,19-02-2024,60
+Seattle,Los Angeles,19-02-2024,112
+Chicago,Los Angeles,20-02-2024,84
+NYC,Los Angeles,20-02-2024,87
+San Diego,Los Angeles,20-02-2024,131
+San Francisco,Los Angeles,20-02-2024,66
+Seattle,Los Angeles,20-02-2024,93
+Chicago,Los Angeles,21-02-2024,113
+NYC,Los Angeles,21-02-2024,92
+San Diego,Los Angeles,21-02-2024,101
+San Francisco,Los Angeles,21-02-2024,78
+Seattle,Los Angeles,21-02-2024,120
+Chicago,Los Angeles,22-02-2024,137
+NYC,Los Angeles,22-02-2024,78
+San Diego,Los Angeles,22-02-2024,120
+San Francisco,Los Angeles,22-02-2024,72
+Seattle,Los Angeles,22-02-2024,119
+Chicago,Los Angeles,23-02-2024,91
+NYC,Los Angeles,23-02-2024,89
+San Diego,Los Angeles,23-02-2024,130
+San Francisco,Los Angeles,23-02-2024,68
+Seattle,Los Angeles,23-02-2024,86
+Chicago,Los Angeles,24-02-2024,169
+NYC,Los Angeles,24-02-2024,124
+San Diego,Los Angeles,24-02-2024,118
+San Francisco,Los Angeles,24-02-2024,68
+Seattle,Los Angeles,24-02-2024,62
+Chicago,Los Angeles,25-02-2024,179
+NYC,Los Angeles,25-02-2024,86
+San Diego,Los Angeles,25-02-2024,118
+San Francisco,Los Angeles,25-02-2024,74
+Seattle,Los Angeles,25-02-2024,76
+Chicago,Los Angeles,26-02-2024,135
+NYC,Los Angeles,26-02-2024,79
+San Diego,Los Angeles,26-02-2024,126
+San Francisco,Los Angeles,26-02-2024,80
+Seattle,Los Angeles,26-02-2024,72
+Chicago,Los Angeles,27-02-2024,85
+NYC,Los Angeles,27-02-2024,87
+San Diego,Los Angeles,27-02-2024,107
+San Francisco,Los Angeles,27-02-2024,56
+Seattle,Los Angeles,27-02-2024,105
+Chicago,Los Angeles,28-02-2024,69
+NYC,Los Angeles,28-02-2024,100
+San Diego,Los Angeles,28-02-2024,59
+San Francisco,Los Angeles,28-02-2024,71
+Seattle,Los Angeles,28-02-2024,121
+Chicago,Los Angeles,29-02-2024,139
+NYC,Los Angeles,29-02-2024,102
+San Diego,Los Angeles,29-02-2024,120
+San Francisco,Los Angeles,29-02-2024,90
+Seattle,Los Angeles,29-02-2024,92
+Chicago,NYC,01-02-2024,110
+Los Angeles,NYC,01-02-2024,85
+San Diego,NYC,01-02-2024,170
+San Francisco,NYC,01-02-2024,181
+Seattle,NYC,01-02-2024,134
+Chicago,NYC,02-02-2024,122
+Los Angeles,NYC,02-02-2024,127
+San Diego,NYC,02-02-2024,135
+San Francisco,NYC,02-02-2024,169
+Seattle,NYC,02-02-2024,121
+Chicago,NYC,03-02-2024,110
+Los Angeles,NYC,03-02-2024,87
+San Diego,NYC,03-02-2024,207
+San Francisco,NYC,03-02-2024,174
+Seattle,NYC,03-02-2024,183
+Chicago,NYC,04-02-2024,84
+Los Angeles,NYC,04-02-2024,88
+San Diego,NYC,04-02-2024,146
+San Francisco,NYC,04-02-2024,157
+Seattle,NYC,04-02-2024,173
+Chicago,NYC,05-02-2024,53
+Los Angeles,NYC,05-02-2024,115
+San Diego,NYC,05-02-2024,178
+San Francisco,NYC,05-02-2024,113
+Seattle,NYC,05-02-2024,134
+Chicago,NYC,06-02-2024,127
+Los Angeles,NYC,06-02-2024,120
+San Diego,NYC,06-02-2024,174
+San Francisco,NYC,06-02-2024,172
+Seattle,NYC,06-02-2024,127
+Chicago,NYC,07-02-2024,87
+Los Angeles,NYC,07-02-2024,112
+San Diego,NYC,07-02-2024,205
+San Francisco,NYC,07-02-2024,108
+Seattle,NYC,07-02-2024,119
+Chicago,NYC,08-02-2024,82
+Los Angeles,NYC,08-02-2024,109
+San Diego,NYC,08-02-2024,180
+San Francisco,NYC,08-02-2024,157
+Seattle,NYC,08-02-2024,177
+Chicago,NYC,09-02-2024,40
+Los Angeles,NYC,09-02-2024,127
+San Diego,NYC,09-02-2024,122
+San Francisco,NYC,09-02-2024,119
+Seattle,NYC,09-02-2024,177
+Chicago,NYC,10-02-2024,90
+Los Angeles,NYC,10-02-2024,95
+San Diego,NYC,10-02-2024,200
+San Francisco,NYC,10-02-2024,134
+Seattle,NYC,10-02-2024,126
+Chicago,NYC,11-02-2024,62
+Los Angeles,NYC,11-02-2024,127
+San Diego,NYC,11-02-2024,186
+San Francisco,NYC,11-02-2024,177
+Seattle,NYC,11-02-2024,165
+Chicago,NYC,12-02-2024,46
+Los Angeles,NYC,12-02-2024,89
+San Diego,NYC,12-02-2024,173
+San Francisco,NYC,12-02-2024,184
+Seattle,NYC,12-02-2024,157
+Chicago,NYC,13-02-2024,117
+Los Angeles,NYC,13-02-2024,116
+San Diego,NYC,13-02-2024,186
+San Francisco,NYC,13-02-2024,179
+Seattle,NYC,13-02-2024,170
+Chicago,NYC,14-02-2024,78
+Los Angeles,NYC,14-02-2024,113
+San Diego,NYC,14-02-2024,150
+San Francisco,NYC,14-02-2024,131
+Seattle,NYC,14-02-2024,150
+Chicago,NYC,15-02-2024,95
+Los Angeles,NYC,15-02-2024,93
+San Diego,NYC,15-02-2024,134
+San Francisco,NYC,15-02-2024,104
+Seattle,NYC,15-02-2024,149
+Chicago,NYC,16-02-2024,61
+Los Angeles,NYC,16-02-2024,119
+San Diego,NYC,16-02-2024,141
+San Francisco,NYC,16-02-2024,148
+Seattle,NYC,16-02-2024,129
+Chicago,NYC,17-02-2024,44
+Los Angeles,NYC,17-02-2024,95
+San Diego,NYC,17-02-2024,195
+San Francisco,NYC,17-02-2024,143
+Seattle,NYC,17-02-2024,165
+Chicago,NYC,18-02-2024,72
+Los Angeles,NYC,18-02-2024,87
+San Diego,NYC,18-02-2024,171
+San Francisco,NYC,18-02-2024,110
+Seattle,NYC,18-02-2024,110
+Chicago,NYC,19-02-2024,111
+Los Angeles,NYC,19-02-2024,101
+San Diego,NYC,19-02-2024,164
+San Francisco,NYC,19-02-2024,112
+Seattle,NYC,19-02-2024,184
+Chicago,NYC,20-02-2024,95
+Los Angeles,NYC,20-02-2024,104
+San Diego,NYC,20-02-2024,167
+San Francisco,NYC,20-02-2024,128
+Seattle,NYC,20-02-2024,177
+Chicago,NYC,21-02-2024,75
+Los Angeles,NYC,21-02-2024,121
+San Diego,NYC,21-02-2024,156
+San Francisco,NYC,21-02-2024,150
+Seattle,NYC,21-02-2024,180
+Chicago,NYC,22-02-2024,93
+Los Angeles,NYC,22-02-2024,105
+San Diego,NYC,22-02-2024,193
+San Francisco,NYC,22-02-2024,112
+Seattle,NYC,22-02-2024,163
+Chicago,NYC,23-02-2024,120
+Los Angeles,NYC,23-02-2024,99
+San Diego,NYC,23-02-2024,177
+San Francisco,NYC,23-02-2024,184
+Seattle,NYC,23-02-2024,132
+Chicago,NYC,24-02-2024,43
+Los Angeles,NYC,24-02-2024,91
+San Diego,NYC,24-02-2024,185
+San Francisco,NYC,24-02-2024,193
+Seattle,NYC,24-02-2024,184
+Chicago,NYC,25-02-2024,128
+Los Angeles,NYC,25-02-2024,110
+San Diego,NYC,25-02-2024,101
+San Francisco,NYC,25-02-2024,133
+Seattle,NYC,25-02-2024,182
+Chicago,NYC,26-02-2024,73
+Los Angeles,NYC,26-02-2024,108
+San Diego,NYC,26-02-2024,166
+San Francisco,NYC,26-02-2024,124
+Seattle,NYC,26-02-2024,135
+Chicago,NYC,27-02-2024,87
+Los Angeles,NYC,27-02-2024,115
+San Diego,NYC,27-02-2024,128
+San Francisco,NYC,27-02-2024,126
+Seattle,NYC,27-02-2024,118
+Chicago,NYC,28-02-2024,100
+Los Angeles,NYC,28-02-2024,119
+San Diego,NYC,28-02-2024,183
+San Francisco,NYC,28-02-2024,165
+Seattle,NYC,28-02-2024,160
+Chicago,NYC,29-02-2024,101
+Los Angeles,NYC,29-02-2024,95
+San Diego,NYC,29-02-2024,203
+San Francisco,NYC,29-02-2024,151
+Seattle,NYC,29-02-2024,130
+Chicago,San Diego,01-02-2024,128
+Los Angeles,San Diego,01-02-2024,104
+NYC,San Diego,01-02-2024,119
+San Francisco,San Diego,01-02-2024,100
+Seattle,San Diego,01-02-2024,65
+Chicago,San Diego,02-02-2024,152
+Los Angeles,San Diego,02-02-2024,87
+NYC,San Diego,02-02-2024,112
+San Francisco,San Diego,02-02-2024,108
+Seattle,San Diego,02-02-2024,112
+Chicago,San Diego,03-02-2024,191
+Los Angeles,San Diego,03-02-2024,97
+NYC,San Diego,03-02-2024,151
+San Francisco,San Diego,03-02-2024,63
+Seattle,San Diego,03-02-2024,65
+Chicago,San Diego,04-02-2024,112
+Los Angeles,San Diego,04-02-2024,60
+NYC,San Diego,04-02-2024,144
+San Francisco,San Diego,04-02-2024,83
+Seattle,San Diego,04-02-2024,72
+Chicago,San Diego,05-02-2024,168
+Los Angeles,San Diego,05-02-2024,89
+NYC,San Diego,05-02-2024,106
+San Francisco,San Diego,05-02-2024,53
+Seattle,San Diego,05-02-2024,115
+Chicago,San Diego,06-02-2024,169
+Los Angeles,San Diego,06-02-2024,43
+NYC,San Diego,06-02-2024,122
+San Francisco,San Diego,06-02-2024,63
+Seattle,San Diego,06-02-2024,109
+Chicago,San Diego,07-02-2024,180
+Los Angeles,San Diego,07-02-2024,38
+NYC,San Diego,07-02-2024,116
+San Francisco,San Diego,07-02-2024,73
+Seattle,San Diego,07-02-2024,74
+Chicago,San Diego,08-02-2024,147
+Los Angeles,San Diego,08-02-2024,118
+NYC,San Diego,08-02-2024,119
+San Francisco,San Diego,08-02-2024,64
+Seattle,San Diego,08-02-2024,90
+Chicago,San Diego,09-02-2024,98
+Los Angeles,San Diego,09-02-2024,81
+NYC,San Diego,09-02-2024,114
+San Francisco,San Diego,09-02-2024,114
+Seattle,San Diego,09-02-2024,89
+Chicago,San Diego,10-02-2024,164
+Los Angeles,San Diego,10-02-2024,40
+NYC,San Diego,10-02-2024,145
+San Francisco,San Diego,10-02-2024,140
+Seattle,San Diego,10-02-2024,122
+Chicago,San Diego,11-02-2024,149
+Los Angeles,San Diego,11-02-2024,43
+NYC,San Diego,11-02-2024,138
+San Francisco,San Diego,11-02-2024,97
+Seattle,San Diego,11-02-2024,91
+Chicago,San Diego,12-02-2024,183
+Los Angeles,San Diego,12-02-2024,63
+NYC,San Diego,12-02-2024,116
+San Francisco,San Diego,12-02-2024,118
+Seattle,San Diego,12-02-2024,76
+Chicago,San Diego,13-02-2024,130
+Los Angeles,San Diego,13-02-2024,45
+NYC,San Diego,13-02-2024,152
+San Francisco,San Diego,13-02-2024,91
+Seattle,San Diego,13-02-2024,99
+Chicago,San Diego,14-02-2024,175
+Los Angeles,San Diego,14-02-2024,53
+NYC,San Diego,14-02-2024,103
+San Francisco,San Diego,14-02-2024,73
+Seattle,San Diego,14-02-2024,81
+Chicago,San Diego,15-02-2024,143
+Los Angeles,San Diego,15-02-2024,38
+NYC,San Diego,15-02-2024,115
+San Francisco,San Diego,15-02-2024,154
+Seattle,San Diego,15-02-2024,107
+Chicago,San Diego,16-02-2024,129
+Los Angeles,San Diego,16-02-2024,38
+NYC,San Diego,16-02-2024,146
+San Francisco,San Diego,16-02-2024,104
+Seattle,San Diego,16-02-2024,106
+Chicago,San Diego,17-02-2024,139
+Los Angeles,San Diego,17-02-2024,65
+NYC,San Diego,17-02-2024,129
+San Francisco,San Diego,17-02-2024,120
+Seattle,San Diego,17-02-2024,122
+Chicago,San Diego,18-02-2024,187
+Los Angeles,San Diego,18-02-2024,81
+NYC,San Diego,18-02-2024,122
+San Francisco,San Diego,18-02-2024,154
+Seattle,San Diego,18-02-2024,105
+Chicago,San Diego,19-02-2024,168
+Los Angeles,San Diego,19-02-2024,119
+NYC,San Diego,19-02-2024,130
+San Francisco,San Diego,19-02-2024,122
+Seattle,San Diego,19-02-2024,108
+Chicago,San Diego,20-02-2024,96
+Los Angeles,San Diego,20-02-2024,53
+NYC,San Diego,20-02-2024,140
+San Francisco,San Diego,20-02-2024,95
+Seattle,San Diego,20-02-2024,68
+Chicago,San Diego,21-02-2024,131
+Los Angeles,San Diego,21-02-2024,104
+NYC,San Diego,21-02-2024,151
+San Francisco,San Diego,21-02-2024,114
+Seattle,San Diego,21-02-2024,124
+Chicago,San Diego,22-02-2024,169
+Los Angeles,San Diego,22-02-2024,97
+NYC,San Diego,22-02-2024,128
+San Francisco,San Diego,22-02-2024,65
+Seattle,San Diego,22-02-2024,81
+Chicago,San Diego,23-02-2024,75
+Los Angeles,San Diego,23-02-2024,102
+NYC,San Diego,23-02-2024,142
+San Francisco,San Diego,23-02-2024,89
+Seattle,San Diego,23-02-2024,126
+Chicago,San Diego,24-02-2024,180
+Los Angeles,San Diego,24-02-2024,45
+NYC,San Diego,24-02-2024,129
+San Francisco,San Diego,24-02-2024,63
+Seattle,San Diego,24-02-2024,90
+Chicago,San Diego,25-02-2024,120
+Los Angeles,San Diego,25-02-2024,92
+NYC,San Diego,25-02-2024,118
+San Francisco,San Diego,25-02-2024,120
+Seattle,San Diego,25-02-2024,115
+Chicago,San Diego,26-02-2024,161
+Los Angeles,San Diego,26-02-2024,37
+NYC,San Diego,26-02-2024,102
+San Francisco,San Diego,26-02-2024,138
+Seattle,San Diego,26-02-2024,67
+Chicago,San Diego,27-02-2024,82
+Los Angeles,San Diego,27-02-2024,82
+NYC,San Diego,27-02-2024,108
+San Francisco,San Diego,27-02-2024,77
+Seattle,San Diego,27-02-2024,124
+Chicago,San Diego,28-02-2024,103
+Los Angeles,San Diego,28-02-2024,59
+NYC,San Diego,28-02-2024,149
+San Francisco,San Diego,28-02-2024,115
+Seattle,San Diego,28-02-2024,127
+Chicago,San Diego,29-02-2024,97
+Los Angeles,San Diego,29-02-2024,64
+NYC,San Diego,29-02-2024,133
+San Francisco,San Diego,29-02-2024,141
+Seattle,San Diego,29-02-2024,112
+Chicago,San Francisco,01-02-2024,155
+Los Angeles,San Francisco,01-02-2024,56
+NYC,San Francisco,01-02-2024,178
+San Diego,San Francisco,01-02-2024,148
+Seattle,San Francisco,01-02-2024,150
+Chicago,San Francisco,02-02-2024,141
+Los Angeles,San Francisco,02-02-2024,79
+NYC,San Francisco,02-02-2024,179
+San Diego,San Francisco,02-02-2024,158
+Seattle,San Francisco,02-02-2024,222
+Chicago,San Francisco,03-02-2024,110
+Los Angeles,San Francisco,03-02-2024,74
+NYC,San Francisco,03-02-2024,160
+San Diego,San Francisco,03-02-2024,144
+Seattle,San Francisco,03-02-2024,145
+Chicago,San Francisco,04-02-2024,166
+Los Angeles,San Francisco,04-02-2024,70
+NYC,San Francisco,04-02-2024,143
+San Diego,San Francisco,04-02-2024,120
+Seattle,San Francisco,04-02-2024,70
+Chicago,San Francisco,05-02-2024,136
+Los Angeles,San Francisco,05-02-2024,56
+NYC,San Francisco,05-02-2024,151
+San Diego,San Francisco,05-02-2024,128
+Seattle,San Francisco,05-02-2024,104
+Chicago,San Francisco,06-02-2024,145
+Los Angeles,San Francisco,06-02-2024,72
+NYC,San Francisco,06-02-2024,135
+San Diego,San Francisco,06-02-2024,167
+Seattle,San Francisco,06-02-2024,116
+Chicago,San Francisco,07-02-2024,142
+Los Angeles,San Francisco,07-02-2024,69
+NYC,San Francisco,07-02-2024,150
+San Diego,San Francisco,07-02-2024,92
+Seattle,San Francisco,07-02-2024,78
+Chicago,San Francisco,08-02-2024,125
+Los Angeles,San Francisco,08-02-2024,66
+NYC,San Francisco,08-02-2024,132
+San Diego,San Francisco,08-02-2024,71
+Seattle,San Francisco,08-02-2024,159
+Chicago,San Francisco,09-02-2024,124
+Los Angeles,San Francisco,09-02-2024,72
+NYC,San Francisco,09-02-2024,100
+San Diego,San Francisco,09-02-2024,149
+Seattle,San Francisco,09-02-2024,181
+Chicago,San Francisco,10-02-2024,97
+Los Angeles,San Francisco,10-02-2024,66
+NYC,San Francisco,10-02-2024,149
+San Diego,San Francisco,10-02-2024,129
+Seattle,San Francisco,10-02-2024,72
+Chicago,San Francisco,11-02-2024,183
+Los Angeles,San Francisco,11-02-2024,65
+NYC,San Francisco,11-02-2024,160
+San Diego,San Francisco,11-02-2024,154
+Seattle,San Francisco,11-02-2024,85
+Chicago,San Francisco,12-02-2024,109
+Los Angeles,San Francisco,12-02-2024,79
+NYC,San Francisco,12-02-2024,111
+San Diego,San Francisco,12-02-2024,63
+Seattle,San Francisco,12-02-2024,91
+Chicago,San Francisco,13-02-2024,153
+Los Angeles,San Francisco,13-02-2024,52
+NYC,San Francisco,13-02-2024,128
+San Diego,San Francisco,13-02-2024,77
+Seattle,San Francisco,13-02-2024,112
+Chicago,San Francisco,14-02-2024,167
+Los Angeles,San Francisco,14-02-2024,66
+NYC,San Francisco,14-02-2024,144
+San Diego,San Francisco,14-02-2024,157
+Seattle,San Francisco,14-02-2024,117
+Chicago,San Francisco,15-02-2024,142
+Los Angeles,San Francisco,15-02-2024,61
+NYC,San Francisco,15-02-2024,113
+San Diego,San Francisco,15-02-2024,67
+Seattle,San Francisco,15-02-2024,93
+Chicago,San Francisco,16-02-2024,178
+Los Angeles,San Francisco,16-02-2024,74
+NYC,San Francisco,16-02-2024,179
+San Diego,San Francisco,16-02-2024,72
+Seattle,San Francisco,16-02-2024,86
+Chicago,San Francisco,17-02-2024,113
+Los Angeles,San Francisco,17-02-2024,78
+NYC,San Francisco,17-02-2024,111
+San Diego,San Francisco,17-02-2024,54
+Seattle,San Francisco,17-02-2024,125
+Chicago,San Francisco,18-02-2024,103
+Los Angeles,San Francisco,18-02-2024,54
+NYC,San Francisco,18-02-2024,168
+San Diego,San Francisco,18-02-2024,154
+Seattle,San Francisco,18-02-2024,209
+Chicago,San Francisco,19-02-2024,123
+Los Angeles,San Francisco,19-02-2024,60
+NYC,San Francisco,19-02-2024,171
+San Diego,San Francisco,19-02-2024,127
+Seattle,San Francisco,19-02-2024,134
+Chicago,San Francisco,20-02-2024,103
+Los Angeles,San Francisco,20-02-2024,73
+NYC,San Francisco,20-02-2024,138
+San Diego,San Francisco,20-02-2024,88
+Seattle,San Francisco,20-02-2024,80
+Chicago,San Francisco,21-02-2024,161
+Los Angeles,San Francisco,21-02-2024,69
+NYC,San Francisco,21-02-2024,155
+San Diego,San Francisco,21-02-2024,85
+Seattle,San Francisco,21-02-2024,198
+Chicago,San Francisco,22-02-2024,94
+Los Angeles,San Francisco,22-02-2024,60
+NYC,San Francisco,22-02-2024,116
+San Diego,San Francisco,22-02-2024,84
+Seattle,San Francisco,22-02-2024,126
+Chicago,San Francisco,23-02-2024,148
+Los Angeles,San Francisco,23-02-2024,56
+NYC,San Francisco,23-02-2024,123
+San Diego,San Francisco,23-02-2024,128
+Seattle,San Francisco,23-02-2024,193
+Chicago,San Francisco,24-02-2024,177
+Los Angeles,San Francisco,24-02-2024,64
+NYC,San Francisco,24-02-2024,136
+San Diego,San Francisco,24-02-2024,107
+Seattle,San Francisco,24-02-2024,85
+Chicago,San Francisco,25-02-2024,123
+Los Angeles,San Francisco,25-02-2024,76
+NYC,San Francisco,25-02-2024,151
+San Diego,San Francisco,25-02-2024,150
+Seattle,San Francisco,25-02-2024,122
+Chicago,San Francisco,26-02-2024,95
+Los Angeles,San Francisco,26-02-2024,53
+NYC,San Francisco,26-02-2024,160
+San Diego,San Francisco,26-02-2024,157
+Seattle,San Francisco,26-02-2024,69
+Chicago,San Francisco,27-02-2024,179
+Los Angeles,San Francisco,27-02-2024,78
+NYC,San Francisco,27-02-2024,179
+San Diego,San Francisco,27-02-2024,108
+Seattle,San Francisco,27-02-2024,100
+Chicago,San Francisco,28-02-2024,157
+Los Angeles,San Francisco,28-02-2024,70
+NYC,San Francisco,28-02-2024,125
+San Diego,San Francisco,28-02-2024,54
+Seattle,San Francisco,28-02-2024,224
+Chicago,San Francisco,29-02-2024,108
+Los Angeles,San Francisco,29-02-2024,53
+NYC,San Francisco,29-02-2024,118
+San Diego,San Francisco,29-02-2024,86
+Seattle,San Francisco,29-02-2024,163
+Chicago,Seattle,01-02-2024,113
+Los Angeles,Seattle,01-02-2024,98
+NYC,Seattle,01-02-2024,141
+San Diego,Seattle,01-02-2024,71
+San Francisco,Seattle,01-02-2024,144
+Chicago,Seattle,02-02-2024,99
+Los Angeles,Seattle,02-02-2024,82
+NYC,Seattle,02-02-2024,127
+San Diego,Seattle,02-02-2024,80
+San Francisco,Seattle,02-02-2024,216
+Chicago,Seattle,03-02-2024,99
+Los Angeles,Seattle,03-02-2024,94
+NYC,Seattle,03-02-2024,150
+San Diego,Seattle,03-02-2024,96
+San Francisco,Seattle,03-02-2024,80
+Chicago,Seattle,04-02-2024,78
+Los Angeles,Seattle,04-02-2024,90
+NYC,Seattle,04-02-2024,157
+San Diego,Seattle,04-02-2024,124
+San Francisco,Seattle,04-02-2024,122
+Chicago,Seattle,05-02-2024,160
+Los Angeles,Seattle,05-02-2024,87
+NYC,Seattle,05-02-2024,115
+San Diego,Seattle,05-02-2024,128
+San Francisco,Seattle,05-02-2024,155
+Chicago,Seattle,06-02-2024,187
+Los Angeles,Seattle,06-02-2024,67
+NYC,Seattle,06-02-2024,129
+San Diego,Seattle,06-02-2024,93
+San Francisco,Seattle,06-02-2024,115
+Chicago,Seattle,07-02-2024,63
+Los Angeles,Seattle,07-02-2024,97
+NYC,Seattle,07-02-2024,152
+San Diego,Seattle,07-02-2024,133
+San Francisco,Seattle,07-02-2024,195
+Chicago,Seattle,08-02-2024,179
+Los Angeles,Seattle,08-02-2024,125
+NYC,Seattle,08-02-2024,128
+San Diego,Seattle,08-02-2024,156
+San Francisco,Seattle,08-02-2024,79
+Chicago,Seattle,09-02-2024,179
+Los Angeles,Seattle,09-02-2024,89
+NYC,Seattle,09-02-2024,144
+San Diego,Seattle,09-02-2024,64
+San Francisco,Seattle,09-02-2024,65
+Chicago,Seattle,10-02-2024,117
+Los Angeles,Seattle,10-02-2024,116
+NYC,Seattle,10-02-2024,127
+San Diego,Seattle,10-02-2024,122
+San Francisco,Seattle,10-02-2024,84
+Chicago,Seattle,11-02-2024,186
+Los Angeles,Seattle,11-02-2024,68
+NYC,Seattle,11-02-2024,120
+San Diego,Seattle,11-02-2024,162
+San Francisco,Seattle,11-02-2024,171
+Chicago,Seattle,12-02-2024,174
+Los Angeles,Seattle,12-02-2024,64
+NYC,Seattle,12-02-2024,136
+San Diego,Seattle,12-02-2024,128
+San Francisco,Seattle,12-02-2024,186
+Chicago,Seattle,13-02-2024,124
+Los Angeles,Seattle,13-02-2024,93
+NYC,Seattle,13-02-2024,114
+San Diego,Seattle,13-02-2024,91
+San Francisco,Seattle,13-02-2024,117
+Chicago,Seattle,14-02-2024,72
+Los Angeles,Seattle,14-02-2024,91
+NYC,Seattle,14-02-2024,134
+San Diego,Seattle,14-02-2024,163
+San Francisco,Seattle,14-02-2024,92
+Chicago,Seattle,15-02-2024,105
+Los Angeles,Seattle,15-02-2024,121
+NYC,Seattle,15-02-2024,158
+San Diego,Seattle,15-02-2024,77
+San Francisco,Seattle,15-02-2024,147
+Chicago,Seattle,16-02-2024,126
+Los Angeles,Seattle,16-02-2024,59
+NYC,Seattle,16-02-2024,126
+San Diego,Seattle,16-02-2024,155
+San Francisco,Seattle,16-02-2024,191
+Chicago,Seattle,17-02-2024,176
+Los Angeles,Seattle,17-02-2024,65
+NYC,Seattle,17-02-2024,118
+San Diego,Seattle,17-02-2024,141
+San Francisco,Seattle,17-02-2024,93
+Chicago,Seattle,18-02-2024,87
+Los Angeles,Seattle,18-02-2024,109
+NYC,Seattle,18-02-2024,117
+San Diego,Seattle,18-02-2024,159
+San Francisco,Seattle,18-02-2024,206
+Chicago,Seattle,19-02-2024,106
+Los Angeles,Seattle,19-02-2024,106
+NYC,Seattle,19-02-2024,137
+San Diego,Seattle,19-02-2024,60
+San Francisco,Seattle,19-02-2024,68
+Chicago,Seattle,20-02-2024,89
+Los Angeles,Seattle,20-02-2024,93
+NYC,Seattle,20-02-2024,146
+San Diego,Seattle,20-02-2024,65
+San Francisco,Seattle,20-02-2024,138
+Chicago,Seattle,21-02-2024,115
+Los Angeles,Seattle,21-02-2024,60
+NYC,Seattle,21-02-2024,142
+San Diego,Seattle,21-02-2024,153
+San Francisco,Seattle,21-02-2024,105
+Chicago,Seattle,22-02-2024,112
+Los Angeles,Seattle,22-02-2024,57
+NYC,Seattle,22-02-2024,123
+San Diego,Seattle,22-02-2024,95
+San Francisco,Seattle,22-02-2024,134
+Chicago,Seattle,23-02-2024,120
+Los Angeles,Seattle,23-02-2024,89
+NYC,Seattle,23-02-2024,121
+San Diego,Seattle,23-02-2024,169
+San Francisco,Seattle,23-02-2024,102
+Chicago,Seattle,24-02-2024,101
+Los Angeles,Seattle,24-02-2024,67
+NYC,Seattle,24-02-2024,138
+San Diego,Seattle,24-02-2024,79
+San Francisco,Seattle,24-02-2024,139
+Chicago,Seattle,25-02-2024,73
+Los Angeles,Seattle,25-02-2024,102
+NYC,Seattle,25-02-2024,148
+San Diego,Seattle,25-02-2024,88
+San Francisco,Seattle,25-02-2024,143
+Chicago,Seattle,26-02-2024,72
+Los Angeles,Seattle,26-02-2024,113
+NYC,Seattle,26-02-2024,146
+San Diego,Seattle,26-02-2024,90
+San Francisco,Seattle,26-02-2024,155
+Chicago,Seattle,27-02-2024,183
+Los Angeles,Seattle,27-02-2024,118
+NYC,Seattle,27-02-2024,135
+San Diego,Seattle,27-02-2024,110
+San Francisco,Seattle,27-02-2024,100
+Chicago,Seattle,28-02-2024,76
+Los Angeles,Seattle,28-02-2024,91
+NYC,Seattle,28-02-2024,131
+San Diego,Seattle,28-02-2024,72
+San Francisco,Seattle,28-02-2024,81
+Chicago,Seattle,29-02-2024,175
+Los Angeles,Seattle,29-02-2024,112
+NYC,Seattle,29-02-2024,121
+San Diego,Seattle,29-02-2024,75
+San Francisco,Seattle,29-02-2024,83

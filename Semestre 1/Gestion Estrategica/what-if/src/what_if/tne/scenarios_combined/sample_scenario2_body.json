@@ -1,0 +1,39 @@
+{
+    "trips": [
+      {
+        "origin": "NYC",
+        "destination": "string",
+        "start_date": "2024-01-12",
+        "end_date": "2024-01-20",
+        "num_travelers": 4,
+        "max_nights": 0,
+        "flight_class": "string",
+        "airline": "string",
+        "time_of_flight": "string",
+        "hotel_stars": 0,
+        "amenities": [
+          "string"
+        ]
+      },{
+        "origin": "Los Angeles",
+        "destination": "string",
+        "start_date": "2024-01-12",
+        "end_date": "2024-01-20",
+        "num_travelers": 8,
+        "max_nights": 0,
+        "flight_class": "string",
+        "airline": "string",
+        "time_of_flight": "string",
+        "hotel_stars": 0,
+        "amenities": [
+          "string"
+        ]
+      }
+    ],
+    "budget": 0,
+    "number_days_before_after":1,
+    "open_for_date_change": true,
+    "open_for_destination_change": false,
+    "algorithms":["Annealing","Tabu Search","Genetic Algorithm"],
+    "potential_destinations":["Seattle","Chicago","San Francisco","NYC","San Diego" ]
+  }
