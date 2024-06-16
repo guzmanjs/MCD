@@ -8,6 +8,8 @@ Se crea este repositorio con el fin de alojar los archivos de trabajo y proyecto
 
 ## Insignias
 
+![alt text](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe-Acrobat-Reader&logoColor=white)
+
 Insignias que muestran metadatos como el estado de la compilación, la cobertura de las pruebas, el estado de las dependencias, etc.
 
 ## Visuales
