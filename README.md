@@ -1,6 +1,6 @@
 
 
-# Repositorio de trabajo para la maestría de Ciencia de Datos
+# Repositorio de trabajo: Maestría en Ciencia de Datos
 
 ## Descripción
 
