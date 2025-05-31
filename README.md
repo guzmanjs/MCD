@@ -108,7 +108,6 @@ Usamos [Git](https://git-scm.com) para el versionado. Para las versiones disponi
 
 ## Autores ✒️
 
-- **Brayan Diaz C** - _Trabajo inicial_ - [Brayan Diaz C](https://github.com/brayandiazc)
 
 Mira también la lista de [contribuidores](https://github.com/your/project/contributors) que han participado en este proyecto.
 
